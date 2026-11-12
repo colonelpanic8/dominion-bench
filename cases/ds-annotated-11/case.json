@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-11",
+  "title": "DS Annotated Game #11: Ambassador, Warehouse, Tunnel, Apprentice, Conspirator (Colonies)",
+  "source_type": "annotated-game",
+  "date": "2012-04-23",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2012/04/20/annotated-game-11-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2012/04/23/annotated-game-11/",
+      "kind": "annotated-game",
+      "author": "theory (loser) vs Captain_Frisk",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "theory's pre-game analysis lays out three concrete lines; the game and a post-game test inform which worked. 2012-era thinking.",
+  "kingdom": {
+    "cards": [
+      "Scrying Pool",
+      "Scheme",
+      "Warehouse",
+      "Apprentice",
+      "Harvest",
+      "Ambassador",
+      "Tunnel",
+      "Conspirator",
+      "Counting House",
+      "Bank"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2012 Isotropic game, first editions. Ambassador (Seaside), Harvest (Cornucopia) and Counting House (Prosperity) are first-edition only."
+}

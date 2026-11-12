@@ -1,0 +1,61 @@
+{
+  "id": "oc-2025-final-g3",
+  "title": "2025 Online Championship final, game 3: Joust, Haunted Woods, Innkeeper, Baths",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=MhlRn5rrlbU",
+      "kind": "video",
+      "author": "JNails, co-commentary jonts",
+      "note": "Part 1 of the neutral commentary (games 1-3)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AWDONuwsN74",
+      "kind": "video",
+      "author": "JNails, co-commentary jonts",
+      "note": "Part 2 of the neutral commentary (games 4-6)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kWZyqrCn-ws",
+      "kind": "video",
+      "author": "VRSmith",
+      "note": "Player's own live commentary of the whole match"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Detailed commentary on openings and Rewards, but the winner opened Envoy, which all three voices called wrong; the result is noisy.",
+  "kingdom": {
+    "cards": [
+      "Haunted Woods",
+      "Joust",
+      "Library",
+      "Treasury",
+      "Witch's Hut",
+      "Chariot Race",
+      "Sheepdog",
+      "Envoy",
+      "Innkeeper",
+      "Figurine"
+    ],
+    "landscapes": [
+      "Baths"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Joust's Rewards pile is in use (Coronet, Courser, Demesne, Housecarl, Huge Turnip, Renown).",
+    "extra_cards": [
+      "Coronet",
+      "Courser",
+      "Demesne",
+      "Housecarl",
+      "Huge Turnip",
+      "Renown"
+    ]
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

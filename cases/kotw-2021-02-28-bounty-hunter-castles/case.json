@@ -1,0 +1,42 @@
+{
+  "id": "kotw-2021-02-28-bounty-hunter-castles",
+  "title": "KotW 2/28/2021: Groom, Cemetery, Catapult, Battlefield",
+  "source_type": "reddit-kotw",
+  "date": "2021-02-28",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/lv2jj2/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "11 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Opening debate (Groom with Stockpile, Patrician or Catapult) among regulars, plus a 6-player game report; no settled plan.",
+  "kingdom": {
+    "cards": [
+      "Bounty Hunter",
+      "Castles",
+      "Catapult",
+      "Cemetery",
+      "Crown",
+      "Destrier",
+      "Devil's Workshop",
+      "Groom",
+      "Patrician",
+      "Stockpile"
+    ],
+    "landscapes": [
+      "Battlefield"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Cemetery's Heirloom: each player starts with a Haunted Mirror in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

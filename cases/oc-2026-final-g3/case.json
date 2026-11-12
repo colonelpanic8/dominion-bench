@@ -1,0 +1,42 @@
+{
+  "id": "oc-2026-final-g3",
+  "title": "2026 Online Championship final, game 3: Horn of Plenty, Overlord, Upgrade, Scrounge",
+  "source_type": "commentated-match",
+  "date": "2026-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=3oj4O-lLaH4",
+      "kind": "video",
+      "author": "Second Shuffle: Lemonspawn and Sharur",
+      "note": "Neutral commentary of the 2026 Online Championship final, agoo03 vs yurikamome (agoo03 won 3.5-1.5)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Both commentators and strong spectators agree on a Horn of Plenty megaturn and argue concretely about how many Horns; agoo03 won with it.",
+  "kingdom": {
+    "cards": [
+      "Council Room",
+      "Horn of Plenty",
+      "Inn",
+      "Patrol",
+      "Upgrade",
+      "Overlord",
+      "Forager",
+      "Walled Village",
+      "Golem",
+      "Bandit Camp"
+    ],
+    "landscapes": [
+      "Scrounge"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online wording; kingdom read from the video."
+}

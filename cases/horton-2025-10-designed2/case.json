@@ -1,0 +1,49 @@
+{
+  "id": "horton-2025-10-designed2",
+  "title": "Horton 2025-10 Designed Kingdom 2: Wharf, Crystal Ball, Way of the Turtle, Plan, Colonies",
+  "source_type": "designed-tournament",
+  "date": "2025-10",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/october-2025-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "October 2025 Tournament Summary; Designed Kingdom 2, designed and playtested by Horton"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1i-xyLMNrixItE8fQi91r3od4uZAdHhdTSi86wCznmnw",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' or 'Kingdoms' tab)"
+    }
+  ],
+  "quality": "A",
+  "quality_note": "Designer gives a concrete opening and build priorities from playtesting.",
+  "kingdom": {
+    "cards": [
+      "Crystal Ball",
+      "Wharf",
+      "Treasurer",
+      "Oasis",
+      "Faithful Hound",
+      "Scavenger",
+      "Trader",
+      "Snake Witch",
+      "Pirate",
+      "Forager"
+    ],
+    "landscapes": [
+      "Plan",
+      "Way of the Turtle"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule for this kingdom: players may arrange their starting decks, but 5/2 and 2/5 openings are not allowed (4/3 only).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Played with current (2024+) errata."
+}

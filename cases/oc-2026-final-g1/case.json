@@ -1,0 +1,43 @@
+{
+  "id": "oc-2026-final-g1",
+  "title": "2026 Online Championship final, game 1: Vineyard, Litter, Border Guard, Jester",
+  "source_type": "commentated-match",
+  "date": "2026-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=3oj4O-lLaH4",
+      "kind": "video",
+      "author": "Second Shuffle: Lemonspawn and Sharur",
+      "note": "Neutral commentary of the 2026 Online Championship final, agoo03 vs yurikamome (agoo03 won 3.5-1.5)"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Commentary joined at turn 5 with no pre-game read; scattered remarks on Litter, Patrol and Jester. The pile-out with Vineyards is read from the result.",
+  "kingdom": {
+    "cards": [
+      "Tunnel",
+      "Council Room",
+      "Jester",
+      "Litter",
+      "Patrol",
+      "Vineyard",
+      "Border Guard",
+      "Cage",
+      "Astrolabe",
+      "Market Square"
+    ],
+    "landscapes": [
+      "Way of the Squirrel",
+      "Seaway"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online wording; kingdom read from the video."
+}

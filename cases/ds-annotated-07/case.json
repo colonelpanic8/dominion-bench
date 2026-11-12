@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-07",
+  "title": "DS Annotated Game #7: University, Wharf, Bazaar, Transmute, Lookout",
+  "source_type": "annotated-game",
+  "date": "2011-04-18",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/04/15/annotated-game-7-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/04/18/guest-article-annotated-game-7/",
+      "kind": "annotated-game",
+      "author": "Kemps vs spazard1",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Written by the winner, who says his decisive card (Transmute) was an afterthought; the editor doubts his deck had the edge. One game, 2011.",
+  "kingdom": {
+    "cards": [
+      "Transmute",
+      "University",
+      "Conspirator",
+      "Ironworks",
+      "Trading Post",
+      "Scrying Pool",
+      "Lookout",
+      "Cutpurse",
+      "Bazaar",
+      "Wharf"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions. Trading Post is first-edition Intrigue."
+}

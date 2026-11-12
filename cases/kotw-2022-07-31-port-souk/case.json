@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-07-31-port-souk",
+  "title": "KotW 7/31/2022: Plan, Port, Souk, Magpie",
+  "source_type": "reddit-kotw",
+  "date": "2022-07-31",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/wd2dib/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments; detailed openings"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Three detailed analyses (willowhelmiam, SignError with odds and a game, IlstrawberrySeed) converge on Silver/Plan-on-Port into Souk, with Magpie/Plan as the alternative.",
+  "kingdom": {
+    "cards": [
+      "Cauldron",
+      "Gear",
+      "Magpie",
+      "Nomads",
+      "Port",
+      "Raze",
+      "Souk",
+      "Squire",
+      "Storeroom",
+      "Vagrant"
+    ],
+    "landscapes": [
+      "Plan",
+      "Travelling Fair"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies not stated.",
+  "edition": ""
+}

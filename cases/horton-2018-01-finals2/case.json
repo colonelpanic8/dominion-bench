@@ -1,0 +1,49 @@
+{
+  "id": "horton-2018-01-finals2",
+  "title": "Horton Winter 2018 finals 2: Counting House, Minion, Council Room, Travelling Fair",
+  "source_type": "designed-tournament",
+  "date": "2018-01-27",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-winter-2018-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Designer write-up of finals kingdom 2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/157OUhmokdmk66rfpRH-3IETMpEVitjvHDyI3aolrXes",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom list"
+    }
+  ],
+  "quality": "A",
+  "quality_note": "Designed and playtested with three named decks and a stated verdict on which is strongest.",
+  "kingdom": {
+    "cards": [
+      "Counting House",
+      "Minion",
+      "Royal Carriage",
+      "Distant Lands",
+      "Council Room",
+      "Ghost Town",
+      "Storeroom",
+      "Leprechaun",
+      "Coin of the Realm",
+      "Chapel"
+    ],
+    "landscapes": [
+      "Travelling Fair",
+      "Fountain"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Counting House."
+}

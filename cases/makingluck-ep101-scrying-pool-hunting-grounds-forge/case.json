@@ -1,0 +1,26 @@
+{
+  "id": "makingluck-ep101-scrying-pool-hunting-grounds-forge",
+  "title": "Making Luck ep. 100/101: Scrying Pool, Hunting Grounds, Coin of the Realm, Forge, Noble Brigand",
+  "source_type": "podcast",
+  "date": "2020-03-24",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=RQk58SzbZd0&t=3622s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 100 (2020-02-28), 60:22-75:00: first-look analysis, kingdom shown on screen"},
+    {"url": "https://www.youtube.com/watch?v=KZk0j3QU2m4&t=380s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 101 (2020-03-24), 6:20-15:00: review after playtesting several games"},
+    {"url": "https://ia601409.us.archive.org/24/items/ep101_still_got_it/ep101_still_got_it.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "ep. 101 audio"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players analysed it on ep. 100, then played a number of games against each other and reported back on ep. 101 with tested conclusions.",
+  "kingdom": {
+    "cards": ["Beggar", "Coin of the Realm", "Encampment", "Forge", "Hunting Grounds", "Mandarin", "Noble Brigand", "Scholar", "Scrying Pool", "Trader"],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Mandarin and Noble Brigand. Read from the kingdom shown in the ep. 100 video."
+}

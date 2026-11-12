@@ -1,0 +1,43 @@
+{
+  "id": "oc-2025-semifinal-g2",
+  "title": "2025 Online Championship semifinal, game 2: Hunting Grounds, Remodel, Jester, City",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=e2dIV5xzXTo",
+      "kind": "video",
+      "author": "Lemonspawn's Dominion Videos; commentary Lemonspawn and Stef",
+      "note": "Game 2 at 27:00-53:00; VRSmith (first) vs jonts"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Two strong players commentating with concrete opening and midgame advice; the winner's pile-out with Remodel and Hunting Grounds is clear on screen and in chat, though commentators didn't predict it pre-game.",
+  "kingdom": {
+    "cards": [
+      "Remodel",
+      "City",
+      "Crystal Ball",
+      "Jester",
+      "Hunting Grounds",
+      "Castles",
+      "Dungeon",
+      "Crucible",
+      "Feodum",
+      "Moneylender"
+    ],
+    "landscapes": [
+      "Seaway",
+      "Asceticism"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

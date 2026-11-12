@@ -1,0 +1,26 @@
+{
+  "id": "makingluck-ep013-overlord-governor-ambassador",
+  "title": "Making Luck ep. 13 (ep. 12 kingdom): Overlord, Governor, Ambassador, Procession",
+  "source_type": "podcast",
+  "date": "2018-02-20",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=7u22GM7PiYg&t=217s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 13, review of the previous episode's kingdom after playing it, about 3:37-12:40 (audio timestamps)"},
+    {"url": "https://ia601509.us.archive.org/30/items/ep013_take_that_marissa/ep013_take_that_marissa.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"},
+    {"url": "https://www.youtube.com/watch?v=OGTbB0vMVz0&t=3773s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 12, kingdom presented with a pre-game read, about 62:53-68:50; only garbled auto-captions available"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players played several games and agree on the plan; one host's pre-game opening was revised after play.",
+  "kingdom": {
+    "cards": ["Ambassador", "City", "Envoy", "Governor", "Haggler", "Lookout", "Overlord", "Procession", "Royal Blacksmith", "Wishing Well"],
+    "landscapes": ["Arena", "Triumphal Arch"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Ambassador. Kingdom list from the episode description."
+}

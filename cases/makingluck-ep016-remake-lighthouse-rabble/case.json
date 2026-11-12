@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep016-remake-lighthouse-rabble",
+  "title": "Making Luck ep. 16 (ep. 15 kingdom): City Quarter, Remake, Lighthouse, Rabble, Soothsayer",
+  "source_type": "podcast",
+  "date": "2018-03-13",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=D7wIa56lgSA&t=278s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 16, review of the previous episode's kingdom after playing it, about 4:38-19:58 (audio timestamps)"},
+    {"url": "https://ia601500.us.archive.org/17/items/ep016_the_dogs_farting_habits/ep016_the_dogs_farting_habits.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players played several games and agree on the core plan, but split on City Quarter, Prince and mid-game Count.",
+  "kingdom": {
+    "cards": ["City Quarter", "Count", "Ill-Gotten Gains", "Lighthouse", "Nomad Camp", "Port", "Prince", "Rabble", "Remake", "Soothsayer"],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Nomad Camp and Ill-Gotten Gains. Kingdom list from the episode description; the hosts mostly played without Shelters."
+}

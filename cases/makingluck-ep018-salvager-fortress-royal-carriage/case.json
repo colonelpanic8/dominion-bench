@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep018-salvager-fortress-royal-carriage",
+  "title": "Making Luck ep. 18 (ep. 17 kingdom): Salvager, Fortress, Royal Carriage, Swindler, Defiled Shrine",
+  "source_type": "podcast",
+  "date": "2018-04-03",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=Fw-q_ZywLNM&t=355s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 18, review of the ep. 17 kingdom after playing it (games live-streamed), about 5:55-16:10 (audio timestamps)"},
+    {"url": "https://ia601508.us.archive.org/12/items/ep018_take_you_to_province_town/ep018_take_you_to_province_town.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players played many games and agree on the plan; the one pre-game disagreement (5/2 opening) was settled by play.",
+  "kingdom": {
+    "cards": ["Beggar", "Catacombs", "Fortress", "Gear", "Guide", "Margrave", "Royal Carriage", "Salvager", "Scavenger", "Swindler"],
+    "landscapes": ["Defiled Shrine"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom list from the episode description. Shelters not mentioned."
+}

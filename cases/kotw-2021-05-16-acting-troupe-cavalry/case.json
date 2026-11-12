@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-05-16-acting-troupe-cavalry",
+  "title": "KotW 5/16/2021: Ironworks, Courtier, Village Green, Cavalry",
+  "source_type": "reddit-kotw",
+  "date": "2021-05-16",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/ne7oyd/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "12 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "One detailed plan (EphesosX: Ironworks build, Courtier on Village Green); PathfindingLibrary and treelorf accept its core but reject its early greening and Pageant.",
+  "kingdom": {
+    "cards": [
+      "Acting Troupe",
+      "Cavalry",
+      "Courtier",
+      "Ironworks",
+      "Minion",
+      "Patron",
+      "Supplies",
+      "Swashbuckler",
+      "Village Green",
+      "Wishing Well"
+    ],
+    "landscapes": [
+      "Pageant",
+      "Way of the Goat"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

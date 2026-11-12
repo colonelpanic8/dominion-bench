@@ -1,0 +1,44 @@
+{
+  "id": "worldcup-2026-final-m3-g6",
+  "title": "2026 World Cup final, Minionpawn vs yurikamome, game 6: Bridge, Herald, Cage, Outpost, Colonies",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=hY-_wubT4nw&t=8550",
+      "kind": "video",
+      "author": "JNails, co-commentary drsteelhammer",
+      "note": "Game 6 at 2:22:30-2:39:00; yurikamome beat Minionpawn"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Clear pre-game read (thin Bridge mega-turn with Herald draw, Cage, Outpost, Colony); the game was decided by Minionpawn's very bad early shuffles.",
+  "kingdom": {
+    "cards": [
+      "Island",
+      "Walled Village",
+      "Guildmaster",
+      "Outpost",
+      "Sack of Loot",
+      "Cage",
+      "Caravan Guard",
+      "Bridge",
+      "Herald",
+      "Investment"
+    ],
+    "landscapes": [
+      "Circle of Witches",
+      "Way of the Seal",
+      "Maelstrom"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Guildmaster is a Liaison, so Circle of Witches is the Ally.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

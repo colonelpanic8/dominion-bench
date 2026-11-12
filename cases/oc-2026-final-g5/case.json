@@ -1,0 +1,43 @@
+{
+  "id": "oc-2026-final-g5",
+  "title": "2026 Online Championship final, game 5: Sentinel, Tools, Caravan, Villa, Innovation",
+  "source_type": "commentated-match",
+  "date": "2026-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=3oj4O-lLaH4",
+      "kind": "video",
+      "author": "Second Shuffle: Lemonspawn and Sharur",
+      "note": "Neutral commentary of the 2026 Online Championship final, agoo03 vs yurikamome (agoo03 won 3.5-1.5)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Concrete pre-game opening read that both players followed; commentators then argued at length that both underplayed Innovation and Lost City. The game tied 33-33.",
+  "kingdom": {
+    "cards": [
+      "Villa",
+      "Band of Misfits",
+      "Junk Dealer",
+      "Lost City",
+      "Vault",
+      "Lighthouse",
+      "Sentinel",
+      "Caravan",
+      "Harbor Village",
+      "Tools"
+    ],
+    "landscapes": [
+      "Innovation",
+      "Borrow"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online wording; kingdom read from the video."
+}

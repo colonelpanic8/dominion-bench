@@ -1,0 +1,42 @@
+{
+  "id": "worldcup-2026-final-m1-g2",
+  "title": "2026 World Cup final, Fircoal vs kojii, game 2: Relic, Apothecary, Advisor, Pursue",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_2At4CXlgQA&t=2500",
+      "kind": "video",
+      "author": "JNails, co-commentary Paolo99",
+      "note": "Game 2 at 41:40-52:30; kojii beat Fircoal (resignation)"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "A short read (money board, Relic, maybe Apothecary) and a quick game ended by resignation; the commentator's own Apothecary hunch was the one that won.",
+  "kingdom": {
+    "cards": [
+      "Gardens",
+      "Trail",
+      "Relic",
+      "Swap",
+      "Captain",
+      "Apothecary",
+      "Goatherd",
+      "Merchant",
+      "Monkey",
+      "Advisor"
+    ],
+    "landscapes": [
+      "Pursue"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

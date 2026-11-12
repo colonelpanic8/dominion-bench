@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep017-duke-altar-market-square",
+  "title": "Making Luck ep. 17 (ep. 16 kingdom): Duke, Altar, Market Square, Develop, Remodel, Ritual",
+  "source_type": "podcast",
+  "date": "2018-03-20",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=Pn_K22OGgzQ&t=344s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 17, review of the previous episode's kingdom after playing it, about 5:44-18:40 (audio timestamps)"},
+    {"url": "https://ia601504.us.archive.org/1/items/ep017_cycle_of_cycling/ep017_cycle_of_cycling.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players discuss many games (including about three hours of Adam Horton vs Wandering Winder) and agree on the two plans, the counterplay and the opening.",
+  "kingdom": {
+    "cards": ["Altar", "Contraband", "Develop", "Duke", "Jester", "Market Square", "Merchant", "Peddler", "Remodel", "Treasure Map"],
+    "landscapes": ["Ritual", "Aqueduct"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Contraband. Kingdom list from the episode description."
+}

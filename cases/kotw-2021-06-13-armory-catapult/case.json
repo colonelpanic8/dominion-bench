@@ -1,0 +1,42 @@
+{
+  "id": "kotw-2021-06-13-armory-catapult",
+  "title": "KotW 6/13/2021: Recruiter, Fortress, Peasant, Catapult",
+  "source_type": "reddit-kotw",
+  "date": "2021-06-13",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/nzgr8p/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One opening analysis (Hasselhof88) with PathfindingLibrary corrections (Recruiter/Fortress gives unlimited Actions, +Card token on Cavalry); a dissent calls Catapult a trap.",
+  "kingdom": {
+    "cards": [
+      "Armory",
+      "Catapult",
+      "Cavalry",
+      "Flag Bearer",
+      "Fortress",
+      "Militia",
+      "Peasant",
+      "Recruiter",
+      "Squire",
+      "Watchtower"
+    ],
+    "landscapes": [
+      "March"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

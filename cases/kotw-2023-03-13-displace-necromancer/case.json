@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2023-03-13-displace-necromancer",
+  "title": "KotW 13 Mar 2023: Displace, Necromancer, Acting Troupe, Destrier",
+  "source_type": "reddit-kotw",
+  "date": "2023-03-13",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/11q4h69/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "14 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Two detailed plans (ppltn, Curebob) and willowhelmiam agree: Displace is the key early $5, Necromancer on Acting Troupe gives Villagers, and Destriers score via Obelisk.",
+  "kingdom": {
+    "cards": [
+      "Moat",
+      "Acting Troupe",
+      "Envoy",
+      "Flag Bearer",
+      "Monument",
+      "Necromancer",
+      "Displace",
+      "Fisherman",
+      "Wild Hunt",
+      "Destrier"
+    ],
+    "landscapes": [
+      "Pursue",
+      "Obelisk"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "Obelisk's chosen pile: Destrier.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Shelters not stated.",
+  "edition": ""
+}

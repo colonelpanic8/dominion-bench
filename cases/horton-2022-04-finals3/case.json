@@ -1,0 +1,49 @@
+{
+  "id": "horton-2022-04-finals3",
+  "title": "Horton Spring 2022 Finals 3: Mint, Crown, Rabble, Way of the Rat, Sheepdog",
+  "source_type": "designed-tournament",
+  "date": "2022-04-09",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-spring-2022-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Spring 2022 Tournament Summary; Finals kingdom 3"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Yf8ZZyyavqIiKeg_rTFl1x-KuDldt_1dtOoN7c4Pc0s",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' tab)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Designer gives the intended synergies and Haven-into-Mint timing; the one recorded game was won by a different opening after a lucky shuffle.",
+  "kingdom": {
+    "cards": [
+      "Mint",
+      "Rabble",
+      "Fairgrounds",
+      "Haven",
+      "Crown",
+      "Animal Fair",
+      "Improve",
+      "Sheepdog",
+      "Leprechaun",
+      "Merchant"
+    ],
+    "landscapes": [
+      "Way of the Rat",
+      "Exploration"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

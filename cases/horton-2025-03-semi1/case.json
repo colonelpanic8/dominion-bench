@@ -1,0 +1,83 @@
+{
+  "id": "horton-2025-03-semi1",
+  "title": "Horton 2025-03 Semifinal Kingdom 1: Way of the Mouse (Black Market), Cemetery, Devil's Workshop",
+  "source_type": "designed-tournament",
+  "date": "2025-03",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/march-2025-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "March 2025 Tournament Summary; Semifinal Kingdom 1, designed and playtested by Horton"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/12E1dAbWrWfyzVCSUhEPvG0ut0CSurOst9er15uUWjeY",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' or 'Kingdoms' tab)"
+    }
+  ],
+  "quality": "A",
+  "quality_note": "Designer states his opening and build from playtesting and explains the Black Market deck's composition.",
+  "kingdom": {
+    "cards": [
+      "Exorcist",
+      "Cemetery",
+      "Fairgrounds",
+      "Devil's Workshop",
+      "Rice",
+      "Gondola",
+      "Collection",
+      "Scepter",
+      "Crystal Ball",
+      "Coin of the Realm"
+    ],
+    "landscapes": [
+      "Way of the Mouse"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. Way of the Mouse's set-aside card is Black Market. The Black Market deck (prepared by the organizer) holds: Apprentice, Black Cat, Catacombs, Council Room, Crew, Envoy, Frigate, Guard Dog, Haunted Woods, Highwayman, Journeyman, Library, Magnate, Mapmaker, Margrave, Masquerade, Militia, Monkey, Ninja, Old Witch, Patrol, Pilgrim, Rabble, Rice Broker, Ronin, Scholar, Sea Witch, Sheepdog, Smithy, Stowaway, Torturer, Wharf, Witch's Hut. The Supply has no Action cards.",
+    "extra_cards": [
+      "Black Market",
+      "Apprentice",
+      "Black Cat",
+      "Catacombs",
+      "Council Room",
+      "Crew",
+      "Envoy",
+      "Frigate",
+      "Guard Dog",
+      "Haunted Woods",
+      "Highwayman",
+      "Journeyman",
+      "Library",
+      "Magnate",
+      "Mapmaker",
+      "Margrave",
+      "Masquerade",
+      "Militia",
+      "Monkey",
+      "Ninja",
+      "Old Witch",
+      "Patrol",
+      "Pilgrim",
+      "Rabble",
+      "Rice Broker",
+      "Ronin",
+      "Scholar",
+      "Sea Witch",
+      "Sheepdog",
+      "Smithy",
+      "Stowaway",
+      "Torturer",
+      "Wharf",
+      "Witch's Hut"
+    ]
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Played with current (2024+) errata."
+}

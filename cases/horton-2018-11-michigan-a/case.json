@@ -1,0 +1,43 @@
+{
+  "id": "horton-2018-11-michigan-a",
+  "title": "U-Con 2018 Set A: Colonies, Chariot Race, Wall, Triumph, Counting House",
+  "source_type": "blog-analysis",
+  "date": "2018-11",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-michigan-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Michigan U-Con 2018 Tournament Summary; Set 2018-A (semifinal)"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Horton's semifinal report: a reasoned Chariot Race plan and a dismissal of Counting House/Storeroom, but no stated result or comparison game.",
+  "kingdom": {
+    "cards": [
+      "Monastery",
+      "Settlers",
+      "Chariot Race",
+      "Storeroom",
+      "Secret Passage",
+      "Artificer",
+      "Bandit",
+      "Counting House",
+      "Pillage",
+      "Goons"
+    ],
+    "landscapes": [
+      "Wall",
+      "Triumph"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 3,
+    "setup_notes": "Tournament rule (U-Con): players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. 3-player game.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Counting House and Goons; pre-errata Pillage."
+}

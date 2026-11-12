@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep099-procession-steward-triumph",
+  "title": "Making Luck ep. 99 review: Procession, Steward, Triumph, Treasurer, Swindler",
+  "source_type": "podcast",
+  "date": "2020-01-31",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=2rBM1ZSderQ&t=216s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 99, review of the ep. 98 kingdom, 3:36-14:45; a few games played against each other"},
+    {"url": "https://ia601503.us.archive.org/33/items/ep099_bob_evans_philharmonic/ep099_bob_evans_philharmonic.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players tested both preview plans head to head and agree the Procession/Triumph deck is best; few games, and they say the deck is far from optimized.",
+  "kingdom": {
+    "cards": ["Apothecary", "Distant Lands", "Idol", "Native Village", "Procession", "Salvager", "Settlers", "Steward", "Swindler", "Treasurer"],
+    "landscapes": ["Palace", "Triumph"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Settlers is the split pile Settlers/Bustling Village. Idol is a Fate card, so the Boons deck is used. Apothecary costs a Potion, so Potion is in the Supply.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom from Adam Horton's ep. 98 description. Colonies not mentioned."
+}

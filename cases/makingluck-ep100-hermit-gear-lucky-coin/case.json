@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep100-hermit-gear-lucky-coin",
+  "title": "Making Luck ep. 100, kingdom 6: Hermit, Gear, Soothsayer, Conspirator, Fool (Lucky Coin)",
+  "source_type": "podcast",
+  "date": "2020-02-28",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=RQk58SzbZd0&t=3210s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 100, Rapid-Fire Kingdom Analysis, 53:30-60:20; kingdom shown on screen"},
+    {"url": "https://ia601500.us.archive.org/28/items/ep100_its_all_weve_got/ep100_its_all_weve_got.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players agree on the money plan and opening. No games played.",
+  "kingdom": {
+    "cards": ["Conspirator", "Crypt", "Fool", "Gear", "Guide", "Haven", "Hermit", "Messenger", "Soothsayer", "Squire"],
+    "landscapes": ["Basilica", "City Gate"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Fool's Heirloom: each player starts with a Lucky Coin in place of one Copper. Boons are used (Fool).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the kingdom shown in the video."
+}

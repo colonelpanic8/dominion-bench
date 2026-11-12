@@ -1,0 +1,43 @@
+{
+  "id": "oc-2026-final-g4",
+  "title": "2026 Online Championship final, game 4: Flag Bearer, Ritual, Jester, Crop Rotation",
+  "source_type": "commentated-match",
+  "date": "2026-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=3oj4O-lLaH4",
+      "kind": "video",
+      "author": "Second Shuffle: Lemonspawn and Sharur",
+      "note": "Neutral commentary of the 2026 Online Championship final, agoo03 vs yurikamome (agoo03 won 3.5-1.5)"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Commentators predicted a Laboratory/Alley/Aristocrat build, but both players fought over the Flag and Ritualed; the commentators disliked the line without testing an alternative.",
+  "kingdom": {
+    "cards": [
+      "Corsair",
+      "First Mate",
+      "Jester",
+      "Laboratory",
+      "Tactician",
+      "Jewelled Egg",
+      "Aristocrat",
+      "Ghost Town",
+      "Alley",
+      "Flag Bearer"
+    ],
+    "landscapes": [
+      "Crop Rotation",
+      "Ritual"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online wording; kingdom read from the video."
+}

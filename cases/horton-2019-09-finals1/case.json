@@ -1,0 +1,49 @@
+{
+  "id": "horton-2019-09-finals1",
+  "title": "Horton Fall 2019 Finals 1: Hermit/Sewers, Bridge, Diplomat, Outpost",
+  "source_type": "designed-tournament",
+  "date": "2019-09-21",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-fall-2019-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Fall 2019 Tournament Summary; Finals set 1"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ViQF-GpoQYWCvz7H-Mr_4xKip7v59aUu_A2K9Z_nUd0",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' tab)"
+    }
+  ],
+  "quality": "A",
+  "quality_note": "Designer explains the Hermit/Sewers opening and ranks three build paths from playtesting; two players lost with the Madman/Bridge megaturn.",
+  "kingdom": {
+    "cards": [
+      "Hermit",
+      "Diplomat",
+      "Treasure Trove",
+      "Caravan",
+      "Bridge",
+      "Hireling",
+      "Outpost",
+      "Rogue",
+      "Old Witch",
+      "Vassal"
+    ],
+    "landscapes": [
+      "Sewers",
+      "Ferry"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. Played with the 2018-2019 Hermit wording: when you discard it from play, if you didn't buy any cards this turn, trash it and gain a Madman (it is trashed, so trash triggers fire).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2019 rules: pre-errata Hermit (trashes itself for Madman), which the Sewers trick relies on."
+}

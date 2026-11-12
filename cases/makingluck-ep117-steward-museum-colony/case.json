@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep117-steward-museum-colony",
+  "title": "Making Luck ep. 117, kingdom 2: Steward, Wandering Minstrel, Tiara, Museum (Colony)",
+  "source_type": "podcast",
+  "date": "2022-09-03",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=_6QemY1KJtc&t=855s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 117, Rapid-Fire Kingdom Analysis 2, 14:15-20:00; kingdom shown on screen"},
+    {"url": "https://ia601501.us.archive.org/10/items/ep117_stack_of_bread/ep117_stack_of_bread.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players agree on almost everything in a short first look; no games played.",
+  "kingdom": {
+    "cards": ["Bandit Camp", "Border Guard", "Border Village", "Crystal Ball", "Fortress", "Merchant Camp", "Relic", "Steward", "Tiara", "Wandering Minstrel"],
+    "landscapes": ["Museum", "Way of the Mole"],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition Prosperity (Tiara, Crystal Ball). Read from the kingdom shown in the video; the hosts state Platinum and Colony are in."
+}

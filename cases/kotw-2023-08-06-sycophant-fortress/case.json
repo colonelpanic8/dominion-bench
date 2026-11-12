@@ -1,0 +1,49 @@
+{
+  "id": "kotw-2023-08-06-sycophant-fortress",
+  "title": "KotW 07 Aug 2023: Sycophant, Fortress, Woodworkers' Guild, Tomb",
+  "source_type": "reddit-kotw",
+  "date": "2023-08-06",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/15k26pd/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments; one game vs. a bot"
+    },
+    {
+      "url": "https://i.imgur.com/jAIkeNP.jpg",
+      "kind": "image",
+      "author": "Snip3",
+      "note": "end-of-game screenshot vs. Lord Rattington"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Commenters agree on the Sycophant/Fortress opening into Woodworkers' Guild; one posted a 12-13 turn result (59 VP, vs. a bot) with the final deck.",
+  "kingdom": {
+    "cards": [
+      "Barbarian",
+      "City Quarter",
+      "Fortress",
+      "Grand Market",
+      "King's Court",
+      "Procession",
+      "Rogue",
+      "Royal Blacksmith",
+      "Specialist",
+      "Sycophant"
+    ],
+    "landscapes": [
+      "Woodworkers' Guild",
+      "Tomb"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

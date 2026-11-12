@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep117-old-witch-guardian",
+  "title": "Making Luck ep. 117, kingdom 7: Old Witch, Guardian, Scepter, Philosopher's Stone, Gardens",
+  "source_type": "podcast",
+  "date": "2022-09-03",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=_6QemY1KJtc&t=3290s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 117, Rapid-Fire Kingdom Analysis 2, 54:45-58:50; kingdom shown on screen"},
+    {"url": "https://ia601501.us.archive.org/10/items/ep117_stack_of_bread/ep117_stack_of_bread.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Short first look by two top players who agree; no games played.",
+  "kingdom": {
+    "cards": ["Gardens", "Guardian", "Kiln", "Laboratory", "Mystic", "Old Witch", "Philosopher's Stone", "Scepter", "Shepherd", "Sleigh"],
+    "landscapes": ["Gamble"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Shepherd's Heirloom: each player starts with a Pasture in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the kingdom shown in the video. Colonies not mentioned."
+}

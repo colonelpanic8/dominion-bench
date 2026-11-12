@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-02",
+  "title": "DS Annotated Game #2: Apprentice, Tactician, Mine, Baron (Colonies)",
+  "source_type": "annotated-game",
+  "date": "2011-02-14",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/02/11/annotated-game-2-preview-2/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/02/14/annotated-game-2/",
+      "kind": "annotated-game",
+      "author": "theory (loser) vs Mean Mr Mustard",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Commentary by the losing player, who explains the winner's plan only in hindsight; one game, 2011-era thinking.",
+  "kingdom": {
+    "cards": [
+      "Embargo",
+      "Secret Chamber",
+      "Woodcutter",
+      "Apprentice",
+      "Mine",
+      "Haven",
+      "Shanty Town",
+      "Baron",
+      "Explorer",
+      "Tactician"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions. Embargo is first-edition Seaside; Secret Chamber first-edition Intrigue; Woodcutter first-edition Base; Explorer first-edition Seaside."
+}

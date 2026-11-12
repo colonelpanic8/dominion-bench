@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-03-07-ducat-enchantress",
+  "title": "KotW 3/7/2021: Seer, Highway, Silk Merchant, Salt the Earth",
+  "source_type": "reddit-kotw",
+  "date": "2021-03-07",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/m09x04/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Short thread: treelorf and PathfindingLibrary favor Seer/Highway/Silk Merchant over the usual Salt the Earth/Feodum rush; a 6-player report says the rush won there.",
+  "kingdom": {
+    "cards": [
+      "Ducat",
+      "Enchantress",
+      "Feodum",
+      "Forager",
+      "Highway",
+      "Jack of All Trades",
+      "Rebuild",
+      "Seer",
+      "Silk Merchant",
+      "Squire"
+    ],
+    "landscapes": [
+      "Salt the Earth",
+      "Road Network"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

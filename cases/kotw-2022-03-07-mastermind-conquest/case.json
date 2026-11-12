@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-03-07-mastermind-conquest",
+  "title": "KotW 3/6/2022: Mastermind, Enchantress, Conquest, Delve",
+  "source_type": "reddit-kotw",
+  "date": "2022-03-07",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/t8dg9k/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "12 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Several commenters favor a thin engine scoring with Conquest; one argues Big Money. Lines are general and untested.",
+  "kingdom": {
+    "cards": [
+      "Bandit Camp",
+      "Coven",
+      "Destrier",
+      "Enchantress",
+      "Forager",
+      "Mastermind",
+      "Royal Blacksmith",
+      "Scrap",
+      "Squire",
+      "Temple"
+    ],
+    "landscapes": [
+      "Conquest",
+      "Delve"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies not stated.",
+  "edition": ""
+}

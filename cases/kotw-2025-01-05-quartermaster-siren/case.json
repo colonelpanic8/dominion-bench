@@ -1,0 +1,44 @@
+{
+  "id": "kotw-2025-01-05-quartermaster-siren",
+  "title": "KotW 06 Jan 2025: Quartermaster, Siren, Sleigh, Sheepdog",
+  "source_type": "reddit-kotw",
+  "date": "2025-01-05",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/1huj2ez/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments; setter notes"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "EphesosX's plan plus the setter's (bnoel12345) list of intended synergies and games against the app's AI. No strong-player playtest.",
+  "kingdom": {
+    "cards": [
+      "Sleigh",
+      "Stonemason",
+      "Sheepdog",
+      "Siren",
+      "Landing Party",
+      "Trail",
+      "Buried Treasure",
+      "Berserker",
+      "Enlarge",
+      "Quartermaster"
+    ],
+    "landscapes": [
+      "Toil"
+    ],
+    "traits": {
+      "Cheap": "Buried Treasure"
+    },
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": ""
+}

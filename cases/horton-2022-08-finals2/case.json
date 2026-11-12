@@ -1,0 +1,48 @@
+{
+  "id": "horton-2022-08-finals2",
+  "title": "Horton Galactic 2022 Finals 2: Tactician, Pathfinding, Royal Carriage, Priest",
+  "source_type": "designed-tournament",
+  "date": "2022-08-06",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-galactic-championship-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Dominion Galactic Championship Summary; Finals kingdom 2"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/16Yun1MG09amRq-PlPe6ilxC3UZL9snIfgrAYmLn5Ovo",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' tab)"
+    }
+  ],
+  "quality": "A",
+  "quality_note": "Designer states the one intended draw engine (Royal Carriage calls on Pathfinding Tacticians) and the payload; the single game saw neither player find it.",
+  "kingdom": {
+    "cards": [
+      "Royal Carriage",
+      "Festival",
+      "Forager",
+      "Tactician",
+      "Priest",
+      "Candlestick Maker",
+      "Legionary",
+      "Mystic",
+      "Squire",
+      "Tunnel"
+    ],
+    "landscapes": [
+      "Pathfinding"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-11-21-destrier-sleigh",
+  "title": "KotW 11/20/2022: Destrier, Sleigh, Village Green, Stampede",
+  "source_type": "reddit-kotw",
+  "date": "2022-11-21",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/z0m182/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Short comments: gain cheap Destriers (Sleigh Horses, Remake, Way of the Monkey + Stampede) and Village Green discard synergies. No full plan.",
+  "kingdom": {
+    "cards": [
+      "Destrier",
+      "Hunting Lodge",
+      "Hunting Party",
+      "Oasis",
+      "Remake",
+      "Sleigh",
+      "Snowy Village",
+      "Stonemason",
+      "Urchin",
+      "Village Green"
+    ],
+    "landscapes": [
+      "Stampede",
+      "Way of the Monkey"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies not stated.",
+  "edition": ""
+}

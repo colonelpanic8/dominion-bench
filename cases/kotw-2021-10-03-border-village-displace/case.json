@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-10-03-border-village-displace",
+  "title": "KotW 10/3/2021: Ghost Ship, Border Village, Treasure Trove, Displace",
+  "source_type": "reddit-kotw",
+  "date": "2021-10-03",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/q0zyqw/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One engine outline (willowhelmiam) and one bot-game synergy report (flaquito_: Treasure Trove Golds Displaced); nobody strong weighs in.",
+  "kingdom": {
+    "cards": [
+      "Border Village",
+      "Displace",
+      "Farmers' Market",
+      "Ghost Ship",
+      "Groom",
+      "Menagerie",
+      "Patrician",
+      "Remake",
+      "Treasure Trove",
+      "Wayfarer"
+    ],
+    "landscapes": [
+      "Defiled Shrine",
+      "Mountain Pass"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Ghost Ship."
+}

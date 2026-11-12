@@ -1,0 +1,40 @@
+{
+  "id": "kotw-2021-03-14-courtier-diplomat",
+  "title": "KotW 3/14/2021: Diplomat, Goons, Steward",
+  "source_type": "reddit-kotw",
+  "date": "2021-03-14",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/m5drvd/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One strong regular (PathfindingLibrary) in one-liners: Diplomat engine with Goons, double Steward opening, Duke and Colony irrelevant. Nobody else analyzes it.",
+  "kingdom": {
+    "cards": [
+      "Courtier",
+      "Diplomat",
+      "Duke",
+      "Goons",
+      "Horse Traders",
+      "Lighthouse",
+      "Native Village",
+      "Plaza",
+      "Salvager",
+      "Steward"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Goons and Horse Traders."
+}

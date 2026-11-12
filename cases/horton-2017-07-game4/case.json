@@ -1,0 +1,49 @@
+{
+  "id": "horton-2017-07-game4",
+  "title": "Horton Summer 2017 finals game 4: Hoard, Keep, Battlefield",
+  "source_type": "designed-tournament",
+  "date": "2017-07-29",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-summer-2017-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Designer write-up of 3P finals kingdom 4"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1_xnCB0eYx-da5HCmBHMOcPTDRtZN1ITQewONh2FfBGs",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom list"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Horton lists options but says there's no telling which combination is right until you see opponents.",
+  "kingdom": {
+    "cards": [
+      "Fool's Gold",
+      "Fishing Village",
+      "Forager",
+      "Jack of All Trades",
+      "Coin of the Realm",
+      "Charm",
+      "Counterfeit",
+      "Journeyman",
+      "Hoard",
+      "Watchtower"
+    ],
+    "landscapes": [
+      "Battlefield",
+      "Keep"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": true,
+    "players": 3,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Hoard and Charm are pre-errata (on-buy) wording; current wording differs slightly."
+}

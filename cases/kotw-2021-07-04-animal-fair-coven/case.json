@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-07-04-animal-fair-coven",
+  "title": "KotW 7/4/2021: Lurker, Coven, Ironworks, Mill",
+  "source_type": "reddit-kotw",
+  "date": "2021-07-04",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/oe16xm/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "PathfindingLibrary endorses Lurker-on-Squire into Coven and Ironworks into Mill, and predicts fast piles; Rebuild is disputed.",
+  "kingdom": {
+    "cards": [
+      "Animal Fair",
+      "Coven",
+      "Ironworks",
+      "Lurker",
+      "Mill",
+      "Nobles",
+      "Rebuild",
+      "Smugglers",
+      "Snowy Village",
+      "Squire"
+    ],
+    "landscapes": [
+      "Bargain",
+      "Way of the Sheep"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

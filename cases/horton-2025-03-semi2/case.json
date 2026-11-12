@@ -1,0 +1,49 @@
+{
+  "id": "horton-2025-03-semi2",
+  "title": "Horton 2025-03 Semifinal Kingdom 2: Divine Wind, Witch, Mountain Shrine, Save",
+  "source_type": "designed-tournament",
+  "date": "2025-03",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/march-2025-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "March 2025 Tournament Summary; Semifinal Kingdom 2, designed and playtested by Horton"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/12E1dAbWrWfyzVCSUhEPvG0ut0CSurOst9er15uUWjeY",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' or 'Kingdoms' tab)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Designer explains the intent and a few priorities; the post-Divine-Wind kingdom was hidden from players, so the plan is partly speculative.",
+  "kingdom": {
+    "cards": [
+      "Mountain Shrine",
+      "Witch",
+      "Acting Troupe",
+      "Hunting Grounds",
+      "Swashbuckler",
+      "Relic",
+      "Fool's Gold",
+      "Samurai",
+      "Craftsman",
+      "Fortune Hunter"
+    ],
+    "landscapes": [
+      "Divine Wind",
+      "Save"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. Divine Wind: the 10 replacement Kingdom piles were chosen by the organizer in advance and are hidden from the players until the Prophecy triggers.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Played with current (2024+) errata."
+}

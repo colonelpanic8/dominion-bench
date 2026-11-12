@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-02-07-bridge-toil",
+  "title": "KotW 2/6/2022: Bridge, Toil, Doctor, Animal Fair",
+  "source_type": "reddit-kotw",
+  "date": "2022-02-07",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/smc54p/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "14 comments; full solo log"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "PathfindingLibrary posted a full solo log: 8 Provinces in 9 turns from a 5/2. Others agree on the Bridge megaturn but nobody contested it.",
+  "kingdom": {
+    "cards": [
+      "Animal Fair",
+      "Bridge",
+      "Courtier",
+      "Doctor",
+      "Duplicate",
+      "Encampment",
+      "Merchant Guild",
+      "Miser",
+      "Royal Blacksmith",
+      "Sheepdog"
+    ],
+    "landscapes": [
+      "Toil",
+      "Way of the Owl"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies not stated. PathfindingLibrary's solo log starts with Estates, so no Shelters.",
+  "edition": "First-edition Doctor."
+}

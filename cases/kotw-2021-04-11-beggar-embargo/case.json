@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-04-11-beggar-embargo",
+  "title": "KotW 4/11/2021: Wayfarer, Sea Hag, Fishing Village, Way of the Turtle",
+  "source_type": "reddit-kotw",
+  "date": "2021-04-11",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/mp8f7s/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Engine agreed in outline (Wayfarer, Fishing Village, Turtle), but the opening is disputed and PathfindingLibrary only says not to buy a $5.",
+  "kingdom": {
+    "cards": [
+      "Beggar",
+      "Embargo",
+      "Festival",
+      "Fishing Village",
+      "Gatekeeper",
+      "Harbinger",
+      "Hunting Lodge",
+      "Merchant",
+      "Sea Hag",
+      "Wayfarer"
+    ],
+    "landscapes": [
+      "Bargain",
+      "Way of the Turtle"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Embargo and Sea Hag."
+}

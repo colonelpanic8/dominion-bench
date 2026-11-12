@@ -1,0 +1,45 @@
+{
+  "id": "worldcup-2026-final-m3-g1",
+  "title": "2026 World Cup final, Minionpawn vs yurikamome, game 1: Orchard, Sickness, Odysseys, Sentry",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=hY-_wubT4nw&t=0",
+      "kind": "video",
+      "author": "JNails, co-commentary drsteelhammer",
+      "note": "Game 1 at 0:00-41:30; yurikamome (Japan) beat Minionpawn (USA)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "A clear pre-game read (no village, Orchard cantrips, Goatherd, Sentry on 5/2) from both commentators; much of the later commentary is off-topic chat.",
+  "kingdom": {
+    "cards": [
+      "Abundance",
+      "River Shrine",
+      "Secret Passage",
+      "Rogue",
+      "Sentry",
+      "Cellar",
+      "Courtyard",
+      "Ducat",
+      "Goatherd",
+      "Odysseys"
+    ],
+    "landscapes": [
+      "Sickness",
+      "Orchard"
+    ],
+    "traits": {
+      "Nearby": "Courtyard"
+    },
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Odysseys is the split pile Old Map / Voyage / Sunken Treasure / Distant Shore. River Shrine is an Omen, so Sickness is the Prophecy.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

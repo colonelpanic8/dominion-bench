@@ -1,0 +1,40 @@
+{
+  "id": "kotw-2022-05-08-lookout-witch",
+  "title": "KotW 5/8/2022: Lookout, Vassal, Witch, Herald",
+  "source_type": "reddit-kotw",
+  "date": "2022-05-08",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/uldlkr/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Three regulars (PathfindingLibrary, GonffzCheeze, petnarwhal) agree on Vassal/Lookout and Witch as the first $5, overruling SignError's no-Witch plan. Little detail beyond that.",
+  "kingdom": {
+    "cards": [
+      "Advisor",
+      "Candlestick Maker",
+      "Herald",
+      "Lookout",
+      "Stonemason",
+      "Tactician",
+      "Throne Room",
+      "Treasury",
+      "Vassal",
+      "Witch"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": ""
+}

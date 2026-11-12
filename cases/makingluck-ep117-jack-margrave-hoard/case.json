@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep117-jack-margrave-hoard",
+  "title": "Making Luck ep. 117, kingdom 1: Jack of All Trades, Margrave, Hoard, Familiar",
+  "source_type": "podcast",
+  "date": "2022-09-03",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=_6QemY1KJtc&t=541s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 117, Rapid-Fire Kingdom Analysis 2, 9:01-14:10; kingdom shown on screen"},
+    {"url": "https://ia601501.us.archive.org/10/items/ep117_stack_of_bread/ep117_stack_of_bread.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players, unprepared first look (about 5 minutes). They agree on the plan; no games were played.",
+  "kingdom": {
+    "cards": ["Capital", "Catacombs", "Clashes", "Familiar", "Hoard", "Jack of All Trades", "Margrave", "Rabble", "Remake", "Temple"],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the Dominion Online kingdom shown in the video. Colonies were not mentioned (the hosts announce them when present)."
+}

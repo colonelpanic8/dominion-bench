@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-01-10-priest-bishop",
+  "title": "KotW 1/9/2022: Priest, Bishop, Cultist, Worker's Village",
+  "source_type": "reddit-kotw",
+  "date": "2022-01-10",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/s06n50/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Short exchanges between regulars (PathfindingLibrary, SignError, willowhelmiam) about a Priest megaturn and pile risk; no playtest.",
+  "kingdom": {
+    "cards": [
+      "Bishop",
+      "Catacombs",
+      "Church",
+      "Cultist",
+      "Exorcist",
+      "Monastery",
+      "Priest",
+      "Relic",
+      "Sanctuary",
+      "Worker's Village"
+    ],
+    "landscapes": [
+      "Mission",
+      "Pilgrimage"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-01-24-border-village-engineer",
+  "title": "KotW 1/24/2021: Shepherd, Triumph, Tunnel, Engineer",
+  "source_type": "reddit-kotw",
+  "date": "2021-01-24",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/l4hela/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "11 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Clear agreement on a Shepherd green-cycling deck finished with Triumph; treelorf gives a concrete endgame and PathfindingLibrary limits Tunnel to one copy.",
+  "kingdom": {
+    "cards": [
+      "Border Village",
+      "Engineer",
+      "Faithful Hound",
+      "Groundskeeper",
+      "Horse Traders",
+      "Inn",
+      "Necromancer",
+      "Remake",
+      "Shepherd",
+      "Tunnel"
+    ],
+    "landscapes": [
+      "Triumph",
+      "Keep"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Shepherd's Heirloom: each player starts with a Pasture in place of one Copper. Necromancer: the three Zombies start in the trash.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Horse Traders."
+}

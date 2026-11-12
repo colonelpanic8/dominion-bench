@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-06",
+  "title": "DS Annotated Game #6: Wharf, Envoy, Bridge, Thief",
+  "source_type": "annotated-game",
+  "date": "2011-03-23",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/03/21/annotated-game-6-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/03/23/guest-article-annotated-game-6/",
+      "kind": "annotated-game",
+      "author": "Geronimoo (author of the first Dominion simulator) vs crduemling",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Geronimoo's plan is backed by simulations of both strategies; he lost the actual game narrowly.",
+  "kingdom": {
+    "cards": [
+      "Loan",
+      "Watchtower",
+      "Bridge",
+      "Militia",
+      "Wharf",
+      "Lookout",
+      "Workshop",
+      "Envoy",
+      "Thief",
+      "Farm"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions. Loan (Prosperity) and Thief (Base) are first-edition only; Farm was called Harem."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-01-17-cardinal-ducat",
+  "title": "KotW 1/17/2021: Magpie, Mastermind, Guildhall, Invest",
+  "source_type": "reddit-kotw",
+  "date": "2021-01-17",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/kzqppx/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Short, conflicting thread: Magpie money, Mastermind/Cardinal engine and Guildhall money all proposed; treelorf and willowhelmiam flag Invest as the reason Magpie is a trap.",
+  "kingdom": {
+    "cards": [
+      "Cardinal",
+      "Ducat",
+      "Gatekeeper",
+      "Kiln",
+      "Magpie",
+      "Mastermind",
+      "Priest",
+      "Raze",
+      "Trade Route",
+      "Venture"
+    ],
+    "landscapes": [
+      "Invest",
+      "Guildhall"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Trade Route and Venture."
+}

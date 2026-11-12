@@ -1,0 +1,24 @@
+{
+  "id": "oc-2023-final-g3",
+  "title": "2023 Online Championship final, game 3: Alchemist, Contract, Crucible, Battlefield",
+  "source_type": "commentated-match",
+  "date": "2023-11",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=Dj3S4ncnupE", "kind": "video", "author": "Dominionstreams; commentary xyrix and drsteelhammer", "note": "Game 3 at 12:30-38:20; syamii4 vs agoo03"}
+  ],
+  "quality": "B",
+  "quality_note": "Long, concrete commentary on a close game; both players followed the commentators' Alchemist read, and the post-game explanation (Alchemist and Battlefield splits, Crucible plus Architects' Guild) is clear.",
+  "kingdom": {
+    "cards": ["Secret Passage", "Bandit", "Charm", "Contract", "Market", "Importer", "Alchemist", "Crucible", "Gardens", "Maroon"],
+    "landscapes": ["Architects' Guild", "Battlefield"],
+    "traits": {"Friendly": "Secret Passage"},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Potion is in the Supply for Alchemist. Importer's setup gives each player 4 extra Favors.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

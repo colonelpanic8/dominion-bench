@@ -1,0 +1,42 @@
+{
+  "id": "kotw-2021-09-19-hoard-island",
+  "title": "KotW 9/19/2021: Mountebank, King's Court, Lighthouse, Silk Merchant",
+  "source_type": "reddit-kotw",
+  "date": "2021-09-19",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/prjaz5/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One plan (NovaRogue: Mountebank/King's Court junking, Lighthouse defense) with one-line corrections from PathfindingLibrary and treelorf.",
+  "kingdom": {
+    "cards": [
+      "Hoard",
+      "Island",
+      "King's Court",
+      "Lighthouse",
+      "Mountebank",
+      "Research",
+      "Salvager",
+      "Seer",
+      "Silk Merchant",
+      "Smugglers"
+    ],
+    "landscapes": [
+      "Guildhall"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Mountebank."
+}

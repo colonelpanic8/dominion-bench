@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-03",
+  "title": "DS Annotated Game #3: Hoard, Island, Trade Route, Tactician (Colonies)",
+  "source_type": "annotated-game",
+  "date": "2011-02-21",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/02/18/annotated-game-2-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/02/21/annotated-game-3/",
+      "kind": "annotated-game",
+      "author": "theory vs Dekker (then #2 on Isotropic)",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One concrete pre-game analysis by theory, who won 68-66; the margin is too thin to validate the plan, and it is 2011-era thinking.",
+  "kingdom": {
+    "cards": [
+      "Moat",
+      "Feast",
+      "Mining Village",
+      "Tactician",
+      "Hoard",
+      "Trade Route",
+      "Island",
+      "Talisman",
+      "Farm",
+      "Forge"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions. Feast (Base), Trade Route and Talisman (Prosperity) are first-edition only; Farm was called Harem. The preview post's URL slug says game 2 but it is game 3's kingdom."
+}

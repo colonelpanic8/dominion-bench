@@ -1,0 +1,43 @@
+{
+  "id": "horton-2018-11-michigan-c",
+  "title": "U-Con 2018 Set C: Enchantress, Transmogrify, Ritual, Labyrinth",
+  "source_type": "blog-analysis",
+  "date": "2018-11",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-michigan-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Michigan U-Con 2018 Tournament Summary; Set 2018-C (semifinal), Horton 2nd"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Horton finished 2nd, last in turn order, and mostly describes an opponent's lucky Enchantress lock.",
+  "kingdom": {
+    "cards": [
+      "Poor House",
+      "Changeling",
+      "Enchantress",
+      "Scheme",
+      "Transmogrify",
+      "Devil's Workshop",
+      "Pillage",
+      "Farmland",
+      "Prince",
+      "Peddler"
+    ],
+    "landscapes": [
+      "Labyrinth",
+      "Ritual"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 3,
+    "setup_notes": "Tournament rule (U-Con): players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. 3-player game.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Pre-errata Prince, Pillage and Farmland (Farmland triggered on buy)."
+}

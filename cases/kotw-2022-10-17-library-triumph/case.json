@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-10-17-library-triumph",
+  "title": "KotW 10/16/2022: Library, Patron, Triumph, Catapult",
+  "source_type": "reddit-kotw",
+  "date": "2022-10-17",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/y5w82j/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Four detailed but differing plans (Triumph44, Curebob, willowhelmiam, SapphosFriend); they agree Library is the only real draw and Patron is payload, and differ on Triumph and the opening.",
+  "kingdom": {
+    "cards": [
+      "Catapult",
+      "Charm",
+      "Hideout",
+      "Ironmonger",
+      "Library",
+      "Patron",
+      "Poacher",
+      "Squire",
+      "Urchin",
+      "Wandering Minstrel"
+    ],
+    "landscapes": [
+      "Triumph",
+      "Arena"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies not stated.",
+  "edition": ""
+}

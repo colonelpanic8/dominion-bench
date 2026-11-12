@@ -1,0 +1,40 @@
+{
+  "id": "worldcup-2026-final-m3-g2",
+  "title": "2026 World Cup final, Minionpawn vs yurikamome, game 2: Wharf, Transmogrify, Hideout, Ironworks",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=hY-_wubT4nw&t=2490",
+      "kind": "video",
+      "author": "JNails, co-commentary drsteelhammer",
+      "note": "Game 2 at 41:30-1:01:30; yurikamome beat Minionpawn"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Commentators and chat agree on the engine and the Transmogrify/Silver opening; both finalists opened Hideout instead, so the opening claim is untested by the winner.",
+  "kingdom": {
+    "cards": [
+      "Transmogrify",
+      "Apprentice",
+      "Storyteller",
+      "Swamp Hag",
+      "Wharf",
+      "Farmers' Market",
+      "Devil's Workshop",
+      "Hideout",
+      "Ironworks",
+      "Mountain Village"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

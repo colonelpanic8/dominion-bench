@@ -1,0 +1,43 @@
+{
+  "id": "oc-2026-final-g2",
+  "title": "2026 Online Championship final, game 2: Artificer, Mastermind, Livery, Cursed Village, Colonnade",
+  "source_type": "commentated-match",
+  "date": "2026-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=3oj4O-lLaH4",
+      "kind": "video",
+      "author": "Second Shuffle: Lemonspawn and Sharur",
+      "note": "Neutral commentary of the 2026 Online Championship final, agoo03 vs yurikamome (agoo03 won 3.5-1.5)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Detailed pre-game read from both commentators, but the winner (agoo03) skipped the Livery/Mastermind core they favoured and won 33-3.",
+  "kingdom": {
+    "cards": [
+      "Cursed Village",
+      "Livery",
+      "Mastermind",
+      "Captain",
+      "Wayfarer",
+      "Chariot Race",
+      "Abundance",
+      "Rope",
+      "Artificer",
+      "Corsair"
+    ],
+    "landscapes": [
+      "Road Network",
+      "Colonnade"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online wording; kingdom read from the video."
+}

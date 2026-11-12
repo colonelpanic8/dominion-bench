@@ -1,0 +1,49 @@
+{
+  "id": "horton-2022-04-finals2",
+  "title": "Horton Spring 2022 Finals 2: Pirate Ship, King's Court, Keep, Trade",
+  "source_type": "designed-tournament",
+  "date": "2022-04-09",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-spring-2022-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Spring 2022 Tournament Summary; Finals kingdom 2 (first designed for Winter 2019)"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1Yf8ZZyyavqIiKeg_rTFl1x-KuDldt_1dtOoN7c4Pc0s",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' tab)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Designer explains why Pirate Ship works here and how the mirror plays, but gives no full line and no game result.",
+  "kingdom": {
+    "cards": [
+      "Pirate Ship",
+      "King's Court",
+      "Sacrifice",
+      "Bandit Camp",
+      "Trading Post",
+      "Ducat",
+      "Beggar",
+      "Mining Village",
+      "Storyteller",
+      "Ironmonger"
+    ],
+    "landscapes": [
+      "Trade",
+      "Keep"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Pirate Ship. The blog post lists nine Kingdom cards; Ironmonger comes from Horton's kingdom sheet."
+}

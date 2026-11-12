@@ -1,0 +1,40 @@
+{
+  "id": "kotw-2022-08-07-sea-witch-trail",
+  "title": "KotW 8/7/2022: Sea Witch, Trail, Weaver, Warehouse",
+  "source_type": "reddit-kotw",
+  "date": "2022-08-07",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/witniz/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "14 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Three fairly detailed but conflicting plans (SignError: Trail split; willowhelmiam: Sea Witch engine; GrimoireM: Curse race then rush). Agreement only that Berserker is bad and piles may end it.",
+  "kingdom": {
+    "cards": [
+      "Berserker",
+      "Crossroads",
+      "Guard Dog",
+      "Sailor",
+      "Salvager",
+      "Sea Witch",
+      "Trail",
+      "Warehouse",
+      "Weaver",
+      "Wharf"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": ""
+}

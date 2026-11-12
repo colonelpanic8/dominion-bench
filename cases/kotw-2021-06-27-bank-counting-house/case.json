@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-06-27-bank-counting-house",
+  "title": "KotW 6/27/2021: Counting House, Travelling Fair, Bank, Tower",
+  "source_type": "reddit-kotw",
+  "date": "2021-06-27",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/o9dind/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "11 comments"
+    }
+  ],
+  "quality": "A",
+  "quality_note": "Consensus of several regulars (EphesosX, PathfindingLibrary, Snip3, quantumhovercraft, mountebanker) on the Travelling Fair/Counting House loop, with goldfish screenshots finishing in about 8-9 turns.",
+  "kingdom": {
+    "cards": [
+      "Bank",
+      "Counting House",
+      "Enchantress",
+      "Farming Village",
+      "Haunted Woods",
+      "Horse Traders",
+      "Jester",
+      "Raze",
+      "Settlers",
+      "Talisman"
+    ],
+    "landscapes": [
+      "Travelling Fair",
+      "Tower"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Counting House, Farming Village, Horse Traders and Talisman."
+}

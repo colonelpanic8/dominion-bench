@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-09-26-cargo-ship-hermit",
+  "title": "KotW 9/26/2021: Rebuild, Patron, Cargo Ship, Hermit",
+  "source_type": "reddit-kotw",
+  "date": "2021-09-26",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/pw53xr/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "12 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Split: willowhelmiam argues a Rebuild deck (Patron, Cargo Ship, Crop Rotation) and one test favored it over a variant; treelorf and PathfindingLibrary insist on Hermit.",
+  "kingdom": {
+    "cards": [
+      "Cargo Ship",
+      "Hermit",
+      "Jack of All Trades",
+      "Mystic",
+      "Patron",
+      "Rebuild",
+      "Research",
+      "Scheme",
+      "Silk Road",
+      "Squire"
+    ],
+    "landscapes": [
+      "Crop Rotation",
+      "Silos"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Silk Road."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-08-15-archive-bounty-hunter",
+  "title": "KotW 8/15/2021: Chapel, Inventor, Mastermind, Sanctuary",
+  "source_type": "reddit-kotw",
+  "date": "2021-08-15",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/p5a169/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Short thread: PathfindingLibrary's Chapel into Inventor/Mastermind line, with quantumhovercraft's sketch of the finished deck; no testing.",
+  "kingdom": {
+    "cards": [
+      "Archive",
+      "Bounty Hunter",
+      "Chapel",
+      "Diplomat",
+      "Grand Market",
+      "Inventor",
+      "Mastermind",
+      "Mill",
+      "Peasant",
+      "Sanctuary"
+    ],
+    "landscapes": [
+      "Tomb",
+      "Museum"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Prosperity is a listed set, but the post doesn't say whether Colony/Platinum are used. Shelters: the KotW template mentions Shelters only when Dark Ages is a listed set, and none is here.",
+  "edition": ""
+}

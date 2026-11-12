@@ -1,0 +1,49 @@
+{
+  "id": "horton-2019-09-finals3",
+  "title": "Horton Fall 2019 Finals 3: Triumph, Talisman, Council Room, Canal",
+  "source_type": "designed-tournament",
+  "date": "2019-09-21",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-fall-2019-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Fall 2019 Tournament Summary; Finals set 3, designed by Wandering Winder"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ViQF-GpoQYWCvz7H-Mr_4xKip7v59aUu_A2K9Z_nUd0",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' tab)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Designed by Wandering Winder; Horton gives the focus (Triumph) and his preferred opening but little detail.",
+  "kingdom": {
+    "cards": [
+      "Baron",
+      "Crossroads",
+      "Watchtower",
+      "Hamlet",
+      "Forager",
+      "Talisman",
+      "Bandit Camp",
+      "Council Room",
+      "Treasurer",
+      "Fishing Village"
+    ],
+    "landscapes": [
+      "Triumph",
+      "Canal"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Talisman."
+}

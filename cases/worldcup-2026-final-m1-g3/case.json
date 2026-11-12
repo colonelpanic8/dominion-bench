@@ -1,0 +1,43 @@
+{
+  "id": "worldcup-2026-final-m1-g3",
+  "title": "2026 World Cup final, Fircoal vs kojii, game 3: Horn of Plenty, Mining Road, Apothecary, Wishing Well",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_2At4CXlgQA&t=3150",
+      "kind": "video",
+      "author": "JNails, co-commentary Paolo99",
+      "note": "Game 3 at 52:30-1:15:30; Fircoal beat kojii"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Concrete commentary on Apothecary/Wishing Well, Mining Road before Horn, and villages for terminal draw; the result matched the commentators' point about deck control.",
+  "kingdom": {
+    "cards": [
+      "Horn of Plenty",
+      "Journeyman",
+      "Litter",
+      "Mining Road",
+      "Wayfarer",
+      "Apothecary",
+      "Farmers' Market",
+      "Scrap",
+      "Wishing Well",
+      "Gondola"
+    ],
+    "landscapes": [
+      "Barracks",
+      "Plan"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

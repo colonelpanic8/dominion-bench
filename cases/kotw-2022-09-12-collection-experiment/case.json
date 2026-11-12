@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-09-12-collection-experiment",
+  "title": "KotW 9/11/2022: Collection, Experiment, Tiara, Raze",
+  "source_type": "reddit-kotw",
+  "date": "2022-09-12",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/xc05mq/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "18 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One detailed plan (willowhelmiam) backed by SignError; a deleted user argued Artificer/Scholar. No playtest.",
+  "kingdom": {
+    "cards": [
+      "Artificer",
+      "Collection",
+      "Experiment",
+      "Forge",
+      "Grand Market",
+      "Lackeys",
+      "Port",
+      "Raze",
+      "Scholar",
+      "Tiara"
+    ],
+    "landscapes": [
+      "Pilgrimage",
+      "Silos"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Shelters not stated.",
+  "edition": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "oc-2023-final-g4",
+  "title": "2023 Online Championship final, game 4: Livery, Ranger, Upgrade, Way of the Ox",
+  "source_type": "commentated-match",
+  "date": "2023-11",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=Dj3S4ncnupE", "kind": "video", "author": "Dominionstreams; commentary xyrix and drsteelhammer", "note": "Game 4 at 38:20-48:00; agoo03 vs syamii4"}
+  ],
+  "quality": "B",
+  "quality_note": "Concrete commentary that agrees with a one-sided result (44-8 on turn 12); the openings differ and draws favored agoo03.",
+  "kingdom": {
+    "cards": ["Livery", "Outpost", "Rabble", "Upgrade", "Fairgrounds", "Lookout", "Ranger", "Swamp Shacks", "Hunting Party", "Idol"],
+    "landscapes": ["Way of the Ox", "Lost Arts"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

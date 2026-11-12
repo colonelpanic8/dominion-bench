@@ -1,0 +1,50 @@
+{
+  "id": "kotw-2025-01-19-bridge-cathedral",
+  "title": "KotW 20 Jan 2025: Bridge, Cathedral, Acting Troupe, Hunting Grounds",
+  "source_type": "reddit-kotw",
+  "date": "2025-01-19",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/1i5bw3m/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments, plus a 4-player game thread"
+    },
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/1i9zzse/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "4-player game on this kingdom, 16 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "EphesosX argues money with Hunting Grounds; the setter intends a Cathedral/Acting Troupe/Bridge engine; two players report wins vs. AI and in a 4-player game with different plans. Conflicting.",
+  "kingdom": {
+    "cards": [
+      "Black Cat",
+      "Masquerade",
+      "Acting Troupe",
+      "Importer",
+      "Bridge",
+      "Clerk",
+      "Duke",
+      "Spices",
+      "Tanuki",
+      "Hunting Grounds"
+    ],
+    "landscapes": [
+      "Forest Dwellers",
+      "Mountain Pass",
+      "Cathedral"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ds-annotated-01",
+  "title": "DS Annotated Game #1: Mountebank, Warehouse, City, Caravan",
+  "source_type": "annotated-game",
+  "date": "2011-02-02",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/02/01/annotated-game-1-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/02/02/annotated-game-1/",
+      "kind": "annotated-game",
+      "author": "theory (blog founder) vs yaron, BGGDL league game",
+      "note": "Move-by-move commentary"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/02/17/annotated-game-1-response/",
+      "kind": "article",
+      "author": "Geronimoo",
+      "note": "Simulator study of Warehouse vs Caravan openings"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/02/24/guest-article-annotated-game-1-response-followup/",
+      "kind": "article",
+      "author": "Geronimoo",
+      "note": "Simulator study of both players' strategies"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "theory's concrete plan won; Geronimoo's simulations back the Mountebank-money plan and refine the opening and City question. 2011-era thinking.",
+  "kingdom": {
+    "cards": [
+      "Secret Chamber",
+      "Warehouse",
+      "Caravan",
+      "Mountebank",
+      "Farm",
+      "Smugglers",
+      "Watchtower",
+      "City",
+      "Saboteur",
+      "Peddler"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions. Secret Chamber and Saboteur are first-edition Intrigue; Farm was called Harem. Mountebank is first-edition Prosperity."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-09",
+  "title": "DS Annotated Game #9: Remake, Menagerie, Hunting Party, Horn of Plenty",
+  "source_type": "annotated-game",
+  "date": "2012-01-20",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2012/01/16/annotated-game-9-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2012/01/20/guest-article-annotated-game-9/",
+      "kind": "annotated-game",
+      "author": "DG (loser) vs olneyce, two top Isotropic players",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "DG lays out a concrete engine plan that both top players followed; he lost by one point after greening early, which he calls his mistake.",
+  "kingdom": {
+    "cards": [
+      "Duchess",
+      "Menagerie",
+      "Nomad Camp",
+      "Remodel",
+      "Hunting Party",
+      "Pawn",
+      "Golem",
+      "Remake",
+      "Horn of Plenty",
+      "Inn"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2012 Isotropic game, first editions. Duchess and Nomad Camp are first-edition Hinterlands."
+}

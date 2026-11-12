@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-08",
+  "title": "DS Annotated Game #8: Vault, Grand Market, Wishing Well, Laboratory",
+  "source_type": "annotated-game",
+  "date": "2011-05-30",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/05/27/annotated-game-8-preview-2/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/05/30/annotated-game-8/",
+      "kind": "annotated-game",
+      "author": "theory vs Blooki",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "One concrete analysis (Vault to buy Grand Markets, Wishing Well over Silver) that both players saw and the game bore out.",
+  "kingdom": {
+    "cards": [
+      "Haven",
+      "Wishing Well",
+      "Feast",
+      "Throne Room",
+      "Vault",
+      "Great Hall",
+      "Coppersmith",
+      "Navigator",
+      "Laboratory",
+      "Grand Market"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions. Feast (Base), Great Hall and Coppersmith (Intrigue), Navigator (Seaside) are first-edition only."
+}

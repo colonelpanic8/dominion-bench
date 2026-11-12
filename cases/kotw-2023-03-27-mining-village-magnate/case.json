@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2023-03-27-mining-village-magnate",
+  "title": "KotW 27 Mar 2023: Mining Village, Magnate, Cutthroat, Maroon",
+  "source_type": "reddit-kotw",
+  "date": "2023-03-27",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/123eh7q/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Two detailed plans (Curebob, willowhelmiam) that agree on Mining Village and Magnate but differ on Maroon and Soothsayer. Untested.",
+  "kingdom": {
+    "cards": [
+      "Grotto",
+      "Acting Troupe",
+      "Monkey",
+      "Courier",
+      "Maroon",
+      "Mining Village",
+      "Magnate",
+      "Cutthroat",
+      "Soothsayer",
+      "Animal Fair"
+    ],
+    "landscapes": [
+      "Windfall",
+      "Rush"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Shelters not stated.",
+  "edition": ""
+}

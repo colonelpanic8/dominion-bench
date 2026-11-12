@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-01-31-encampment-villa",
+  "title": "KotW 1/30/2022: Encampment, Villa, Way of the Mouse (Ambassador)",
+  "source_type": "reddit-kotw",
+  "date": "2022-01-31",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/sgpu2q/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments; games vs. a bot"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Two regulars agree on Encampment/Villa and the Way of the Mouse Ambassador war; one player reports games against a bot. No strong-player playtest.",
+  "kingdom": {
+    "cards": [
+      "Conspirator",
+      "Encampment",
+      "Gladiator",
+      "Hunting Party",
+      "Outpost",
+      "Overlord",
+      "Tournament",
+      "Villa",
+      "Wandering Minstrel",
+      "Wharf"
+    ],
+    "landscapes": [
+      "Pathfinding",
+      "Way of the Mouse"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Way of the Mouse's set-aside card is Ambassador.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies not stated.",
+  "edition": "First-edition Tournament (Prizes) and Ambassador (set aside for Way of the Mouse)."
+}

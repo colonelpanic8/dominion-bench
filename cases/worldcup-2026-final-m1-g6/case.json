@@ -1,0 +1,44 @@
+{
+  "id": "worldcup-2026-final-m1-g6",
+  "title": "2026 World Cup final, Fircoal vs kojii, game 6: Mastermind, Invasion, Amass, Broker",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_2At4CXlgQA&t=6540",
+      "kind": "video",
+      "author": "JNails, co-commentary Paolo99",
+      "note": "Game 6 at 1:49:00-2:20:00; kojii beat Fircoal"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Almost no pre-game read; the commentary judges plays as they happen (Mastermind lines, Invasion turns, endgame counting).",
+  "kingdom": {
+    "cards": [
+      "Village Green",
+      "Barbarian",
+      "Mastermind",
+      "Farmland",
+      "Wayfarer",
+      "Raze",
+      "Tracker",
+      "Broker",
+      "Maroon",
+      "Militia"
+    ],
+    "landscapes": [
+      "Mountain Folk",
+      "Invasion",
+      "Amass"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tracker's Heirloom: each player starts with a Pouch in place of one Copper. Broker is a Liaison, so Mountain Folk is the Ally.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

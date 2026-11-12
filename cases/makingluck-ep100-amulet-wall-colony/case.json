@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep100-amulet-wall-colony",
+  "title": "Making Luck ep. 100, kingdom 3: Amulet, Treasure Map, Wall, Colony (no draw, no +Buy)",
+  "source_type": "podcast",
+  "date": "2020-02-28",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=RQk58SzbZd0&t=1810s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 100, Rapid-Fire Kingdom Analysis, 30:10-34:20; kingdom shown on screen"},
+    {"url": "https://ia601500.us.archive.org/28/items/ep100_its_all_weve_got/ep100_its_all_weve_got.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players agree quickly and call this the clearest kingdom of the episode. No games played.",
+  "kingdom": {
+    "cards": ["Amulet", "Beggar", "Border Village", "Coin of the Realm", "Duplicate", "Hoard", "Lighthouse", "Monument", "Mountain Village", "Treasure Map"],
+    "landscapes": ["Wall"],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the kingdom shown in the video (Colony and Platinum in the Supply)."
+}

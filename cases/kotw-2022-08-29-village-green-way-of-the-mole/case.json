@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-08-29-village-green-way-of-the-mole",
+  "title": "KotW 8/28/2022: Village Green, Way of the Mole, Remake, Experiment",
+  "source_type": "reddit-kotw",
+  "date": "2022-08-29",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/x0risr/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "13 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Brief: an engine call, a Way of the Mole/Village Green rules explanation, and one-line openings from PathfindingLibrary and ahicks58.",
+  "kingdom": {
+    "cards": [
+      "Capital",
+      "Experiment",
+      "Festival",
+      "Hamlet",
+      "Kiln",
+      "Old Witch",
+      "Poacher",
+      "Remake",
+      "Royal Blacksmith",
+      "Village Green"
+    ],
+    "landscapes": [
+      "Citadel",
+      "Way of the Mole"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": ""
+}

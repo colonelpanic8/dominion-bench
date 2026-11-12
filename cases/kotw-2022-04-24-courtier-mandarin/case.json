@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-04-24-courtier-mandarin",
+  "title": "KotW 4/24/2022: Courtier, Mandarin, Village Green, Gamble",
+  "source_type": "reddit-kotw",
+  "date": "2022-04-24",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/ub77bx/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "15 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "A strong regular (PathfindingLibrary) names a Courtier/Mandarin combo and a solo clock ($118, 8 Buys, turn 11) but barely explains it; the other commenter argues a Displace plan.",
+  "kingdom": {
+    "cards": [
+      "Barge",
+      "Cardinal",
+      "Courtier",
+      "Displace",
+      "Lurker",
+      "Mandarin",
+      "Silk Road",
+      "Steward",
+      "Tunnel",
+      "Village Green"
+    ],
+    "landscapes": [
+      "Gamble",
+      "Way of the Goat"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": "First-edition Mandarin and Silk Road."
+}

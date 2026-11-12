@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep015-highway-magic-lamp-wishes",
+  "title": "Making Luck ep. 15 (ep. 14 kingdom): Highway, Secret Cave (Magic Lamp), Leprechaun, Necromancer, Monastery",
+  "source_type": "podcast",
+  "date": "2018-03-06",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=YmsUlqovf7U&t=297s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 15, review of the previous episode's kingdom after playing it, about 4:57-22:10 (audio timestamps)"},
+    {"url": "https://ia801508.us.archive.org/5/items/ep015_dominion_a_making_podcast_luck/ep015_dominion_a_making_podcast_luck.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players played many games (with each other and against a bot) and agree on the main plan and opening; they differ on how much Highway count matters.",
+  "kingdom": {
+    "cards": ["Border Village", "Golem", "Highway", "Leprechaun", "Mandarin", "Monastery", "Necromancer", "Peddler", "Relic", "Secret Cave"],
+    "landscapes": ["Summon"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Secret Cave's Heirloom: each player starts with a Magic Lamp in place of one Copper. Hexes are used (Leprechaun). Necromancer: the three Zombies start in the trash. Potion is in the Supply for Golem.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Mandarin. Kingdom list from the episode description."
+}

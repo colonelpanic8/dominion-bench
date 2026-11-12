@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-05-23-ill-gotten-gains-keep",
+  "title": "KotW 5/22/2022: Ill-Gotten Gains, Banquet, Keep, Trader",
+  "source_type": "reddit-kotw",
+  "date": "2022-05-23",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/uvnrsy/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Two or three commenters like an Ill-Gotten Gains/Duchy rush with Banquet, Trader and Keep; an engine is mentioned but not argued. Untested.",
+  "kingdom": {
+    "cards": [
+      "Bishop",
+      "Catapult",
+      "City Quarter",
+      "Crown",
+      "Encampment",
+      "Ill-Gotten Gains",
+      "Stables",
+      "Talisman",
+      "Trader",
+      "Worker's Village"
+    ],
+    "landscapes": [
+      "Banquet",
+      "Keep"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Shelters not stated.",
+  "edition": "First-edition Ill-Gotten Gains and Talisman."
+}

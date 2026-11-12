@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-10-10-artisan-cemetery",
+  "title": "KotW 10/10/2021: Sculptor, Cemetery, Vassal, Citadel, Exploration",
+  "source_type": "reddit-kotw",
+  "date": "2021-10-10",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/q5jhvz/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Two independent plans agree (Sculptor gaining Cemeteries, Vassals, Citadel, Exploration), and SignError played that plan against a Ducat/Coffers plan himself: Ducat won 38-36.",
+  "kingdom": {
+    "cards": [
+      "Artisan",
+      "Cemetery",
+      "Ducat",
+      "Necromancer",
+      "Priest",
+      "Scepter",
+      "Sculptor",
+      "Throne Room",
+      "Vampire",
+      "Vassal"
+    ],
+    "landscapes": [
+      "Citadel",
+      "Exploration"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Cemetery's Heirloom: each player starts with a Haunted Mirror in place of one Copper. Necromancer: the three Zombies start in the trash.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-02-07-baron-black-cat",
+  "title": "KotW 2/7/2021: Groundskeeper, Mill, Crop Rotation, Silk Road",
+  "source_type": "reddit-kotw",
+  "date": "2021-02-07",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/lf3v6o/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "12 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Mostly bot-game impressions; one build line (willowhelmiam) and agreement that alt-VP and piling dominate. No strong-player plan.",
+  "kingdom": {
+    "cards": [
+      "Baron",
+      "Black Cat",
+      "Cemetery",
+      "Contraband",
+      "Crossroads",
+      "Gardens",
+      "Groundskeeper",
+      "Farm",
+      "Mill",
+      "Silk Road"
+    ],
+    "landscapes": [
+      "Alliance",
+      "Crop Rotation"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Cemetery's Heirloom: each player starts with a Haunted Mirror in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: The title lists Event Alliance (Empires), but its set list names Adventures and not Empires, and a commenter noticed the mismatch; nobody discusses the Event. Shelters: the KotW template mentions Shelters only when Dark Ages is a listed set, and none is here.",
+  "edition": "First-edition Contraband and Silk Road. Harem is listed under its current name, Farm."
+}

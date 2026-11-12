@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep024-trade-route-archive-colony",
+  "title": "Making Luck ep. 24 (ep. 23 kingdom): Trade Route, Archive, Den of Sin, Market Square, Gladiator, Colony",
+  "source_type": "podcast",
+  "date": "2018-05-15",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=OFFsp4LoT7o&t=198s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 24, review of the previous episode's kingdom after playing it, about 3:18-17:12 (audio timestamps)"},
+    {"url": "https://ia601500.us.archive.org/19/items/ep024_killing_applebees/ep024_killing_applebees.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players played several games and agree on the Trade Route/Archive/Den of Sin core, but split on the opening and on how a Haggler/Archive money deck compares.",
+  "kingdom": {
+    "cards": ["Archive", "Armory", "Castles", "Den of Sin", "Fool", "Gladiator", "Haggler", "Horse Traders", "Market Square", "Trade Route"],
+    "landscapes": ["Travelling Fair", "Wedding"],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Gladiator is a split pile with Fortune underneath. Fool's Heirloom: each player starts with a Lucky Coin in place of one Copper. Boons are used (Fool). Trade Route: a token on each Victory Supply pile moves to the Trade Route mat when the first card is gained from it.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Trade Route and Horse Traders. Kingdom list from the episode description (Platinum and Colony)."
+}

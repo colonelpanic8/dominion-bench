@@ -1,0 +1,43 @@
+{
+  "id": "ds-2021-03-generalized-kingdom-analysis",
+  "title": "DS Generalized Kingdom Analysis: Tomb, Watchtower, Masterpiece, Pooka",
+  "source_type": "blog-analysis",
+  "date": "2021-03-27",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2021/03/27/generalized-kingdom-analysis-and-some-ramblings-about-teaching/",
+      "kind": "article",
+      "author": "terracubist",
+      "note": "Worked example (Kingdom 1) of a procedural pre-game analysis; kingdom in an image (raw/blog/img/gka1.png). Homework kingdoms 2-7 have no analysis and are not used."
+    }
+  ],
+  "quality": "C",
+  "quality_note": "A single pre-game analysis by a self-described newer player, written as a teaching example; no playtest or game result.",
+  "kingdom": {
+    "cards": [
+      "Monument",
+      "Journeyman",
+      "Pooka",
+      "Scepter",
+      "Hireling",
+      "Border Guard",
+      "Haven",
+      "Masterpiece",
+      "Watchtower",
+      "Caravan"
+    ],
+    "landscapes": [
+      "Desperation",
+      "Tomb"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "Pooka's Heirloom: each player starts with Cursed Gold in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online. Masterpiece is first-edition Guilds. Colonies/Shelters not shown."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-03-21-caravan-guard-forager",
+  "title": "KotW 3/21/2021: Page, Witch, Horn of Plenty, Star Chart",
+  "source_type": "reddit-kotw",
+  "date": "2021-03-21",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/mafwvz/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One detailed plan (willowhelmiam: rush Champion against Witch, then Horn of Plenty); PathfindingLibrary and treelorf correct the opening. Plan itself not tested or discussed further.",
+  "kingdom": {
+    "cards": [
+      "Caravan Guard",
+      "Forager",
+      "Hideout",
+      "Horn of Plenty",
+      "Ironmonger",
+      "Loan",
+      "Page",
+      "Rabble",
+      "Vassal",
+      "Witch"
+    ],
+    "landscapes": [
+      "Fair",
+      "Star Chart"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Loan."
+}

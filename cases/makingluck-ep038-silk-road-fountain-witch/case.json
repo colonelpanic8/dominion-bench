@@ -1,0 +1,26 @@
+{
+  "id": "makingluck-ep038-silk-road-fountain-witch",
+  "title": "Making Luck ep. 38 review: Witch, Silk Road, Fountain, Colonnade, Pooka",
+  "source_type": "podcast",
+  "date": "2018-08-21",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=HA_ax4n6TII&t=332s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 38, review of the ep. 37 kingdom, 5:32-15:50; games played"},
+    {"url": "https://ia801507.us.archive.org/16/items/ep038_subjective_but_also_true/ep038_subjective_but_also_true.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"},
+    {"url": "https://web.archive.org/web/20190719104512/http://adamhorton.com/flog/forum/topic/making-luck-episode-37-when-theres-no-x/", "kind": "forum", "author": "WanderingWinder, Adam Horton, listeners", "note": "original https://adamhorton.com/flog/forum/topic/making-luck-episode-37-when-theres-no-x/ (offline); pre-review discussion the hosts credit"}
+  ],
+  "quality": "A",
+  "quality_note": "Hosts played the board and agree on a Witch slog for Fountain, Silk Road and Colonnade points; WanderingWinder's forum analysis broadly matches. Cursed Gold usage is disputed.",
+  "kingdom": {
+    "cards": ["Baker", "Familiar", "Mandarin", "Pooka", "Shanty Town", "Silk Road", "Stonemason", "Temple", "Tunnel", "Witch"],
+    "landscapes": ["Colonnade", "Fountain"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Pooka's Heirloom: each player starts with a Cursed Gold in place of one Copper. Baker's setup: each player starts with 1 Coffers. Familiar costs a Potion, so Potion is in the Supply.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom from Adam Horton's ep. 37 description. Uses first-edition Silk Road and Mandarin (removed in Hinterlands second edition). Colonies not mentioned."
+}

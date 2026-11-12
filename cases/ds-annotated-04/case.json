@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-04",
+  "title": "DS Annotated Game #4: Witch, Warehouse, Envoy, Bank, Trading Post",
+  "source_type": "annotated-game",
+  "date": "2011-03-04",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/02/28/annotated-game-4-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/03/04/guest-article-annotated-game-4/",
+      "kind": "annotated-game",
+      "author": "Captain_Frisk (then #17 on Isotropic) vs yaron",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "One strong, concrete analysis by the winner; both players agreed afterwards that ignoring Witch was the mistake.",
+  "kingdom": {
+    "cards": [
+      "Native Village",
+      "Watchtower",
+      "Quarry",
+      "Explorer",
+      "Witch",
+      "Warehouse",
+      "Envoy",
+      "Counting House",
+      "Trading Post",
+      "Bank"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions. Explorer is first-edition Seaside; Counting House first-edition Prosperity; Trading Post first-edition Intrigue."
+}

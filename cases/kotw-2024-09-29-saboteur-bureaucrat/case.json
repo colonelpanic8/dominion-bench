@@ -1,0 +1,40 @@
+{
+  "id": "kotw-2024-09-29-saboteur-bureaucrat",
+  "title": "KotW 30 Sep 2024: Saboteur, Bureaucrat, Masquerade, Lurker",
+  "source_type": "reddit-kotw",
+  "date": "2024-09-29",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/1fsgmj4/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments; setter hints"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Discussion of a Masquerade/Bureaucrat pin and Saboteur attack plan, with hints from the kingdom's setter. Speculative; no game reports.",
+  "kingdom": {
+    "cards": [
+      "Lurker",
+      "Great Hall",
+      "Masquerade",
+      "Watchtower",
+      "Bureaucrat",
+      "Mining Village",
+      "Spy",
+      "Thief",
+      "Saboteur",
+      "City Quarter"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Shelters not stated.",
+  "edition": "First-edition Great Hall, Saboteur, Spy and Thief."
+}

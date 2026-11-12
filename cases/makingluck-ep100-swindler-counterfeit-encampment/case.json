@@ -1,0 +1,26 @@
+{
+  "id": "makingluck-ep100-swindler-counterfeit-encampment",
+  "title": "Making Luck ep. 99/100: Swindler, Counterfeit, Encampment, Margrave, Silos (Shelters)",
+  "source_type": "podcast",
+  "date": "2020-02-28",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=2rBM1ZSderQ&t=3695s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 99 \"Swindler\" (2020-01-31), 61:35-79:00: first-look analysis"},
+    {"url": "https://www.youtube.com/watch?v=RQk58SzbZd0&t=258s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 100 (2020-02-28), 4:18-11:25: review after playing a few games (games published on Adam's channel)"},
+    {"url": "https://ia601503.us.archive.org/33/items/ep099_bob_evans_philharmonic/ep099_bob_evans_philharmonic.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "ep. 99 audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players analysed it and played a few games; they agree on the opening and on Swindler's dominance, but say the games were decided mostly by Swindler luck.",
+  "kingdom": {
+    "cards": ["Counterfeit", "Encampment", "Gear", "Haunted Woods", "Margrave", "Messenger", "Oasis", "Outpost", "Peddler", "Swindler"],
+    "landscapes": ["Guildhall", "Silos"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition Swindler. Kingdom read aloud on both episodes; matches the ep. 99 description."
+}

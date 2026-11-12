@@ -1,0 +1,24 @@
+{
+  "id": "kotw-2021-09-12-butcher-city-quarter",
+  "title": "KotW 9/12/2021: Butcher, City Quarter, Night Watchman, Tunnel",
+  "source_type": "reddit-kotw",
+  "date": "2021-09-12",
+  "sources": [
+    {"url": "https://www.reddit.com/r/dominion/comments/pn49ed/", "kind": "thread", "author": "r/dominion", "note": "24 comments; one solo playtest report"}
+  ],
+  "quality": "B",
+  "quality_note": "One concrete solo playtest (8 Provinces by turn 11) and a strong commenter (PathfindingLibrary) agree on the engine line; others suggested money.",
+  "kingdom": {
+    "cards": ["Butcher", "City Quarter", "Embassy", "Faithful Hound", "Fool's Gold", "Merchant Guild", "Night Watchman", "Nomad Camp", "Pooka", "Tunnel"],
+    "landscapes": ["Ritual", "Tower"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Pooka's Heirloom: each player starts with Cursed Gold in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Embassy and Nomad Camp."
+}

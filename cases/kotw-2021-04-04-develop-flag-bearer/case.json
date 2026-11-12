@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-04-04-develop-flag-bearer",
+  "title": "KotW 4/4/2021: Priest, Recruiter, Ill-Gotten Gains, Goatherd",
+  "source_type": "reddit-kotw",
+  "date": "2021-04-04",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/mke8mx/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "treelorf and Snip3 favor a Priest/Recruiter trashing deck; the only game report is 6-player, where Ill-Gotten Gains and Duchies won. No settled 2-player plan.",
+  "kingdom": {
+    "cards": [
+      "Develop",
+      "Flag Bearer",
+      "Goatherd",
+      "Hostelry",
+      "Ill-Gotten Gains",
+      "Priest",
+      "Recruiter",
+      "Scholar",
+      "Spice Merchant",
+      "Supplies"
+    ],
+    "landscapes": [
+      "Desperation",
+      "City Gate"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Ill-Gotten Gains."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "oc-2023-final-g1",
+  "title": "2023 Online Championship final, game 1: Rebuild, Scavenger, Gamble, Merchant Guild",
+  "source_type": "commentated-match",
+  "date": "2023-11",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=Dj3S4ncnupE", "kind": "video", "author": "Dominionstreams; commentary xyrix and drsteelhammer", "note": "Game 1 at 0:00-6:55; syamii4 vs agoo03"}
+  ],
+  "quality": "B",
+  "quality_note": "Short commentary, but the pre-game read (Rebuild, helped by Scavenger and Gamble) matches what won; the Gamble/Merchant Guild alternative visibly failed.",
+  "kingdom": {
+    "cards": ["Charm", "Figurine", "Harvest", "Merchant Guild", "Rebuild", "Haven", "Anvil", "Night Watchman", "Scavenger", "Trader"],
+    "landscapes": ["Seize the Day", "Gamble"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

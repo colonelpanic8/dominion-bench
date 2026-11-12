@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep117-horn-of-plenty-highway",
+  "title": "Making Luck ep. 117, kingdom 3: Horn of Plenty, Highway, Royal Blacksmith, Gang of Pickpockets",
+  "source_type": "podcast",
+  "date": "2022-09-03",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=_6QemY1KJtc&t=1260s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 117, Rapid-Fire Kingdom Analysis 2, 21:00-30:20; kingdom shown on screen"},
+    {"url": "https://ia601501.us.archive.org/10/items/ep117_stack_of_bread/ep117_stack_of_bread.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Nine minutes of first-look discussion by two top players; they converge on the opening and plan, with some disagreement about Highway. No games played.",
+  "kingdom": {
+    "cards": ["Blessed Village", "Broker", "Clerk", "Highway", "Horn of Plenty", "Royal Blacksmith", "Storeroom", "Taxman", "Transmogrify", "Tunnel"],
+    "landscapes": ["Conquest", "Fleet", "Gang of Pickpockets"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Broker is a Liaison, so the Ally Gang of Pickpockets is in play; each player starts with 1 Favor.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the kingdom shown in the video. Colonies not mentioned."
+}

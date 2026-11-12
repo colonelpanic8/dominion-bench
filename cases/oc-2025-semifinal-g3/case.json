@@ -1,0 +1,43 @@
+{
+  "id": "oc-2025-semifinal-g3",
+  "title": "2025 Online Championship semifinal, game 3: Highwayman, Outpost, King's Cache, Way of the Sheep",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=e2dIV5xzXTo",
+      "kind": "video",
+      "author": "Lemonspawn's Dominion Videos; commentary Lemonspawn and Stef",
+      "note": "Game 3 at 53:00-1:19:00; jonts (first) vs VRSmith"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Detailed, consistent roadmap from both commentators (build draw first, delay Outpost and King's Cache, skip Gold); the player who followed it more closely won.",
+  "kingdom": {
+    "cards": [
+      "Highwayman",
+      "Outpost",
+      "Wealthy Village",
+      "Grand Market",
+      "King's Cache",
+      "Settlers",
+      "Bishop",
+      "Island",
+      "Port",
+      "Capital City"
+    ],
+    "landscapes": [
+      "Way of the Sheep",
+      "Commerce"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Settlers/Bustling Village split pile. The Loot pile is in play for Wealthy Village.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

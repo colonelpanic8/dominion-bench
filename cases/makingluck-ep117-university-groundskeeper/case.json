@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep117-university-groundskeeper",
+  "title": "Making Luck ep. 117, kingdom 6: University, Groundskeeper, Collection, Highwayman, Goatherd",
+  "source_type": "podcast",
+  "date": "2022-09-03",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=_6QemY1KJtc&t=2859s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 117, Rapid-Fire Kingdom Analysis 2, 47:40-54:30; kingdom shown on screen"},
+    {"url": "https://ia601501.us.archive.org/10/items/ep117_stack_of_bread/ep117_stack_of_bread.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players agree on the opening and the main plan; they differ on Pirate timing and Apothecary. No games played.",
+  "kingdom": {
+    "cards": ["Apothecary", "Cardinal", "Cartographer", "Collection", "Goatherd", "Groundskeeper", "Highwayman", "Pirate", "University", "Witch's Hut"],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the kingdom shown in the video. Colonies not mentioned."
+}

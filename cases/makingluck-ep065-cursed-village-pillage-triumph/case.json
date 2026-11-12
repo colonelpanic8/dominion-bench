@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep065-cursed-village-pillage-triumph",
+  "title": "Making Luck ep. 65 review: Cursed Village, Storeroom, Pillage, Triumph",
+  "source_type": "podcast",
+  "date": "2019-02-26",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=Ujg9djeeQQE&t=169s", "kind": "podcast-video", "author": "Jake and Wandering Winder", "note": "Making Luck ep. 65, review of the ep. 64 kingdom, 2:49-18:30; Jake played many games against Adam Horton, Wandering Winder only against bots"},
+    {"url": "https://ia601400.us.archive.org/19/items/ep065_anger_management/ep065_anger_management.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Jake reports many games against Adam; Wandering Winder adds a partly different read. They agree on the deck and on Triumph and Pillage, differ on opening and Triumph timing, and say more play is needed.",
+  "kingdom": {
+    "cards": ["Cursed Village", "Forager", "Gear", "Lost City", "Noble Brigand", "Oracle", "Pillage", "Plaza", "Storeroom", "Vineyard"],
+    "landscapes": ["Triumph", "Wedding"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Cursed Village is a Doom card, so the Hexes deck is used. Vineyard costs a Potion, so Potion is in the Supply.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom from Adam Horton's ep. 64 description. Uses first-edition Oracle and Noble Brigand (removed in Hinterlands second edition). Colonies not mentioned."
+}

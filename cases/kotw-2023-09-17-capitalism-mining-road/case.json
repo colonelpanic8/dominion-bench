@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2023-09-17-capitalism-mining-road",
+  "title": "KotW 18 Sep 2023: Capitalism, Prosper, Mining Road, King's Cache",
+  "source_type": "reddit-kotw",
+  "date": "2023-09-17",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/16ld1je/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments; submitter's intended combo"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "The submitter (EphesosX) gives the intended Capitalism/Prosper/Mining Road chain; lechatonnoir gives a general plan; one commenter argues an Ironworks rush. Untested.",
+  "kingdom": {
+    "cards": [
+      "Flag Bearer",
+      "Fortune Hunter",
+      "Improve",
+      "Ironworks",
+      "King's Cache",
+      "Mining Road",
+      "Minion",
+      "Pendant",
+      "Priest",
+      "Swindler"
+    ],
+    "landscapes": [
+      "Prosper",
+      "Capitalism"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": ""
+}

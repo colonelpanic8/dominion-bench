@@ -1,0 +1,26 @@
+{
+  "id": "makingluck-ep026-treasure-trove-palace",
+  "title": "Making Luck ep. 26 review: Treasure Trove, Palace, Altar, Grand Market",
+  "source_type": "podcast",
+  "date": "2018-05-29",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=yxMLdOH75qo&t=300s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 26, review of the ep. 25 kingdom, 5:00-12:47; games played (video linked from the episode)"},
+    {"url": "https://ia801503.us.archive.org/21/items/ep026_hi_lexi_poo/ep026_hi_lexi_poo.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"},
+    {"url": "https://web.archive.org/web/20190719101554/http://adamhorton.com/flog/forum/topic/episode-25-turning-off-the-autopilot/", "kind": "forum", "author": "WanderingWinder, Adam Horton", "note": "original https://adamhorton.com/flog/forum/topic/episode-25-turning-off-the-autopilot/ (offline); WanderingWinder's analysis that the hosts adopted"}
+  ],
+  "quality": "A",
+  "quality_note": "Hosts played the board, reversed their preview read and agree emphatically, following WanderingWinder's forum analysis.",
+  "kingdom": {
+    "cards": ["Altar", "Bank", "Grand Market", "Patrician", "Scavenger", "Scheme", "Smugglers", "Treasure Trove", "Warehouse", "Wishing Well"],
+    "landscapes": ["Palace"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Patrician is the split pile Patrician/Emporium.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom from Adam Horton's ep. 25 description. Colonies not mentioned."
+}

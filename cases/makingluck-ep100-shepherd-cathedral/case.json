@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep100-shepherd-cathedral",
+  "title": "Making Luck ep. 100, kingdom 2: Shepherd, Den of Sin, Stonemason, Silk Road, Cathedral",
+  "source_type": "podcast",
+  "date": "2020-02-28",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=RQk58SzbZd0&t=1314s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 100, Rapid-Fire Kingdom Analysis, 21:54-30:00; kingdom shown on screen"},
+    {"url": "https://ia601500.us.archive.org/28/items/ep100_its_all_weve_got/ep100_its_all_weve_got.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "C",
+  "quality_note": "Two top players agree on the deck shape but disagree sharply on Cathedral, the board's strongest card on paper. No games played.",
+  "kingdom": {
+    "cards": ["Archive", "Den of Sin", "Feodum", "Graverobber", "Remodel", "Shepherd", "Silk Road", "Stonemason", "Swashbuckler", "Wild Hunt"],
+    "landscapes": ["Cathedral", "Scouting Party"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Shepherd's Heirloom: each player starts with a Pasture in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the kingdom shown in the video."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-01-17-cargo-ship-artificer",
+  "title": "KotW 1/16/2022: Artificer, Cargo Ship, Flag Bearer, Replace",
+  "source_type": "reddit-kotw",
+  "date": "2022-01-17",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/s5qamq/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments; one solo-test confirmation"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "One strong regular (PathfindingLibrary) gives the opening and a turn-by-turn build; another player confirms it in solo games.",
+  "kingdom": {
+    "cards": [
+      "Artificer",
+      "Cargo Ship",
+      "Experiment",
+      "Flag Bearer",
+      "Port",
+      "Raze",
+      "Replace",
+      "Sheepdog",
+      "Spices",
+      "Torturer"
+    ],
+    "landscapes": [
+      "Exploration",
+      "Way of the Butterfly"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

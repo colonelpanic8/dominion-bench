@@ -1,0 +1,49 @@
+{
+  "id": "horton-2023-10-finals2",
+  "title": "Horton 2023-10 Finals Kingdom 2: Broker, Hunting Grounds, Swap, Magpie",
+  "source_type": "designed-tournament",
+  "date": "2023-10-07",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/october-2023-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "October 2023 Tournament Summary; Finals Kingdom 2, designed and playtested by Horton"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/17d822tX5MEwbZLUAaWKnAbqEaaxWVIHy-pzWNZHiW9M",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' or 'Kingdoms' tab)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Designer gives the core idea and a few tricks but no opening or detailed line.",
+  "kingdom": {
+    "cards": [
+      "Broker",
+      "Hunting Grounds",
+      "Swap",
+      "Merchant Guild",
+      "Improve",
+      "Magpie",
+      "Cauldron",
+      "Counterfeit",
+      "Sea Chart",
+      "Cellar"
+    ],
+    "landscapes": [
+      "Borrow",
+      "Gang of Pickpockets"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

@@ -1,0 +1,24 @@
+{
+  "id": "oc-2023-final-g2",
+  "title": "2023 Online Championship final, game 2: Witch, Graverobber, Patrician, Taskmaster",
+  "source_type": "commentated-match",
+  "date": "2023-11",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=Dj3S4ncnupE", "kind": "video", "author": "Dominionstreams; commentary xyrix and drsteelhammer", "note": "Game 2 at 6:55-12:30; agoo03 vs syamii4"}
+  ],
+  "quality": "C",
+  "quality_note": "Brief commentary that barely discusses the main plan; the game was decided early by a bad draw for syamii4. Useful mainly for interactions.",
+  "kingdom": {
+    "cards": ["Walled Village", "Graverobber", "Pillage", "Witch", "Forge", "Patrician", "Doctor", "Taskmaster", "Tunnel", "Mountain Village"],
+    "landscapes": ["Banquet"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Patrician/Emporium split pile.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

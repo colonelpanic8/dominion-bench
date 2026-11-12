@@ -1,0 +1,47 @@
+{
+  "id": "horton-2018-11-michigan-2",
+  "title": "U-Con 2018 Set 2: Bandit Fort, Beggar, King's Court, Pooka",
+  "source_type": "blog-analysis",
+  "date": "2018-11",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-michigan-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Michigan U-Con 2018 Tournament Summary; Set 2018-2, Horton finished 2nd"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Horton lost this 3P game (2nd) and says the board was designed to have nothing good; his own plan is uncertain.",
+  "kingdom": {
+    "cards": [
+      "Beggar",
+      "Druid",
+      "Changeling",
+      "Tunnel",
+      "Jack of All Trades",
+      "Scout",
+      "Noble Brigand",
+      "Embassy",
+      "Pooka",
+      "King's Court"
+    ],
+    "landscapes": [
+      "Bandit Fort",
+      "Conquest"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 3,
+    "setup_notes": "Tournament rule (U-Con): players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. 3-player game. Druid's set-aside Boons: The Moon's Gift, The Sea's Gift, The Wind's Gift. Pooka's Heirloom: each player starts with Cursed Gold in place of one Copper.",
+    "extra_cards": [
+      "The Moon's Gift",
+      "The Sea's Gift",
+      "The Wind's Gift"
+    ]
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Scout, Noble Brigand and Embassy."
+}

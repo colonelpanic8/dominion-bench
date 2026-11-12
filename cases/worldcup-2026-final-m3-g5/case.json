@@ -1,0 +1,43 @@
+{
+  "id": "worldcup-2026-final-m3-g5",
+  "title": "2026 World Cup final, Minionpawn vs yurikamome, game 5: Recruiter, Overlord, Mining Road, Seize the Day",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=hY-_wubT4nw&t=6090",
+      "kind": "video",
+      "author": "JNails, co-commentary drsteelhammer",
+      "note": "Game 5 at 1:41:30-2:22:00; yurikamome beat Minionpawn with a late pile-out"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "A short but concrete read (Recruiter/Harbor Village villages, Pilgrim draw, Mining Road treasure payload); the result turned on an endgame oversight the commentators explain.",
+  "kingdom": {
+    "cards": [
+      "Scrap",
+      "Harbor Village",
+      "Mining Road",
+      "Pilgrim",
+      "Recruiter",
+      "Overlord",
+      "Coin of the Realm",
+      "Herbalist",
+      "Pixie",
+      "Anvil"
+    ],
+    "landscapes": [
+      "Seize the Day",
+      "Stampede"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Pixie's Heirloom: each player starts with a Goat in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

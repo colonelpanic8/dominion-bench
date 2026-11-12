@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-10-24-masquerade-cursed-village",
+  "title": "KotW 10/23/2022: Masquerade, Ghost Ship, Vampire, Cursed Village",
+  "source_type": "reddit-kotw",
+  "date": "2022-10-24",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/ybz1nk/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Three short plans; willowhelmiam and HRoll agree on Masquerade/Silver and a no-+Buy slog around Cursed Village and Scheme.",
+  "kingdom": {
+    "cards": [
+      "Black Cat",
+      "Cemetery",
+      "Changeling",
+      "Coven",
+      "Cursed Village",
+      "Exorcist",
+      "Ghost Ship",
+      "Masquerade",
+      "Scheme",
+      "Vampire"
+    ],
+    "landscapes": [
+      "Populate",
+      "Way of the Ox"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": "First-edition Ghost Ship."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-05-23-bridge-loan",
+  "title": "KotW 5/23/2021: Steward, Nobles, Invest, Wayfarer, Bridge",
+  "source_type": "reddit-kotw",
+  "date": "2021-05-23",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/njqjto/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "13 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Bridge engine agreed in outline; openings disputed (Steward/Steward from PathfindingLibrary vs Steward/Bridge, Monument/Loan).",
+  "kingdom": {
+    "cards": [
+      "Bridge",
+      "Loan",
+      "Lurker",
+      "Monument",
+      "Nobles",
+      "Snowy Village",
+      "Steward",
+      "Upgrade",
+      "Vault",
+      "Wayfarer"
+    ],
+    "landscapes": [
+      "Invest",
+      "Toil"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Loan."
+}

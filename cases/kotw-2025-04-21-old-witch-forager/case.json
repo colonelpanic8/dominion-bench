@@ -1,0 +1,40 @@
+{
+  "id": "kotw-2025-04-21-old-witch-forager",
+  "title": "KotW 21 Apr 2025: Old Witch, Fortress, Forager, Squire",
+  "source_type": "reddit-kotw",
+  "date": "2025-04-21",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/1k48ci5/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Three detailed analyses (EphesosX, willowhelmiam, presumably_alterable) agree on a Fortress/Old Witch engine with Forager; they differ on the opening and on Counterfeit.",
+  "kingdom": {
+    "cards": [
+      "Cellar",
+      "Squire",
+      "Storeroom",
+      "Merchant",
+      "Forager",
+      "Rats",
+      "Fortress",
+      "Laboratory",
+      "Counterfeit",
+      "Old Witch"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies not stated.",
+  "edition": ""
+}

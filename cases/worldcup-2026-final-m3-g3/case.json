@@ -1,0 +1,45 @@
+{
+  "id": "worldcup-2026-final-m3-g3",
+  "title": "2026 World Cup final, Minionpawn vs yurikamome, game 3: Collection, Berserker, Riverboat, Sailor",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=hY-_wubT4nw&t=3690",
+      "kind": "video",
+      "author": "JNails, co-commentary drsteelhammer",
+      "note": "Game 3 at 1:01:30-1:21:30; Minionpawn beat yurikamome"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Concrete pre-game plan (Sailor thinning, Riverboat-Livery, Berserker gains with Collection) and a warning about overbuilding that matched the game.",
+  "kingdom": {
+    "cards": [
+      "Fortune Hunter",
+      "Sailor",
+      "Berserker",
+      "Collection",
+      "Tragic Hero",
+      "Sleigh",
+      "Gladiator",
+      "Riverboat",
+      "Advisor",
+      "Cutpurse"
+    ],
+    "landscapes": [
+      "Way of the Sheep",
+      "Ferry"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Riverboat's set-aside card is Livery. Gladiator is a split pile with Fortune underneath.",
+    "extra_cards": [
+      "Livery"
+    ]
+  },
+  "kingdom_confidence": "partial: Piles and landscapes read from the screen. Riverboat's set-aside Livery is not shown; it comes from the commentary and from Horse gains in the log.",
+  "edition": "Second-edition / Dominion Online wording."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep037-groundskeeper-chariot-race-inheritance",
+  "title": "Making Luck ep. 37 review: Groundskeeper, Chariot Race, Inheritance, Duke",
+  "source_type": "podcast",
+  "date": "2018-08-15",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=uLiQMGBkZ98&t=300s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 37, review of the ep. 36 kingdom, 5:00-16:57; games played, including mirrors"},
+    {"url": "https://ia601506.us.archive.org/13/items/ep037_paper_is_obsolete/ep037_paper_is_obsolete.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players played both candidate decks and mirrors; they agree firmly on the plan, with a minor split on University timing.",
+  "kingdom": {
+    "cards": ["Capital", "Chariot Race", "Charm", "Duke", "Expand", "Groundskeeper", "Ironworks", "Lookout", "Nomad Camp", "University"],
+    "landscapes": ["Inheritance"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "University costs a Potion, so Potion is in the Supply.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom from Adam Horton's ep. 36 description. Uses first-edition Nomad Camp (removed in Hinterlands second edition). Colonies not mentioned."
+}

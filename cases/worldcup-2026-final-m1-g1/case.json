@@ -1,0 +1,43 @@
+{
+  "id": "worldcup-2026-final-m1-g1",
+  "title": "2026 World Cup final, Fircoal vs kojii, game 1: Kitsune, Stables, Rope, Progress",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_2At4CXlgQA&t=0",
+      "kind": "video",
+      "author": "JNails, co-commentary Paolo99",
+      "note": "Game 1 at 0:00-41:40; Fircoal (USA) beat kojii (Japan)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "JNails gives a detailed read during the opening and Paolo99 agrees on the plan; the game was decided in a long pile-race ending, so the result says little about the plan.",
+  "kingdom": {
+    "cards": [
+      "Jester",
+      "Kitsune",
+      "Stables",
+      "Tea House",
+      "Wealthy Village",
+      "Church",
+      "Exorcist",
+      "Ironworks",
+      "Rope",
+      "Rustic Village"
+    ],
+    "landscapes": [
+      "Progress",
+      "Annex"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Progress is the Prophecy (Kitsune, Rustic Village and Tea House are the Omens).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

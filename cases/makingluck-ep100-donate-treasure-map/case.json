@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep100-donate-treasure-map",
+  "title": "Making Luck ep. 100, kingdom 4: Donate, Treasure Map, Grand Market, Witch, Castles",
+  "source_type": "podcast",
+  "date": "2020-02-28",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=RQk58SzbZd0&t=2066s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 100, Rapid-Fire Kingdom Analysis, 34:26-41:10; kingdom shown on screen"},
+    {"url": "https://ia601500.us.archive.org/28/items/ep100_its_all_weve_got/ep100_its_all_weve_got.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players work out a concrete Donate line and agree. No games played.",
+  "kingdom": {
+    "cards": ["Cartographer", "Castles", "Farmers' Market", "Grand Market", "Improve", "Night Watchman", "Royal Blacksmith", "Seer", "Treasure Map", "Witch"],
+    "landscapes": ["Donate"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Read from the kingdom shown in the video."
+}

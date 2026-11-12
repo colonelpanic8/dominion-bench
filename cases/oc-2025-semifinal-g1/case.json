@@ -1,0 +1,43 @@
+{
+  "id": "oc-2025-semifinal-g1",
+  "title": "2025 Online Championship semifinal, game 1: Black Market, Capital City, Research",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=e2dIV5xzXTo",
+      "kind": "video",
+      "author": "Lemonspawn's Dominion Videos; commentary Lemonspawn and Stef",
+      "note": "Game 1 at 0:00-27:00; jonts (first) vs VRSmith"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Pre-game read covers the opening and Credit, but the game turned on Black Market offers (Bridge, First Mate) and early draws; commentators couldn't say where it went wrong.",
+  "kingdom": {
+    "cards": [
+      "Buried Treasure",
+      "Capital City",
+      "Laboratory",
+      "Mystic",
+      "Wild Hunt",
+      "Border Guard",
+      "Black Market",
+      "Feodum",
+      "Mapmaker",
+      "Research"
+    ],
+    "landscapes": [
+      "Road Network",
+      "Credit"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Black Market deck of unused Kingdom cards (60 cards on Dominion Online).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

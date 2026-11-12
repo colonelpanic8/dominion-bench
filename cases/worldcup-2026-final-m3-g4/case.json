@@ -1,0 +1,44 @@
+{
+  "id": "worldcup-2026-final-m3-g4",
+  "title": "2026 World Cup final, Minionpawn vs yurikamome, game 4: Blockade, Marchland, Canal, Shelters",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=hY-_wubT4nw&t=4890",
+      "kind": "video",
+      "author": "JNails, co-commentary drsteelhammer",
+      "note": "Game 4 at 1:21:30-1:41:30; Minionpawn beat yurikamome 48-26"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "JNails names the plan before the game (Canal, then Blockade gaining Marchlands and Duchies); the winner executed a version of it and the commentators explain afterwards why Barge lost.",
+  "kingdom": {
+    "cards": [
+      "Blockade",
+      "Cavalry",
+      "Death Cart",
+      "Innkeeper",
+      "Barge",
+      "Marchland",
+      "Faithful Hound",
+      "Search",
+      "Importer",
+      "Armory"
+    ],
+    "landscapes": [
+      "Mountain Folk",
+      "Canal",
+      "Asceticism"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "Death Cart is a Looter, so the Ruins pile is in the Supply. Importer is a Liaison, so Mountain Folk is the Ally; Importer's setup gives each player 4 extra Favors (5 total).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

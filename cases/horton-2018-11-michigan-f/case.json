@@ -1,0 +1,43 @@
+{
+  "id": "horton-2018-11-michigan-f",
+  "title": "U-Con 2018 Final: Summon Young Witch, Procession, Raze bane, Colonies",
+  "source_type": "blog-analysis",
+  "date": "2018-11",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-michigan-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Michigan U-Con 2018 Tournament Summary; Set 2018-F (final), Horton won"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Horton's reasoned plan (Summon Young Witch going first, spam and trash Razes, Procession chains, 3-pile) won the final, though he credits first-player advantage.",
+  "kingdom": {
+    "cards": [
+      "Watchtower",
+      "Dismantle",
+      "Exorcist",
+      "Necromancer",
+      "Procession",
+      "Young Witch",
+      "Band of Misfits",
+      "Cobbler",
+      "Artisan",
+      "Prince"
+    ],
+    "landscapes": [
+      "Ritual",
+      "Summon"
+    ],
+    "traits": {},
+    "bane": "Raze",
+    "colonies": true,
+    "shelters": true,
+    "players": 3,
+    "setup_notes": "Tournament rule (U-Con): players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. 3-player game. Raze is the Young Witch Bane. The 2018 versions of Procession and Prince could also use Duration cards, and Band of Misfits was not a Command.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Pre-errata Procession, Prince and Band of Misfits."
+}

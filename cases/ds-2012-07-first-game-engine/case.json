@@ -1,0 +1,40 @@
+{
+  "id": "ds-2012-07-first-game-engine",
+  "title": "DS Building the First Game Engine: Village/Smithy vs Smithy Big Money",
+  "source_type": "blog-analysis",
+  "date": "2012-07-30",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2012/07/30/building-the-first-game-engine/",
+      "kind": "article",
+      "author": "Geronimoo",
+      "note": "Simulator study of engines vs Smithy Big Money on the First Game set, plus a forum bot challenge result"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Simulator-backed analysis plus a stronger bot from a forum challenge; engine bots are weaker than humans, so absolute win rates are rough.",
+  "kingdom": {
+    "cards": [
+      "Cellar",
+      "Market",
+      "Militia",
+      "Mine",
+      "Moat",
+      "Remodel",
+      "Smithy",
+      "Village",
+      "Woodcutter",
+      "Workshop"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "The base game's recommended First Game set (first edition).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Base: Woodcutter is first-edition only."
+}

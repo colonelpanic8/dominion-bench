@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep030-city-bridge-salt-the-earth",
+  "title": "Making Luck ep. 30 review: City, Bridge, Ranger, Monastery, Salt the Earth",
+  "source_type": "podcast",
+  "date": "2018-06-26",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=PN7hNBTXZJQ&t=170s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 30, review of the ep. 29 kingdom, 2:50-12:30; games played with each other and WanderingWinder"},
+    {"url": "https://ia801507.us.archive.org/29/items/ep030_female_particles/ep030_female_particles.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "B",
+  "quality_note": "Two top players played several games and agree on the opening and the City/Bridge build path, but disagree on whether committed Salt the Earth money beats it.",
+  "kingdom": {
+    "cards": ["Bridge", "City", "Groundskeeper", "Ironworks", "Jack of All Trades", "Mint", "Monastery", "Ranger", "Shepherd", "Stonemason"],
+    "landscapes": ["Salt the Earth"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Shepherd's Heirloom: each player starts with a Pasture in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom from Adam Horton's ep. 29 description. Colonies not mentioned."
+}

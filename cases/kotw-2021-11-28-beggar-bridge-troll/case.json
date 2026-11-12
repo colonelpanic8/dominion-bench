@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-11-28-beggar-bridge-troll",
+  "title": "KotW 11/28/2021: Bridge Troll, Donate, Engineer, Villa",
+  "source_type": "reddit-kotw",
+  "date": "2021-11-28",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/r4j4o4/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "PathfindingLibrary gives concrete opening sequences (Silver, Donate, Bridge Troll, Engineer) and others agree Bridge Troll is the payload; NohatCoder offers an Engineer/Villa/Destrier alternative.",
+  "kingdom": {
+    "cards": [
+      "Beggar",
+      "Bridge Troll",
+      "Destrier",
+      "Engineer",
+      "Guide",
+      "Hermit",
+      "Hostelry",
+      "Ill-Gotten Gains",
+      "Jack of All Trades",
+      "Villa"
+    ],
+    "landscapes": [
+      "Donate",
+      "Pursue"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Ill-Gotten Gains."
+}

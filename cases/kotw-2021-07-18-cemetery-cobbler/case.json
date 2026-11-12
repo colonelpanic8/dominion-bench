@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-07-18-cemetery-cobbler",
+  "title": "KotW 7/18/2021: Alms, Cemetery, Ranger, Rebuild, Dungeon",
+  "source_type": "reddit-kotw",
+  "date": "2021-07-18",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/on7ees/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Thin: agreement that Alms/Cemetery thins well and the board lacks payload; payload (Rebuild/Dungeon vs engine to double Province) not settled.",
+  "kingdom": {
+    "cards": [
+      "Cemetery",
+      "Cobbler",
+      "Dungeon",
+      "Fortress",
+      "Library",
+      "Ranger",
+      "Raze",
+      "Rebuild",
+      "Village",
+      "Witch"
+    ],
+    "landscapes": [
+      "Alms",
+      "Pilgrimage"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Cemetery's Heirloom: each player starts with a Haunted Mirror in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

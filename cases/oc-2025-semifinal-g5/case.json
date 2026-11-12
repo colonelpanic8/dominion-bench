@@ -1,0 +1,44 @@
+{
+  "id": "oc-2025-semifinal-g5",
+  "title": "2025 Online Championship semifinal, game 5: Port, Inventor, Altar, Tactician",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=e2dIV5xzXTo",
+      "kind": "video",
+      "author": "Lemonspawn's Dominion Videos; commentary Lemonspawn and Stef",
+      "note": "Game 5 at 1:38:00-1:51:30; jonts (first) vs VRSmith"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Thin pre-game read; the commentators were surprised by the result, a turn-7 three-pile of Port, Inventor and Altar, which is clear on the final screen.",
+  "kingdom": {
+    "cards": [
+      "Council Room",
+      "Gold Mine",
+      "Tactician",
+      "Treasure Trove",
+      "Altar",
+      "Augurs",
+      "Inventor",
+      "Port",
+      "Rustic Village",
+      "Buried Treasure"
+    ],
+    "landscapes": [
+      "Sickness",
+      "Way of the Mule",
+      "Toil"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "Augurs split pile (Herb Gatherer on top). Sickness is the Prophecy (5 Sun tokens) because Rustic Village is an Omen.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

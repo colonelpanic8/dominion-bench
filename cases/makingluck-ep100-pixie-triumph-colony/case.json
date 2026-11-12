@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep100-pixie-triumph-colony",
+  "title": "Making Luck ep. 100, kingdom 5: Pixie, City Quarter, Inn, Wild Hunt, Triumph, Arena (Colony)",
+  "source_type": "podcast",
+  "date": "2020-02-28",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=RQk58SzbZd0&t=2470s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 100, Rapid-Fire Kingdom Analysis, 41:10-53:25; kingdom shown on screen"},
+    {"url": "https://ia601500.us.archive.org/28/items/ep100_its_all_weve_got/ep100_its_all_weve_got.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "C",
+  "quality_note": "Long first look by two top players, who disagree on how to build; consensus only on the broad strokes. No games played.",
+  "kingdom": {
+    "cards": ["City Quarter", "Contraband", "Duchess", "Inn", "Mint", "Pixie", "Sculptor", "Transmogrify", "Werewolf", "Wild Hunt"],
+    "landscapes": ["Arena", "Triumph"],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Pixie's Heirloom: each player starts with a Goat in place of one Copper. Boons (Pixie) and Hexes (Werewolf) are used.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Contraband. Read from the kingdom shown in the video (Colony and Platinum in the Supply)."
+}

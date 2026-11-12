@@ -1,0 +1,49 @@
+{
+  "id": "horton-2019-09-finals4",
+  "title": "Horton Fall 2019 Finals 4: Prince/Storeroom, Faithful Hound, Shepherd, Silos, Colonies",
+  "source_type": "designed-tournament",
+  "date": "2019-09-21",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-fall-2019-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Fall 2019 Tournament Summary; Finals set 4"
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1ViQF-GpoQYWCvz7H-Mr_4xKip7v59aUu_A2K9Z_nUd0",
+      "kind": "spreadsheet",
+      "author": "Adam Horton",
+      "note": "Tournament kingdom sheet ('Designed' tab)"
+    }
+  ],
+  "quality": "A",
+  "quality_note": "Designer gives the intended deck, opening and build order from playtesting.",
+  "kingdom": {
+    "cards": [
+      "Faithful Hound",
+      "Pillage",
+      "Market",
+      "Shepherd",
+      "Courtier",
+      "Ironworks",
+      "Mill",
+      "Prince",
+      "Storeroom",
+      "Haven"
+    ],
+    "landscapes": [
+      "City Gate",
+      "Silos"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tournament rule: players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. Shepherd's Heirloom: each player starts with Pasture in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2019 rules: pre-errata Prince and Pillage."
+}

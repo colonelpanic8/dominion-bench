@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-10-31-courtier-embargo",
+  "title": "KotW 10/31/2021: Pirate Ship, Capitalism, Lurker, Lookout",
+  "source_type": "reddit-kotw",
+  "date": "2021-10-31",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/qk2sma/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "13 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Conflicting short takes: EphesosX's Lookout/Lurker/Minion engine vs PathfindingLibrary's one-word 'Pirate Ship', with several agreeing Capitalism plus Pirate Ship is strong.",
+  "kingdom": {
+    "cards": [
+      "Courtier",
+      "Embargo",
+      "Expand",
+      "Lackeys",
+      "Lookout",
+      "Lurker",
+      "Minion",
+      "Pawn",
+      "Pirate Ship",
+      "Sculptor"
+    ],
+    "landscapes": [
+      "Capitalism",
+      "Fleet"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Embargo and Pirate Ship."
+}

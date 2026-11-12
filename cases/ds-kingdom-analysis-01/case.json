@@ -1,0 +1,40 @@
+{
+  "id": "ds-kingdom-analysis-01",
+  "title": "DS Kingdom Analysis #1: Butcher, Inn, Border Village, Messenger, Peddler",
+  "source_type": "blog-analysis",
+  "date": "2019-01-03",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2019/01/03/kingdom-analysis-1/",
+      "kind": "article",
+      "author": "Dominion Strategy blog team",
+      "note": "Pre-game impressions, then playtesting by several testers"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Blog team playtested several lines and found a specific golden deck; one source, no opposing views.",
+  "kingdom": {
+    "cards": [
+      "Messenger",
+      "Sacrifice",
+      "Talisman",
+      "Butcher",
+      "Cobbler",
+      "Inn",
+      "Mint",
+      "Vampire",
+      "Border Village",
+      "Peddler"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Talisman is first-edition Prosperity only. The article doesn't say whether Colonies or Shelters were used; it plays for Provinces."
+}

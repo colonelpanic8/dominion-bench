@@ -1,0 +1,43 @@
+{
+  "id": "horton-2018-11-michigan-b",
+  "title": "U-Con 2018 Set B: Colonies, Bonfire, Tragic Hero, Horn of Plenty, Mandarin",
+  "source_type": "blog-analysis",
+  "date": "2018-11",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-michigan-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Michigan U-Con 2018 Tournament Summary; Set 2018-B (semifinal), Horton won"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Horton names the Mandarin/Horn trick, explains why he skipped it (Militia, Colonies) and won with a Jack/Bonfire thin deck and 6 Colonies.",
+  "kingdom": {
+    "cards": [
+      "Gladiator",
+      "Cemetery",
+      "Conclave",
+      "Gardens",
+      "Jack of All Trades",
+      "Militia",
+      "Horn of Plenty",
+      "Mandarin",
+      "Tragic Hero",
+      "Raider"
+    ],
+    "landscapes": [
+      "Triumphal Arch",
+      "Bonfire"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 3,
+    "setup_notes": "Tournament rule (U-Con): players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. 3-player game. Cemetery's Heirloom: each player starts with Haunted Mirror in place of one Copper. Played with the 2018 Bonfire, which trashed up to 2 cards you have in play (any cards, not only Coppers).",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Mandarin; pre-errata Bonfire (could trash any cards in play)."
+}

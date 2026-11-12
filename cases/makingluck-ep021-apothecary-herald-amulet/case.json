@@ -1,0 +1,26 @@
+{
+  "id": "makingluck-ep021-apothecary-herald-amulet",
+  "title": "Making Luck ep. 21 (ep. 20 kingdom): Apothecary, Herald, Amulet, Spice Merchant, Royal Blacksmith, Sea Hag, Vampire",
+  "source_type": "podcast",
+  "date": "2018-04-24",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=t6dH0UENgws&t=265s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 21, review of the previous episode's kingdom after playing it, about 4:25-12:50 (audio timestamps)"},
+    {"url": "https://ia601502.us.archive.org/4/items/ep021_so_was_that_our_intro/ep021_so_was_that_our_intro.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"},
+    {"url": "https://www.youtube.com/watch?v=hhA8KLR5sPg&t=2965s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 20, kingdom presented with a pre-game read, about 49:25-55:50; auto-captions only"}
+  ],
+  "quality": "A",
+  "quality_note": "Adam Horton and Wandering Winder played many games (a five-hour video) and Jake played more; the hosts agree on the winning deck.",
+  "kingdom": {
+    "cards": ["Amulet", "Apothecary", "Apprentice", "Contraband", "Herald", "Oasis", "Royal Blacksmith", "Sea Hag", "Spice Merchant", "Vampire"],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Potion is in the Supply for Apothecary. Hexes are used (Vampire); Bat is a non-Supply pile.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Sea Hag and Contraband. Kingdom list from the episode description."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep025-jack-scrying-pool-seaway",
+  "title": "Making Luck ep. 25 review: Jack of All Trades, Scrying Pool, Mining Village, Seaway, Wolf Den",
+  "source_type": "podcast",
+  "date": "2018-05-22",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=eSySVIj5g7g&t=532s", "kind": "podcast-video", "author": "Adam Horton and Jake", "note": "Making Luck ep. 25, review of the ep. 24 kingdom, 8:52-21:30; games played against each other, WanderingWinder and bots"},
+    {"url": "https://ia601501.us.archive.org/22/items/ep025_both_ends/ep025_both_ends.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players report on games against each other, WanderingWinder and bots; they agree on the opening, the build and the Seaway target, with a minor split on 5/2.",
+  "kingdom": {
+    "cards": ["City", "Engineer", "Herbalist", "Idol", "Ironmonger", "Jack of All Trades", "Lookout", "Mining Village", "Scrying Pool", "Secret Cave"],
+    "landscapes": ["Seaway", "Wolf Den"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Secret Cave's Heirloom: each player starts with a Magic Lamp in place of one Copper. Idol is a Fate card, so the Boons deck is used. Herbalist and Scrying Pool cost a Potion, so Potion is in the Supply.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Kingdom from Adam Horton's ep. 24 description. Colonies not mentioned."
+}

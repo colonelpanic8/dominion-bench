@@ -1,0 +1,40 @@
+{
+  "id": "ds-annotated-10",
+  "title": "DS Annotated Game #10: Young Witch, Masquerade, Festival, Highway, Venture",
+  "source_type": "annotated-game",
+  "date": "2012-02-17",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2012/02/17/annotated-game-10-geronimoo-vs-wanderingwinder/",
+      "kind": "annotated-game",
+      "author": "Geronimoo vs WanderingWinder (then #1 and #2 on Isotropic)",
+      "note": "Kingdom in an image (saved as raw/blog/img/ag10-board.jpg); game ended by a disconnect"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Game was never finished (disconnect at turn 14); the annotator admits he had no clear plan and followed his opponent.",
+  "kingdom": {
+    "cards": [
+      "Crossroads",
+      "Pawn",
+      "Watchtower",
+      "Young Witch",
+      "Highway",
+      "Native Village",
+      "Masquerade",
+      "Walled Village",
+      "Festival",
+      "Venture"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": "Swindler",
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2012 Isotropic game, first editions. Venture is first-edition Prosperity."
+}

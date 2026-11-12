@@ -1,0 +1,43 @@
+{
+  "id": "worldcup-2026-final-m1-g4",
+  "title": "2026 World Cup final, Fircoal vs kojii, game 4: Research, Jewelled Egg, Island, Guildhall",
+  "source_type": "commentated-match",
+  "date": "2026-02",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_2At4CXlgQA&t=4530",
+      "kind": "video",
+      "author": "JNails, co-commentary Paolo99",
+      "note": "Game 4 at 1:15:30-1:29:30; kojii beat Fircoal"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Thin pre-game read (no villages, moneyish, maybe Guildhall); the rest is play-by-play.",
+  "kingdom": {
+    "cards": [
+      "Mapmaker",
+      "Research",
+      "Band of Misfits",
+      "Carnival",
+      "Hunter",
+      "Jewelled Egg",
+      "Augurs",
+      "Sage",
+      "Envoy",
+      "Island"
+    ],
+    "landscapes": [
+      "Guildhall",
+      "Aqueduct"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Augurs is the split pile Herb Gatherer / Acolyte / Sorceress / Sibyl.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

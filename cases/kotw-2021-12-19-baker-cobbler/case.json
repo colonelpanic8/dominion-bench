@@ -1,0 +1,42 @@
+{
+  "id": "kotw-2021-12-19-baker-cobbler",
+  "title": "KotW 12/19/2021: Ironmonger, Sleigh, Tracker, Bonfire",
+  "source_type": "reddit-kotw",
+  "date": "2021-12-19",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/rkd9b9/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "12 comments"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "PathfindingLibrary and willowhelmiam agree on an Ironmonger/Sleigh/Tracker engine thinned by Bonfire; a Treasure Map money alternative is argued and played once against a bot.",
+  "kingdom": {
+    "cards": [
+      "Baker",
+      "Cobbler",
+      "Festival",
+      "Ironmonger",
+      "Messenger",
+      "Sleigh",
+      "Snowy Village",
+      "Tracker",
+      "Treasure Map",
+      "Warehouse"
+    ],
+    "landscapes": [
+      "Bonfire"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Tracker's Heirloom: each player starts with a Pouch in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-12-19-highwayman-fishing-village",
+  "title": "KotW 12/18/2022: Highwayman, Fishing Village, Lookout, Desert Guides",
+  "source_type": "reddit-kotw",
+  "date": "2022-12-19",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/zpgzgg/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "willowhelmiam's engine plan, disputed in its details by GonffzCheeze (Marquis, Grand Market, Bishop). Untested.",
+  "kingdom": {
+    "cards": [
+      "Acting Troupe",
+      "Bishop",
+      "Courier",
+      "Ducat",
+      "Fishing Village",
+      "Grand Market",
+      "Guildmaster",
+      "Highwayman",
+      "Lookout",
+      "Marquis"
+    ],
+    "landscapes": [
+      "Desert Guides",
+      "Innovation"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Shelters not stated.",
+  "edition": ""
+}

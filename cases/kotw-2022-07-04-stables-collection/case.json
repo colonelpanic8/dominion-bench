@@ -1,0 +1,40 @@
+{
+  "id": "kotw-2022-07-04-stables-collection",
+  "title": "KotW 7/3/2022: Stables, Collection, Charlatan, Forager",
+  "source_type": "reddit-kotw",
+  "date": "2022-07-04",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/vquj7b/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "10 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Short, conflicting takes; SignError gives the only full plan (Charlatan, Stables draw, Collection payload), echoed briefly by PathfindingLibrary.",
+  "kingdom": {
+    "cards": [
+      "Charlatan",
+      "Collection",
+      "Fool's Gold",
+      "Forager",
+      "Market Square",
+      "Scheme",
+      "Squire",
+      "Stables",
+      "Tiara",
+      "Worker's Village"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

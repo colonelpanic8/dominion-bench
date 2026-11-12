@@ -1,0 +1,44 @@
+{
+  "id": "horton-2018-11-michigan-3",
+  "title": "U-Con 2018 Set 3: Colonies, Dominate, Ghost Town, Replace, Taxman",
+  "source_type": "blog-analysis",
+  "date": "2018-11",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-michigan-tournament-summary/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Michigan U-Con 2018 Tournament Summary; Set 2018-3, Horton played and won"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Horton's reasoned 3P plan (win the Ghost Town split via Replace, Taxman, Dominate several times) that he says left him unable to lose.",
+  "kingdom": {
+    "cards": [
+      "Guardian",
+      "Market Square",
+      "Dungeon",
+      "Ghost Town",
+      "Messenger",
+      "Taxman",
+      "Cobbler",
+      "Journeyman",
+      "Legionary"
+    ],
+    "landscapes": [
+      "Mountain Pass",
+      "Dominate",
+      "Replace"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 3,
+    "setup_notes": "Tournament rule (U-Con): players may arrange their starting decks, so they choose a 4/3 or 5/2 opening. 3-player game.",
+    "extra_cards": [],
+    "card_count_note": "Source lists 9 Kingdom piles; one is missing from the blog post."
+  },
+  "kingdom_confidence": "partial: The post lists only nine Kingdom cards for this set; the tenth is missing.",
+  "edition": ""
+}

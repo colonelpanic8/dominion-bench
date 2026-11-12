@@ -1,0 +1,43 @@
+{
+  "id": "oc-2025-semifinal-g4",
+  "title": "2025 Online Championship semifinal, game 4: Old Witch, King's Court, Coven, Avoid",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=e2dIV5xzXTo",
+      "kind": "video",
+      "author": "Lemonspawn's Dominion Videos; commentary Lemonspawn and Stef",
+      "note": "Game 4 at 1:19:30-1:38:00; VRSmith (first) vs jonts"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Short opening discussion (Old Witch, Avoid vs Kintsugi) and a post-game read on why the Silver-heavy deck held up; much of the middle is off-topic.",
+  "kingdom": {
+    "cards": [
+      "Old Witch",
+      "Ronin",
+      "Sculptor",
+      "Witch's Hut",
+      "King's Court",
+      "Monkey",
+      "Warehouse",
+      "Carnival",
+      "Corsair",
+      "Coven"
+    ],
+    "landscapes": [
+      "Avoid",
+      "Kintsugi"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online, second-edition wording."
+}

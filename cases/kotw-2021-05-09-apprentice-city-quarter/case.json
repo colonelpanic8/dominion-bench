@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-05-09-apprentice-city-quarter",
+  "title": "KotW 5/9/2021: Vineyard, University, City Quarter, Masquerade",
+  "source_type": "reddit-kotw",
+  "date": "2021-05-09",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/n8wp2l/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One concrete plan (EphesosX) plus treelorf's Advance note; no pushback or testing.",
+  "kingdom": {
+    "cards": [
+      "Apprentice",
+      "City Quarter",
+      "Count",
+      "Duke",
+      "Masquerade",
+      "Sacrifice",
+      "Storeroom",
+      "University",
+      "Vineyard",
+      "Wild Hunt"
+    ],
+    "landscapes": [
+      "Advance",
+      "Annex"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2022-09-05-shepherd-butcher",
+  "title": "KotW 9/4/2022: Shepherd, Butcher, Peasant, Ranger",
+  "source_type": "reddit-kotw",
+  "date": "2022-09-05",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/x6228u/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "9 comments; one 3-player result"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "willowhelmiam gives a detailed Shepherd plan; a 3-player game report and another commenter favor Rangers instead. Conflicting.",
+  "kingdom": {
+    "cards": [
+      "Baker",
+      "Butcher",
+      "Cobbler",
+      "Fool",
+      "Guide",
+      "Herald",
+      "Peasant",
+      "Ranger",
+      "Shepherd",
+      "Stonemason"
+    ],
+    "landscapes": [
+      "Lost Arts",
+      "Save"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "partial: Colonies and Shelters not stated.",
+  "edition": ""
+}

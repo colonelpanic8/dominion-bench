@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-05-30-artisan-chariot-race",
+  "title": "KotW 5/30/2021: Remodel, Magpie, Watchtower, Mountebank",
+  "source_type": "reddit-kotw",
+  "date": "2021-05-30",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/novrbd/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Three commenters broadly agree (Remodel Estates into Magpies, Watchtower with Banquet, Mountebank, Triumph late) but none is a known strong player and nothing was tested.",
+  "kingdom": {
+    "cards": [
+      "Artisan",
+      "Chariot Race",
+      "Coin of the Realm",
+      "Enchantress",
+      "Haunted Woods",
+      "King's Court",
+      "Magpie",
+      "Mountebank",
+      "Remodel",
+      "Watchtower"
+    ],
+    "landscapes": [
+      "Banquet",
+      "Triumph"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Mountebank."
+}

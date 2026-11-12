@@ -1,0 +1,40 @@
+{
+  "id": "horton-2017-02-never-give-up",
+  "title": "Horton 'Never Give Up': Urchin, Possession, Council Room",
+  "source_type": "annotated-game",
+  "date": "2017-02-05",
+  "sources": [
+    {
+      "url": "https://adamhorton.com/flog/dominion-never-give-up/",
+      "kind": "blog-post",
+      "author": "Adam Horton",
+      "note": "Annotated online game log with Horton's commentary"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "One online game; Horton's pre-game plan plus commentary on his and his opponent's mistakes. The Possession lock won, but the opponent was ahead most of the game and resigned.",
+  "kingdom": {
+    "cards": [
+      "Pearl Diver",
+      "Courtyard",
+      "Urchin",
+      "Hermit",
+      "Shanty Town",
+      "Explorer",
+      "Council Room",
+      "Forum",
+      "Merchant Guild",
+      "Possession"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": null,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Pearl Diver and Explorer. Hermit, Forum, Merchant Guild and Possession use pre-errata rules (Hermit then trashed itself for a Madman when you bought no cards; Possession's tokens went to the possessed player)."
+}

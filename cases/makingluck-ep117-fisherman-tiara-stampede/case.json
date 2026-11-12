@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep117-fisherman-tiara-stampede",
+  "title": "Making Luck ep. 117, kingdom 5: Fisherman, Tiara, Baron, Develop, Stampede",
+  "source_type": "podcast",
+  "date": "2022-09-03",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=_6QemY1KJtc&t=2367s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 117, Rapid-Fire Kingdom Analysis 2, 39:40-47:35; kingdom shown on screen"},
+    {"url": "https://ia601501.us.archive.org/10/items/ep117_stack_of_bread/ep117_stack_of_bread.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "C",
+  "quality_note": "Two top players, first look; they disagree on the opening and don't settle on a plan. Useful for spotting interactions.",
+  "kingdom": {
+    "cards": ["Armory", "Baron", "Develop", "Fisherman", "Hireling", "Merchant Ship", "Ranger", "Remodel", "Tiara", "Warehouse"],
+    "landscapes": ["Desperation", "Stampede"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition Prosperity (Tiara). Read from the kingdom shown in the video. Colonies not mentioned."
+}

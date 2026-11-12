@@ -1,0 +1,59 @@
+{
+  "id": "oc-2025-final-g1",
+  "title": "2025 Online Championship final, game 1: Orchard, Populate, Necromancer, Sculptor",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=MhlRn5rrlbU",
+      "kind": "video",
+      "author": "JNails, co-commentary jonts",
+      "note": "Part 1 of the neutral commentary (games 1-3)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AWDONuwsN74",
+      "kind": "video",
+      "author": "JNails, co-commentary jonts",
+      "note": "Part 2 of the neutral commentary (games 4-6)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kWZyqrCn-ws",
+      "kind": "video",
+      "author": "VRSmith",
+      "note": "Player's own live commentary of the whole match"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Commentators and the losing finalist agree after the game that Populate plus Orchard decided it; the pre-game reads favored a slower trashing build.",
+  "kingdom": {
+    "cards": [
+      "Rats",
+      "Corsair",
+      "Library",
+      "Pendant",
+      "Sculptor",
+      "Encampment",
+      "Sage",
+      "Gondola",
+      "Mountain Village",
+      "Necromancer"
+    ],
+    "landscapes": [
+      "Orchard",
+      "Populate"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Necromancer setup: the three Zombies (Zombie Apprentice, Zombie Mason, Zombie Spy) start in the trash. Encampment is a split pile with Plunder underneath.",
+    "extra_cards": [
+      "Zombie Apprentice",
+      "Zombie Mason",
+      "Zombie Spy"
+    ]
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

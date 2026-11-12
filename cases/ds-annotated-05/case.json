@@ -1,0 +1,46 @@
+{
+  "id": "ds-annotated-05",
+  "title": "DS Annotated Game #5: King's Court, Pawn, Monument, Quarry, Bishop",
+  "source_type": "annotated-game",
+  "date": "2011-03-15",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2011/03/11/annotated-game-5-preview/",
+      "kind": "preview",
+      "author": "Dominion Strategy blog",
+      "note": "Kingdom list"
+    },
+    {
+      "url": "https://dominionstrategy.com/2011/03/15/annotated-game-5/",
+      "kind": "annotated-game",
+      "author": "theory (loser) vs DG",
+      "note": "Move-by-move commentary"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "The losing player explains the winner's King's Court plan; it relied partly on the loser's Bishops thinning the winner's deck. One game, 2011.",
+  "kingdom": {
+    "cards": [
+      "Cellar",
+      "Moat",
+      "Masquerade",
+      "Mining Village",
+      "Quarry",
+      "Courtyard",
+      "Pawn",
+      "Bishop",
+      "Monument",
+      "King's Court"
+    ],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Predates Dark Ages, so no Shelters.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "2011 Isotropic game, first editions (Masquerade's first-edition wording)."
+}

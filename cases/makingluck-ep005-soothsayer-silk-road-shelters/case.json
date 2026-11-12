@@ -1,0 +1,25 @@
+{
+  "id": "makingluck-ep005-soothsayer-silk-road-shelters",
+  "title": "Making Luck ep. 5 review: Soothsayer, Mountebank, Ill-Gotten Gains, Cutpurse, Silk Road (Shelters)",
+  "source_type": "podcast",
+  "date": "2016-04-10",
+  "sources": [
+    {"url": "https://www.youtube.com/watch?v=S5T1Yzwtjcw&t=53s", "kind": "podcast-video", "author": "Adam Horton and Wandering Winder", "note": "Making Luck ep. 5 \"Pre-game Analysis\", 0:53-20:06: review of the previous episode's kingdom after many test games"},
+    {"url": "https://ia601501.us.archive.org/11/items/ep005_great_attacks/ep005_great_attacks.mp3", "kind": "podcast-audio", "author": "Making Luck", "note": "same episode, audio"}
+  ],
+  "quality": "A",
+  "quality_note": "Two top players played many games against each other (Wandering Winder won most) and report concrete conclusions; they still disagree on greening speed.",
+  "kingdom": {
+    "cards": ["Cache", "City", "Contraband", "Cutpurse", "Ill-Gotten Gains", "Mountebank", "Procession", "Quarry", "Silk Road", "Soothsayer"],
+    "landscapes": [],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": true,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "First-edition Cache, Contraband, Ill-Gotten Gains, Mountebank and Silk Road. Kingdom read aloud twice by the hosts (Shelters, no Colonies)."
+}

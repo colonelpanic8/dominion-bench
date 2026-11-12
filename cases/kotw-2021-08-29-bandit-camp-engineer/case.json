@@ -1,0 +1,43 @@
+{
+  "id": "kotw-2021-08-29-bandit-camp-engineer",
+  "title": "KotW 8/29/2021: Rats, Engineer, Horn of Plenty, Way of the Horse",
+  "source_type": "reddit-kotw",
+  "date": "2021-08-29",
+  "sources": [
+    {
+      "url": "https://www.reddit.com/r/dominion/comments/pe6q13/",
+      "kind": "thread",
+      "author": "r/dominion",
+      "note": "8 comments"
+    }
+  ],
+  "quality": "C",
+  "quality_note": "Several short takes agree Rats (with Way of the Horse) and Engineer are the opening; PathfindingLibrary names a Horn of Plenty engine as the goal but doesn't explain it.",
+  "kingdom": {
+    "cards": [
+      "Bandit Camp",
+      "Engineer",
+      "Horn of Plenty",
+      "Island",
+      "Mining Village",
+      "Pixie",
+      "Rats",
+      "Raze",
+      "Stockpile",
+      "Tragic Hero"
+    ],
+    "landscapes": [
+      "Wolf Den",
+      "Way of the Horse"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": true,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Pixie's Heirloom: each player starts with a Goat in place of one Copper.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": ""
+}

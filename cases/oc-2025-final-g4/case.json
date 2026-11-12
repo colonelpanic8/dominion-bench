@@ -1,0 +1,60 @@
+{
+  "id": "oc-2025-final-g4",
+  "title": "2025 Online Championship final, game 4: Barge, Invasion, First Mate, Bandit Fort",
+  "source_type": "commentated-match",
+  "date": "2025-11",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=MhlRn5rrlbU",
+      "kind": "video",
+      "author": "JNails, co-commentary jonts",
+      "note": "Part 1 of the neutral commentary (games 1-3)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AWDONuwsN74",
+      "kind": "video",
+      "author": "JNails, co-commentary jonts",
+      "note": "Part 2 of the neutral commentary (games 4-6)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kWZyqrCn-ws",
+      "kind": "video",
+      "author": "VRSmith",
+      "note": "Player's own live commentary of the whole match"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "Commentators gave a clear plan (Barge/Bazaar into Invasion) and VRSmith largely followed it, but disagreed with his early First Mate/Vault; close 9-7 finish.",
+  "kingdom": {
+    "cards": [
+      "Tools",
+      "Barge",
+      "Bazaar",
+      "First Mate",
+      "Vault",
+      "Druid",
+      "Farmers' Market",
+      "Importer",
+      "Devil's Workshop",
+      "Poacher"
+    ],
+    "landscapes": [
+      "Trappers' Lodge",
+      "Bandit Fort",
+      "Invasion"
+    ],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Druid's set-aside Boons: The Forest's Gift, The Field's Gift, The Wind's Gift. Importer gives each player +4 Favors at setup (5 in total). Invasion uses the Loot pile.",
+    "extra_cards": [
+      "The Forest's Gift",
+      "The Field's Gift",
+      "The Wind's Gift"
+    ]
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Second-edition / Dominion Online wording."
+}

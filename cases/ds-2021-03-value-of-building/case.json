@@ -1,0 +1,43 @@
+{
+  "id": "ds-2021-03-value-of-building",
+  "title": "DS The Value of Building: Mastermind, Artisan, Young Witch, Cutpurse",
+  "source_type": "blog-analysis",
+  "date": "2021-03-15",
+  "sources": [
+    {
+      "url": "https://dominionstrategy.com/2021/03/15/the-value-of-building/",
+      "kind": "article",
+      "author": "topher1588",
+      "note": "Case study of his game against Stef (a top-rated player); kingdom in an image (raw/blog/img/value-of-building.png, via the Wayback Machine)"
+    }
+  ],
+  "quality": "B",
+  "quality_note": "One strong, concrete analysis from a real game against a top player, describing several decks and how each is beaten.",
+  "kingdom": {
+    "cards": [
+      "Temple",
+      "Young Witch",
+      "Journeyman",
+      "Mandarin",
+      "Mastermind",
+      "Artisan",
+      "Fishing Village",
+      "Familiar",
+      "Cutpurse",
+      "Farming Village"
+    ],
+    "landscapes": [
+      "Cathedral",
+      "Exploration"
+    ],
+    "traits": {},
+    "bane": "Raze",
+    "colonies": null,
+    "shelters": null,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Dominion Online game. Mandarin and Farming Village are first-edition Hinterlands. Colonies/Shelters not shown."
+}
