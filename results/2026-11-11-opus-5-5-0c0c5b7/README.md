@@ -86,3 +86,8 @@ Rubric / plan match per case. Post-cutoff cases are dated after June 2026.
 - An earlier smoke test of the tool is not in these results: the tool could
   not pay off Debt, and the analyst swapped a card out to get past it. That
   was fixed before the run.
+
+The dominion-agents and dominion-engine commits cited here were rebased
+onto a newer master after these runs. The originals are kept by the
+`bench-2026-11-11` tag in each repository (`b0e35fe` stays on
+dominion-agents' `solo-lines` branch).

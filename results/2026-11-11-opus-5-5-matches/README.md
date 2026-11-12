@@ -82,3 +82,8 @@ Final decks:
   times, ideally with a stronger player for the complex plan.
 
 Cost: $18 for the six players ($1.60–6.60 each; g1 ran 25 turns a side).
+
+The dominion-agents and dominion-engine commits cited here were rebased
+onto a newer master after these runs. The originals are kept by the
+`bench-2026-11-11` tag in each repository (`b0e35fe` stays on
+dominion-agents' `solo-lines` branch).
