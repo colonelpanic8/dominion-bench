@@ -1,0 +1,481 @@
+{
+  "schema": "dominion/agent-view@2",
+  "game": {
+    "id": "g1",
+    "running": false,
+    "result": {
+      "reason": "provinces-gone",
+      "players": [
+        {
+          "index": 0,
+          "name": "Opus",
+          "vp": 47,
+          "rank": 1,
+          "turns": 25
+        },
+        {
+          "index": 1,
+          "name": "Guided",
+          "vp": 35,
+          "rank": 2,
+          "turns": 25
+        }
+      ]
+    },
+    "kingdom": [
+      "Village",
+      "Smithy",
+      "Chapel",
+      "Bridge",
+      "Cellar",
+      "Moat",
+      "Workshop",
+      "Market",
+      "Festival",
+      "Remodel"
+    ],
+    "landscapes": []
+  },
+  "seat": 0,
+  "spectating": false,
+  "turn": {
+    "yourTurn": false,
+    "phase": null
+  },
+  "you": {
+    "index": 0,
+    "name": "Opus",
+    "vp": 47,
+    "hand": {
+      "count": 5,
+      "known": {
+        "Estate": 2,
+        "Province": 1,
+        "Silver": 2
+      },
+      "unknown": 0
+    },
+    "inPlay": {
+      "count": 0,
+      "known": {},
+      "unknown": 0
+    },
+    "deck": {
+      "count": 9,
+      "known": {
+        "Cellar": 1,
+        "Copper": 3,
+        "Duchy": 1,
+        "Estate": 1,
+        "Gold": 1,
+        "Province": 1,
+        "Smithy": 1
+      },
+      "unknown": 0,
+      "orderKnown": false
+    },
+    "discard": {
+      "count": 21,
+      "known": {
+        "Bridge": 1,
+        "Copper": 4,
+        "Duchy": 3,
+        "Estate": 2,
+        "Gold": 2,
+        "Province": 3,
+        "Silver": 5,
+        "Smithy": 1
+      },
+      "unknown": 0
+    },
+    "otherZones": {},
+    "owned": {
+      "known": {
+        "Bridge": 1,
+        "Cellar": 1,
+        "Copper": 7,
+        "Duchy": 4,
+        "Estate": 5,
+        "Gold": 3,
+        "Province": 5,
+        "Silver": 7,
+        "Smithy": 2
+      },
+      "unknown": 0
+    },
+    "uncertain": [],
+    "turnsTaken": 25,
+    "counters": {}
+  },
+  "opponents": [
+    {
+      "index": 1,
+      "name": "Guided",
+      "vp": 35,
+      "hand": {
+        "count": 5,
+        "known": {},
+        "unknown": 5
+      },
+      "inPlay": {
+        "count": 0,
+        "known": {},
+        "unknown": 0
+      },
+      "deck": {
+        "count": 10,
+        "known": {},
+        "unknown": 10,
+        "orderKnown": false
+      },
+      "discard": {
+        "count": 24,
+        "known": {
+          "Bridge": 4,
+          "Cellar": 2,
+          "Chapel": 1,
+          "Copper": 1,
+          "Duchy": 1,
+          "Festival": 3,
+          "Province": 3,
+          "Silver": 4,
+          "Smithy": 1,
+          "Village": 1
+        },
+        "unknown": 3
+      },
+      "otherZones": {},
+      "owned": {
+        "known": {
+          "Bridge": 5,
+          "Cellar": 2,
+          "Chapel": 1,
+          "Copper": 4,
+          "Curse": 1,
+          "Duchy": 4,
+          "Estate": 6,
+          "Festival": 4,
+          "Province": 3,
+          "Silver": 5,
+          "Smithy": 2,
+          "Village": 2
+        },
+        "unknown": 0
+      },
+      "uncertain": [
+        {
+          "zones": [
+            "hand",
+            "deck",
+            "discard"
+          ],
+          "count": 18,
+          "candidates": {
+            "Bridge": 1,
+            "Copper": 3,
+            "Curse": 1,
+            "Duchy": 3,
+            "Estate": 6,
+            "Festival": 1,
+            "Silver": 1,
+            "Smithy": 1,
+            "Village": 1
+          },
+          "outside": 0
+        }
+      ],
+      "turnsTaken": 25,
+      "counters": {}
+    }
+  ],
+  "supply": [
+    {
+      "card": "Copper",
+      "count": 45,
+      "cost": {
+        "coins": 0
+      },
+      "types": [
+        "Treasure"
+      ]
+    },
+    {
+      "card": "Silver",
+      "count": 28,
+      "cost": {
+        "coins": 3
+      },
+      "types": [
+        "Treasure"
+      ]
+    },
+    {
+      "card": "Gold",
+      "count": 27,
+      "cost": {
+        "coins": 6
+      },
+      "types": [
+        "Treasure"
+      ]
+    },
+    {
+      "card": "Estate",
+      "count": 0,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Victory"
+      ]
+    },
+    {
+      "card": "Duchy",
+      "count": 0,
+      "cost": {
+        "coins": 5
+      },
+      "types": [
+        "Victory"
+      ]
+    },
+    {
+      "card": "Province",
+      "count": 0,
+      "cost": {
+        "coins": 8
+      },
+      "types": [
+        "Victory"
+      ]
+    },
+    {
+      "card": "Curse",
+      "count": 9,
+      "cost": {
+        "coins": 0
+      },
+      "types": [
+        "Curse"
+      ]
+    },
+    {
+      "card": "Village",
+      "count": 8,
+      "cost": {
+        "coins": 3
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Smithy",
+      "count": 6,
+      "cost": {
+        "coins": 4
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Chapel",
+      "count": 9,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Bridge",
+      "count": 4,
+      "cost": {
+        "coins": 4
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Cellar",
+      "count": 7,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Moat",
+      "count": 10,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Action",
+        "Reaction"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Workshop",
+      "count": 10,
+      "cost": {
+        "coins": 3
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Market",
+      "count": 10,
+      "cost": {
+        "coins": 5
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Festival",
+      "count": 6,
+      "cost": {
+        "coins": 5
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Remodel",
+      "count": 10,
+      "cost": {
+        "coins": 4
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    }
+  ],
+  "nonSupply": [],
+  "landscapes": [],
+  "trash": {
+    "count": 7,
+    "known": {
+      "Copper": 4,
+      "Estate": 3
+    },
+    "unknown": 0
+  },
+  "decision": null,
+  "sinceLastDecision": [
+    {
+      "seq": 492,
+      "type": "bought",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus buys Silver"
+    },
+    {
+      "seq": 493,
+      "type": "gained",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus gains Silver"
+    },
+    {
+      "seq": 494,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 495,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Guided starts turn 25"
+    },
+    {
+      "seq": 496,
+      "type": "played",
+      "player": 1,
+      "card": "Festival",
+      "text": "Guided plays Festival"
+    },
+    {
+      "seq": 497,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Guided plays Smithy"
+    },
+    {
+      "seq": 498,
+      "type": "drew",
+      "player": 1,
+      "text": "Guided draws 3 card(s)"
+    },
+    {
+      "seq": 499,
+      "type": "played",
+      "player": 1,
+      "card": "Festival",
+      "text": "Guided plays Festival"
+    },
+    {
+      "seq": 500,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Guided plays Bridge"
+    },
+    {
+      "seq": 501,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Guided plays Bridge"
+    },
+    {
+      "seq": 502,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Guided plays Copper"
+    },
+    {
+      "seq": 503,
+      "type": "bought",
+      "player": 1,
+      "card": "Province",
+      "text": "Guided buys Province"
+    },
+    {
+      "seq": 504,
+      "type": "gained",
+      "player": 1,
+      "card": "Province",
+      "text": "Guided gains Province"
+    },
+    {
+      "seq": 505,
+      "type": "drew",
+      "player": 1,
+      "text": "Guided draws 5 card(s)"
+    }
+  ]
+}

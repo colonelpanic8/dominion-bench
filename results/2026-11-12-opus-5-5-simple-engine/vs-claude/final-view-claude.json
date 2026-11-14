@@ -1,0 +1,3025 @@
+{
+  "schema": "dominion/agent-view@2",
+  "game": {
+    "id": "g1",
+    "running": false,
+    "result": {
+      "reason": "provinces-gone",
+      "players": [
+        {
+          "index": 0,
+          "name": "Opus",
+          "vp": 30,
+          "rank": 2,
+          "turns": 13
+        },
+        {
+          "index": 1,
+          "name": "Claude",
+          "vp": 45,
+          "rank": 1,
+          "turns": 13
+        }
+      ]
+    },
+    "kingdom": [
+      "Village",
+      "Smithy",
+      "Chapel",
+      "Bridge",
+      "Cellar",
+      "Moat",
+      "Workshop",
+      "Market",
+      "Festival",
+      "Remodel"
+    ],
+    "landscapes": []
+  },
+  "seat": 1,
+  "spectating": false,
+  "turn": {
+    "yourTurn": false,
+    "phase": null
+  },
+  "you": {
+    "index": 1,
+    "name": "Claude",
+    "vp": 45,
+    "hand": {
+      "count": 5,
+      "known": {
+        "Bridge": 1,
+        "Chapel": 1,
+        "Market": 1,
+        "Province": 2
+      },
+      "unknown": 0
+    },
+    "inPlay": {
+      "count": 0,
+      "known": {},
+      "unknown": 0
+    },
+    "deck": {
+      "count": 34,
+      "known": {
+        "Bridge": 5,
+        "Copper": 3,
+        "Duchy": 7,
+        "Market": 2,
+        "Province": 2,
+        "Smithy": 4,
+        "Village": 10,
+        "Workshop": 1
+      },
+      "unknown": 0,
+      "orderKnown": false
+    },
+    "discard": {
+      "count": 0,
+      "known": {},
+      "unknown": 0
+    },
+    "otherZones": {},
+    "owned": {
+      "known": {
+        "Bridge": 6,
+        "Chapel": 1,
+        "Copper": 3,
+        "Duchy": 7,
+        "Market": 3,
+        "Province": 4,
+        "Smithy": 4,
+        "Village": 10,
+        "Workshop": 1
+      },
+      "unknown": 0
+    },
+    "uncertain": [],
+    "turnsTaken": 13,
+    "counters": {}
+  },
+  "opponents": [
+    {
+      "index": 0,
+      "name": "Opus",
+      "vp": 30,
+      "hand": {
+        "count": 5,
+        "known": {},
+        "unknown": 5
+      },
+      "inPlay": {
+        "count": 0,
+        "known": {},
+        "unknown": 0
+      },
+      "deck": {
+        "count": 12,
+        "known": {},
+        "unknown": 12,
+        "orderKnown": false
+      },
+      "discard": {
+        "count": 6,
+        "known": {
+          "Copper": 2,
+          "Estate": 1,
+          "Gold": 2,
+          "Province": 1
+        },
+        "unknown": 0
+      },
+      "otherZones": {},
+      "owned": {
+        "known": {
+          "Cellar": 1,
+          "Copper": 7,
+          "Duchy": 1,
+          "Estate": 3,
+          "Gold": 3,
+          "Province": 4,
+          "Silver": 2,
+          "Smithy": 2
+        },
+        "unknown": 0
+      },
+      "uncertain": [
+        {
+          "zones": [
+            "hand",
+            "deck"
+          ],
+          "count": 17,
+          "candidates": {
+            "Cellar": 1,
+            "Copper": 5,
+            "Duchy": 1,
+            "Estate": 2,
+            "Gold": 1,
+            "Province": 3,
+            "Silver": 2,
+            "Smithy": 2
+          },
+          "outside": 0
+        }
+      ],
+      "turnsTaken": 13,
+      "counters": {}
+    }
+  ],
+  "supply": [
+    {
+      "card": "Copper",
+      "count": 46,
+      "cost": {
+        "coins": 0
+      },
+      "types": [
+        "Treasure"
+      ]
+    },
+    {
+      "card": "Silver",
+      "count": 38,
+      "cost": {
+        "coins": 3
+      },
+      "types": [
+        "Treasure"
+      ]
+    },
+    {
+      "card": "Gold",
+      "count": 27,
+      "cost": {
+        "coins": 6
+      },
+      "types": [
+        "Treasure"
+      ]
+    },
+    {
+      "card": "Estate",
+      "count": 8,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Victory"
+      ]
+    },
+    {
+      "card": "Duchy",
+      "count": 0,
+      "cost": {
+        "coins": 5
+      },
+      "types": [
+        "Victory"
+      ]
+    },
+    {
+      "card": "Province",
+      "count": 0,
+      "cost": {
+        "coins": 8
+      },
+      "types": [
+        "Victory"
+      ]
+    },
+    {
+      "card": "Curse",
+      "count": 10,
+      "cost": {
+        "coins": 0
+      },
+      "types": [
+        "Curse"
+      ]
+    },
+    {
+      "card": "Village",
+      "count": 0,
+      "cost": {
+        "coins": 3
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Smithy",
+      "count": 4,
+      "cost": {
+        "coins": 4
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Chapel",
+      "count": 9,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Bridge",
+      "count": 4,
+      "cost": {
+        "coins": 4
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Cellar",
+      "count": 9,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Moat",
+      "count": 10,
+      "cost": {
+        "coins": 2
+      },
+      "types": [
+        "Action",
+        "Reaction"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Workshop",
+      "count": 9,
+      "cost": {
+        "coins": 3
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Market",
+      "count": 7,
+      "cost": {
+        "coins": 5
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Festival",
+      "count": 10,
+      "cost": {
+        "coins": 5
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    },
+    {
+      "card": "Remodel",
+      "count": 10,
+      "cost": {
+        "coins": 4
+      },
+      "types": [
+        "Action"
+      ],
+      "kingdom": true
+    }
+  ],
+  "nonSupply": [],
+  "landscapes": [],
+  "trash": {
+    "count": 7,
+    "known": {
+      "Copper": 4,
+      "Estate": 3
+    },
+    "unknown": 0
+  },
+  "decision": null,
+  "sinceLastDecision": [
+    {
+      "seq": 0,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 1"
+    },
+    {
+      "seq": 1,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 2,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 3,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 4,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 5,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 6,
+      "type": "bought",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus buys Smithy"
+    },
+    {
+      "seq": 7,
+      "type": "gained",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus gains Smithy"
+    },
+    {
+      "seq": 8,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 9,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 1"
+    },
+    {
+      "seq": 10,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 11,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 12,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 13,
+      "type": "bought",
+      "player": 1,
+      "card": "Chapel",
+      "text": "Claude buys Chapel"
+    },
+    {
+      "seq": 14,
+      "type": "gained",
+      "player": 1,
+      "card": "Chapel",
+      "text": "Claude gains Chapel"
+    },
+    {
+      "seq": 15,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 16,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 2"
+    },
+    {
+      "seq": 17,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 18,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 19,
+      "type": "bought",
+      "player": 0,
+      "card": "Cellar",
+      "text": "Opus buys Cellar"
+    },
+    {
+      "seq": 20,
+      "type": "gained",
+      "player": 0,
+      "card": "Cellar",
+      "text": "Opus gains Cellar"
+    },
+    {
+      "seq": 21,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 22,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 23,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 2"
+    },
+    {
+      "seq": 24,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 25,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 26,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 27,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 28,
+      "type": "bought",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude buys Bridge"
+    },
+    {
+      "seq": 29,
+      "type": "gained",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude gains Bridge"
+    },
+    {
+      "seq": 30,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 31,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 32,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 3"
+    },
+    {
+      "seq": 33,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 34,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 35,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 36,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 37,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 38,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 39,
+      "type": "bought",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus buys Silver"
+    },
+    {
+      "seq": 40,
+      "type": "gained",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus gains Silver"
+    },
+    {
+      "seq": 41,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 42,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 43,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 3"
+    },
+    {
+      "seq": 44,
+      "type": "played",
+      "player": 1,
+      "card": "Chapel",
+      "text": "Claude plays Chapel"
+    },
+    {
+      "seq": 45,
+      "type": "trashed",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude trashes Copper"
+    },
+    {
+      "seq": 46,
+      "type": "trashed",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude trashes Copper"
+    },
+    {
+      "seq": 47,
+      "type": "trashed",
+      "player": 1,
+      "card": "Estate",
+      "text": "Claude trashes Estate"
+    },
+    {
+      "seq": 48,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 49,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 4"
+    },
+    {
+      "seq": 50,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 51,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 52,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 53,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 54,
+      "type": "bought",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus buys Silver"
+    },
+    {
+      "seq": 55,
+      "type": "gained",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus gains Silver"
+    },
+    {
+      "seq": 56,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 57,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 4"
+    },
+    {
+      "seq": 58,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 59,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 60,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 61,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 62,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 63,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 64,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 65,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 5"
+    },
+    {
+      "seq": 66,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 67,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 68,
+      "type": "played",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus plays Silver"
+    },
+    {
+      "seq": 69,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 70,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 71,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 72,
+      "type": "bought",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus buys Smithy"
+    },
+    {
+      "seq": 73,
+      "type": "gained",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus gains Smithy"
+    },
+    {
+      "seq": 74,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 75,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 76,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 5"
+    },
+    {
+      "seq": 77,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 78,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 79,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 80,
+      "type": "bought",
+      "player": 1,
+      "card": "Workshop",
+      "text": "Claude buys Workshop"
+    },
+    {
+      "seq": 81,
+      "type": "gained",
+      "player": 1,
+      "card": "Workshop",
+      "text": "Claude gains Workshop"
+    },
+    {
+      "seq": 82,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 83,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 6"
+    },
+    {
+      "seq": 84,
+      "type": "played",
+      "player": 0,
+      "card": "Cellar",
+      "text": "Opus plays Cellar"
+    },
+    {
+      "seq": 85,
+      "type": "discarded",
+      "player": 0,
+      "card": "Estate",
+      "text": "Opus discards Estate"
+    },
+    {
+      "seq": 86,
+      "type": "discarded",
+      "player": 0,
+      "card": "Estate",
+      "text": "Opus discards Estate"
+    },
+    {
+      "seq": 87,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 2 card(s)"
+    },
+    {
+      "seq": 88,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 89,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 90,
+      "type": "played",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus plays Silver"
+    },
+    {
+      "seq": 91,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 92,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 93,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 94,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 95,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 96,
+      "type": "bought",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus buys Gold"
+    },
+    {
+      "seq": 97,
+      "type": "gained",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus gains Gold"
+    },
+    {
+      "seq": 98,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 99,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 6"
+    },
+    {
+      "seq": 100,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 101,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 102,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 103,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 104,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 105,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 106,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 107,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 108,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 109,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 110,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 111,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 112,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 7"
+    },
+    {
+      "seq": 113,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 114,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 115,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 116,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 117,
+      "type": "played",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus plays Silver"
+    },
+    {
+      "seq": 118,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 119,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 120,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 121,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 122,
+      "type": "bought",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus buys Gold"
+    },
+    {
+      "seq": 123,
+      "type": "gained",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus gains Gold"
+    },
+    {
+      "seq": 124,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 125,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 7"
+    },
+    {
+      "seq": 126,
+      "type": "played",
+      "player": 1,
+      "card": "Workshop",
+      "text": "Claude plays Workshop"
+    },
+    {
+      "seq": 127,
+      "type": "gained",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude gains Smithy"
+    },
+    {
+      "seq": 128,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 129,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 130,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 8"
+    },
+    {
+      "seq": 131,
+      "type": "played",
+      "player": 0,
+      "card": "Cellar",
+      "text": "Opus plays Cellar"
+    },
+    {
+      "seq": 132,
+      "type": "discarded",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus discards Copper"
+    },
+    {
+      "seq": 133,
+      "type": "discarded",
+      "player": 0,
+      "card": "Estate",
+      "text": "Opus discards Estate"
+    },
+    {
+      "seq": 134,
+      "type": "discarded",
+      "player": 0,
+      "card": "Estate",
+      "text": "Opus discards Estate"
+    },
+    {
+      "seq": 135,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 136,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 137,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 138,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 139,
+      "type": "played",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus plays Silver"
+    },
+    {
+      "seq": 140,
+      "type": "played",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus plays Gold"
+    },
+    {
+      "seq": 141,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 142,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 143,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 144,
+      "type": "bought",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus buys Province"
+    },
+    {
+      "seq": 145,
+      "type": "gained",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus gains Province"
+    },
+    {
+      "seq": 146,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 147,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 8"
+    },
+    {
+      "seq": 148,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 149,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 150,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 151,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 152,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 153,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 154,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 155,
+      "type": "played",
+      "player": 1,
+      "card": "Workshop",
+      "text": "Claude plays Workshop"
+    },
+    {
+      "seq": 156,
+      "type": "gained",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude gains Market"
+    },
+    {
+      "seq": 157,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 158,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 159,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 160,
+      "type": "bought",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude buys Smithy"
+    },
+    {
+      "seq": 161,
+      "type": "gained",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude gains Smithy"
+    },
+    {
+      "seq": 162,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 163,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 164,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 9"
+    },
+    {
+      "seq": 165,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 166,
+      "type": "played",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus plays Gold"
+    },
+    {
+      "seq": 167,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 168,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 169,
+      "type": "bought",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus buys Gold"
+    },
+    {
+      "seq": 170,
+      "type": "gained",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus gains Gold"
+    },
+    {
+      "seq": 171,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 172,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 173,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 9"
+    },
+    {
+      "seq": 174,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 175,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 176,
+      "type": "played",
+      "player": 1,
+      "card": "Chapel",
+      "text": "Claude plays Chapel"
+    },
+    {
+      "seq": 177,
+      "type": "trashed",
+      "player": 1,
+      "card": "Estate",
+      "text": "Claude trashes Estate"
+    },
+    {
+      "seq": 178,
+      "type": "trashed",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude trashes Copper"
+    },
+    {
+      "seq": 179,
+      "type": "trashed",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude trashes Copper"
+    },
+    {
+      "seq": 180,
+      "type": "trashed",
+      "player": 1,
+      "card": "Estate",
+      "text": "Claude trashes Estate"
+    },
+    {
+      "seq": 181,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 182,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 10"
+    },
+    {
+      "seq": 183,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 184,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 185,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 186,
+      "type": "played",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus plays Silver"
+    },
+    {
+      "seq": 187,
+      "type": "played",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus plays Gold"
+    },
+    {
+      "seq": 188,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 189,
+      "type": "played",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus plays Gold"
+    },
+    {
+      "seq": 190,
+      "type": "bought",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus buys Province"
+    },
+    {
+      "seq": 191,
+      "type": "gained",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus gains Province"
+    },
+    {
+      "seq": 192,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 193,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 10"
+    },
+    {
+      "seq": 194,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 195,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 196,
+      "type": "played",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude plays Market"
+    },
+    {
+      "seq": 197,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 198,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 199,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 200,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 201,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 202,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 203,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 204,
+      "type": "played",
+      "player": 1,
+      "card": "Workshop",
+      "text": "Claude plays Workshop"
+    },
+    {
+      "seq": 205,
+      "type": "gained",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude gains Bridge"
+    },
+    {
+      "seq": 206,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 207,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 208,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 209,
+      "type": "bought",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude buys Bridge"
+    },
+    {
+      "seq": 210,
+      "type": "gained",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude gains Bridge"
+    },
+    {
+      "seq": 211,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 212,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 213,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 214,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 215,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 11"
+    },
+    {
+      "seq": 216,
+      "type": "played",
+      "player": 0,
+      "card": "Cellar",
+      "text": "Opus plays Cellar"
+    },
+    {
+      "seq": 217,
+      "type": "discarded",
+      "player": 0,
+      "card": "Estate",
+      "text": "Opus discards Estate"
+    },
+    {
+      "seq": 218,
+      "type": "discarded",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus discards Copper"
+    },
+    {
+      "seq": 219,
+      "type": "discarded",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus discards Copper"
+    },
+    {
+      "seq": 220,
+      "type": "discarded",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus discards Copper"
+    },
+    {
+      "seq": 221,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 4 card(s)"
+    },
+    {
+      "seq": 222,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 223,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 224,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 225,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 226,
+      "type": "played",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus plays Gold"
+    },
+    {
+      "seq": 227,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 228,
+      "type": "played",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus plays Silver"
+    },
+    {
+      "seq": 229,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 230,
+      "type": "bought",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus buys Province"
+    },
+    {
+      "seq": 231,
+      "type": "gained",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus gains Province"
+    },
+    {
+      "seq": 232,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 233,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 11"
+    },
+    {
+      "seq": 234,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 235,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 236,
+      "type": "played",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude plays Market"
+    },
+    {
+      "seq": 237,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 238,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 239,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 240,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 241,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 242,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 243,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 244,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 245,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 246,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 247,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 248,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 249,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 250,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 251,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 252,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 253,
+      "type": "bought",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude buys Bridge"
+    },
+    {
+      "seq": 254,
+      "type": "gained",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude gains Bridge"
+    },
+    {
+      "seq": 255,
+      "type": "bought",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude buys Market"
+    },
+    {
+      "seq": 256,
+      "type": "gained",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude gains Market"
+    },
+    {
+      "seq": 257,
+      "type": "bought",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude buys Market"
+    },
+    {
+      "seq": 258,
+      "type": "gained",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude gains Market"
+    },
+    {
+      "seq": 259,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 260,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 261,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 262,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 263,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 264,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 265,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 12"
+    },
+    {
+      "seq": 266,
+      "type": "played",
+      "player": 0,
+      "card": "Smithy",
+      "text": "Opus plays Smithy"
+    },
+    {
+      "seq": 267,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 3 card(s)"
+    },
+    {
+      "seq": 268,
+      "type": "played",
+      "player": 0,
+      "card": "Silver",
+      "text": "Opus plays Silver"
+    },
+    {
+      "seq": 269,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 270,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 271,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 272,
+      "type": "bought",
+      "player": 0,
+      "card": "Duchy",
+      "text": "Opus buys Duchy"
+    },
+    {
+      "seq": 273,
+      "type": "gained",
+      "player": 0,
+      "card": "Duchy",
+      "text": "Opus gains Duchy"
+    },
+    {
+      "seq": 274,
+      "type": "shuffled",
+      "player": 0,
+      "text": "Opus shuffles"
+    },
+    {
+      "seq": 275,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 276,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 12"
+    },
+    {
+      "seq": 277,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 278,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 279,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 280,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 281,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 282,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 283,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 284,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 285,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 286,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 287,
+      "type": "played",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude plays Market"
+    },
+    {
+      "seq": 288,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 289,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 290,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 291,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 292,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 293,
+      "type": "played",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude plays Market"
+    },
+    {
+      "seq": 294,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 295,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 296,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 297,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 298,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 299,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 300,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 301,
+      "type": "played",
+      "player": 1,
+      "card": "Workshop",
+      "text": "Claude plays Workshop"
+    },
+    {
+      "seq": 302,
+      "type": "gained",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude gains Smithy"
+    },
+    {
+      "seq": 303,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 304,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 305,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 306,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 307,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 308,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 309,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 310,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 311,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 312,
+      "type": "bought",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude buys Village"
+    },
+    {
+      "seq": 313,
+      "type": "gained",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude gains Village"
+    },
+    {
+      "seq": 314,
+      "type": "bought",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude buys Bridge"
+    },
+    {
+      "seq": 315,
+      "type": "gained",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude gains Bridge"
+    },
+    {
+      "seq": 316,
+      "type": "bought",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude buys Bridge"
+    },
+    {
+      "seq": 317,
+      "type": "gained",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude gains Bridge"
+    },
+    {
+      "seq": 318,
+      "type": "bought",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude buys Smithy"
+    },
+    {
+      "seq": 319,
+      "type": "gained",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude gains Smithy"
+    },
+    {
+      "seq": 320,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 321,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    },
+    {
+      "seq": 322,
+      "type": "turn-start",
+      "player": 0,
+      "text": "Opus starts turn 13"
+    },
+    {
+      "seq": 323,
+      "type": "played",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus plays Gold"
+    },
+    {
+      "seq": 324,
+      "type": "played",
+      "player": 0,
+      "card": "Gold",
+      "text": "Opus plays Gold"
+    },
+    {
+      "seq": 325,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 326,
+      "type": "played",
+      "player": 0,
+      "card": "Copper",
+      "text": "Opus plays Copper"
+    },
+    {
+      "seq": 327,
+      "type": "bought",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus buys Province"
+    },
+    {
+      "seq": 328,
+      "type": "gained",
+      "player": 0,
+      "card": "Province",
+      "text": "Opus gains Province"
+    },
+    {
+      "seq": 329,
+      "type": "drew",
+      "player": 0,
+      "text": "Opus draws 5 card(s)"
+    },
+    {
+      "seq": 330,
+      "type": "turn-start",
+      "player": 1,
+      "text": "Claude starts turn 13"
+    },
+    {
+      "seq": 331,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 332,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 333,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 334,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 335,
+      "type": "played",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude plays Market"
+    },
+    {
+      "seq": 336,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 337,
+      "type": "played",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude plays Market"
+    },
+    {
+      "seq": 338,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 339,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 340,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 341,
+      "type": "played",
+      "player": 1,
+      "card": "Market",
+      "text": "Claude plays Market"
+    },
+    {
+      "seq": 342,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 343,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 344,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 345,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 346,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 347,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 348,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 349,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 350,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 3 card(s)"
+    },
+    {
+      "seq": 351,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 352,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 353,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 354,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 355,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 356,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 357,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 358,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 359,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 360,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 1 card(s)"
+    },
+    {
+      "seq": 361,
+      "type": "played",
+      "player": 1,
+      "card": "Smithy",
+      "text": "Claude plays Smithy"
+    },
+    {
+      "seq": 362,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 2 card(s)"
+    },
+    {
+      "seq": 363,
+      "type": "played",
+      "player": 1,
+      "card": "Village",
+      "text": "Claude plays Village"
+    },
+    {
+      "seq": 364,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 365,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 366,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 367,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 368,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 369,
+      "type": "played",
+      "player": 1,
+      "card": "Bridge",
+      "text": "Claude plays Bridge"
+    },
+    {
+      "seq": 370,
+      "type": "played",
+      "player": 1,
+      "card": "Workshop",
+      "text": "Claude plays Workshop"
+    },
+    {
+      "seq": 371,
+      "type": "gained",
+      "player": 1,
+      "card": "Province",
+      "text": "Claude gains Province"
+    },
+    {
+      "seq": 372,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 373,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 374,
+      "type": "played",
+      "player": 1,
+      "card": "Copper",
+      "text": "Claude plays Copper"
+    },
+    {
+      "seq": 375,
+      "type": "bought",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude buys Duchy"
+    },
+    {
+      "seq": 376,
+      "type": "gained",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude gains Duchy"
+    },
+    {
+      "seq": 377,
+      "type": "bought",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude buys Duchy"
+    },
+    {
+      "seq": 378,
+      "type": "gained",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude gains Duchy"
+    },
+    {
+      "seq": 379,
+      "type": "bought",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude buys Duchy"
+    },
+    {
+      "seq": 380,
+      "type": "gained",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude gains Duchy"
+    },
+    {
+      "seq": 381,
+      "type": "bought",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude buys Duchy"
+    },
+    {
+      "seq": 382,
+      "type": "gained",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude gains Duchy"
+    },
+    {
+      "seq": 383,
+      "type": "bought",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude buys Duchy"
+    },
+    {
+      "seq": 384,
+      "type": "gained",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude gains Duchy"
+    },
+    {
+      "seq": 385,
+      "type": "bought",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude buys Duchy"
+    },
+    {
+      "seq": 386,
+      "type": "gained",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude gains Duchy"
+    },
+    {
+      "seq": 387,
+      "type": "bought",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude buys Duchy"
+    },
+    {
+      "seq": 388,
+      "type": "gained",
+      "player": 1,
+      "card": "Duchy",
+      "text": "Claude gains Duchy"
+    },
+    {
+      "seq": 389,
+      "type": "bought",
+      "player": 1,
+      "card": "Province",
+      "text": "Claude buys Province"
+    },
+    {
+      "seq": 390,
+      "type": "gained",
+      "player": 1,
+      "card": "Province",
+      "text": "Claude gains Province"
+    },
+    {
+      "seq": 391,
+      "type": "bought",
+      "player": 1,
+      "card": "Province",
+      "text": "Claude buys Province"
+    },
+    {
+      "seq": 392,
+      "type": "gained",
+      "player": 1,
+      "card": "Province",
+      "text": "Claude gains Province"
+    },
+    {
+      "seq": 393,
+      "type": "bought",
+      "player": 1,
+      "card": "Province",
+      "text": "Claude buys Province"
+    },
+    {
+      "seq": 394,
+      "type": "gained",
+      "player": 1,
+      "card": "Province",
+      "text": "Claude gains Province"
+    },
+    {
+      "seq": 395,
+      "type": "shuffled",
+      "player": 1,
+      "text": "Claude shuffles"
+    },
+    {
+      "seq": 396,
+      "type": "drew",
+      "player": 1,
+      "text": "Claude draws 5 card(s)"
+    }
+  ]
+}

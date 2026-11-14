@@ -25,6 +25,11 @@ the case format, sources, and how to run and grade a benchmark;
 - `case.json` holds only what a player sees at setup. Analysis goes in
   `key.md`.
 
+## Games
+
+- A replay in `results/` gives, under every gain, the reason the player
+  stated for it.
+
 ## Checks
 
 `just check` (inside the dev shell: `direnv allow`, or
