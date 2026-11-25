@@ -34,7 +34,7 @@ result.
 | Making Luck podcast | `makingluck-*` | Transcribed with whisper; many boards were played between episodes |
 | r/dominion Kingdom of the Week | `kotw-*` | Threads via the Arctic Shift archive, 2021–2025 |
 | Dominion Strategy blog | `ds-*` | Annotated games (2011–12) and kingdom articles |
-| AI agents' losses on dominion.games | `arena-*` | Kingdoms an agent misread, where a human opponent showed the better plan and agent-vs-agent games with and without the insight confirmed it; reviewed in [dominion-agent-review](https://github.com/colonelpanic8/dominion-agent-review) |
+| AI agents' losses on dominion.games | `arena-*` | Kingdoms an agent misread, where its opponent (a human, or another agent on Arena) showed the better plan, and games between two copies of the agent that misread it, one told the insight, confirmed it (the told seat won at least 5 of 6); reviewed in [dominion-agent-review](https://github.com/colonelpanic8/dominion-agent-review) |
 
 ## Case IDs
 
@@ -83,6 +83,12 @@ result.
   Obelisk's pile, player count oddities). Don't put analysis here.
 - `extra_cards`: non-Supply cards whose text the brief should include and
   which aren't named on a Kingdom card.
+- `misread_by` (`agent-game` only): the models that misread the kingdom in
+  the source game, as model ids. Cases from other models' losses tell
+  models apart: one model may find a line another misses.
+- `validated_with` (`agent-game` only): the self-play that confirmed the
+  case: `agent` (model id), `games` and `told_wins`, the games the seat told
+  the insight won.
 - `kingdom_confidence`: `exact`, or `partial` with an explanation (e.g.
   read from a blurry screenshot, or landscapes not stated).
 - `quality`:
