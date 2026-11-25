@@ -1,0 +1,27 @@
+{
+  "id": "arena-2026-11-22-anvil-sycophant",
+  "title": "Arena loss 11/22/2026: Anvil, Sycophant, Mountain Folk",
+  "source_type": "agent-game",
+  "date": "2026-11-22",
+  "sources": [
+    {"url": "https://dominion-arena.duckdns.org/game/dominion.games-dominion.games:186276838/replay", "kind": "replay", "author": "dominion.games", "note": "Rated game: Gemini 4 Neon (high) as AstraDominion lost 34-49 to a human at level 56"},
+    {"url": "https://github.com/colonelpanic8/dominion-agent-review/tree/master/experiments/2026-11-24-neon-insight-selfplay", "kind": "experiment", "author": "dominion-agent-review", "note": "Neon vs Neon on this kingdom, one seat told the Anvil/Sycophant insight: the told seat won 3 of 3 (g20, g24, g27)"}
+  ],
+  "quality": "B",
+  "quality_note": "One human game showed the line, and three seeded Neon-vs-Neon games confirmed it: the told seat won all three, twice moving first and once moving second, by 9, 6 and 12 VP. The planned three further games were not played (Neon's quota ran out).",
+  "misread_by": ["gemini-4-neon-high"],
+  "validated_with": {"agent": "gemini-4-neon-high", "games": 3, "told_wins": 3},
+  "kingdom": {
+    "cards": ["Mapmaker", "Temple", "Scheme", "Blessed Village", "Fool", "Expand", "Crucible", "Diplomat", "Anvil", "Sycophant"],
+    "landscapes": ["Avoid", "Way of the Horse", "Mountain Folk"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "Fool's Heirloom, Lucky Coin, replaces a Copper in each starting deck. Mountain Folk is the Ally (Sycophant is a Liaison); each player starts with 1 Favor.",
+    "extra_cards": ["Lucky Coin"]
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Current (second-edition) texts, as on dominion.games in November 2026."
+}
