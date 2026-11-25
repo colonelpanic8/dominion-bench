@@ -1,0 +1,67 @@
+**Recommendation:** Open with thinning, then build around **Lost City, Villa, and one Tools**. Aim for three Lost Cities as a working core and four for a deck that can keep drawing through green cards. Villa supplies the Buys and lets Tools rescue stalled hands. Buy Innovation once you can turn its immediate plays into extra cards, thinning, or money on several upcoming turns. At the first $6, Gold is usually better if you already have draw and are short on money.
+
+## Board
+
+This is a two-player Province board with strong thinning, plentiful Actions, and a contested source of real draw. Lost City gains help the opponent immediately, but each copy you secure helps your deck draw and develop for the rest of the game. The main question is whether you can turn that draw into $13 or $16 before your opponent can end on piles. [Kingdom and card text](/tmp/claude-1000/-home-imalison-projects-dominion-arena/f8629424-2e36-48be-8522-e621f2b4ebe7/scratchpad/sol-bench/sb/oc-2026-final-g5/kingdoms/oc-2026-final-g5.md)
+
+| Cost | Piles and landscapes | What matters |
+|---|---|---|
+| $0 | Borrow, Event | One coin for one fewer card on your next draw. The Event spends and replaces a Buy. |
+| $2 | Lighthouse | One coin now and one next turn. The board is attack-free. |
+| $3 | Sentinel | Trashes up to two among the top five and orders the survivors. |
+| $4 | Villa, Caravan, Harbor Village, Tools | Buys and phase changes, next-turn draw, a cantrip village with conditional money, and gains without spending Buys. |
+| $5 | Lost City, Junk Dealer, Vault, Band of Misfits | Nonterminal draw and Actions, hand trashing, terminal draw and payload, and access to three cheaper Actions. |
+| $6 | Innovation, Project | Play one gained Action immediately per turn. Competes with Gold. |
+
+Each player starts with seven Coppers and three Estates. The natural splits are 4/3 and 5/2 in either order, before Borrow or an opponent’s Lost City gain changes a hand. The setup uses the standard basic piles and includes no Shelters, Heirlooms, Colony, Platinum, or extra piles. Provinces, Duchies, and Estates provide all positive VP. Curses are worth −1 VP and have no forced source here. Caravan and Lighthouse are the Durations. The starting Estate count matters at the end because both players may trash different numbers.
+
+## Engine
+
+Start with **Sentinel or Junk Dealer, a Villa, and one Lost City**. That gets thinning, extra Buys, and the first real draw online. One Tools begins paying off as soon as you can reliably play something worth copying, especially Lost City. Three Cities plus some help from Caravan, Harbor Village, or Vault can draw most of a thinned deck around turns 8–10. Four Cities and a little spare draw make full turns more repeatable. An opening hand full of Treasures, Tools, and Villas can still stall. Caravan’s next-turn card and Harbor Village’s immediate replacement draw help you find the first City, and a Villa gain can restart a stalled turn with Actions still in hand.
+
+A plausible **$16 turn** is two Villas for $2 and two extra Buys, Harbor Village into Junk Dealer for $2 between them, Lighthouse for $1, two Golds for $6, Silver for $2, and two spendable Coppers for $2. That is **$15 and three Buys** before Borrow. Keep a third Copper or another expendable card for Junk Dealer’s mandatory trash. A Tools gain of Villa can supply the last dollar and another Buy in place of Borrow. Four Lost Cities, Caravan, and a Vault can support a turn of this size. Vault also turns surplus Victory cards into money once you start scoring. Expect the first credible double Province around **turns 10–12**, with $13 for Province plus Duchy available sooner.
+
+### A worked build
+
+On a natural $4 then $3, buy Villa and Sentinel. One favorable turn 3 has both Actions and three Coppers. Play Villa into Sentinel, trash two Estates from the next five, and leave Coppers on top. Use Borrow to reach $5 for Junk Dealer. If the next four cards are Coppers, turn 4 buys Tools despite the smaller hand.
+
+On turn 5, Villa, Junk Dealer, and three Coppers after Junk Dealer’s draw make $5 for Lost City. Junk Dealer can trash the last Estate on that hand. Take Silver on a flat $3 turn 6. On turn 7, a hand that plays Lost City, Villa, and Junk Dealer and has three spendable Coppers makes $5. Tools copies the City in play and the Buy takes a third. A turn 8 with three Coppers and Silver can Borrow to Gold. On turn 9, three City plays can reach Villa, Junk Dealer, Gold, Silver, and a spendable Copper for **$8**, even from four starting cards. Sentinel can clear two more Coppers from the tail of the deck. Tools can take a fourth City while the two Buys add Harbor Village and Caravan, or buy points if the race calls for it.
+
+That is a favorable shuffle line without incoming Lost City draws. It shows why one good Tools play can pull the build forward by a turn and why the early Gold can matter more than Innovation.
+
+## Key interactions
+
+- **Tools and Lost City.** Play a City, then copy it with Tools for one extra $5 card without spending a Buy. From roughly turns 5–8 onward, this lets you take two Cities in a turn or take a City while buying something else. Each gain gives the opponent a card, including copies gained by Tools. Even so, taking the last copy can decide a mirror. Tools can also copy a Gold or Silver you have played, a Duration the opponent still has in play, or itself. [Plunder rulebook](https://www.riograndegames.com/wp-content/uploads/2022/08/DomPlunder.pdf)
+- **Tools and Villa.** With an actual Villa in play, Tools can gain a copy during the Treasure step. The gain puts it in hand and returns you to the Action phase with an extra Action. Playing the new Villa adds $1, a Buy, and room for more Actions. You can play fresh Treasures when you go back to the Buy phase. Buying a Villa also works as a restart and costs an effective $3 if you play it. [Empires rulebook](https://www.riograndegames.com/wp-content/uploads/2016/01/Dominion-Empires-Rules.pdf)
+- **Innovation and Tools.** With Innovation active, Tools can copy Lost City and immediately play it for two cards and two Actions. If you are still in the Treasure step, you can play newly drawn Treasures immediately. To use the Actions on cards in hand, gain a Villa with a second Tools or buy one. You can also save Innovation for a gained Vault to cash a full hand, or use it on Sentinel or Junk Dealer for immediate thinning. On a Villa gain, use Villa’s own trigger and play it from hand, saving Innovation for another gain. [Rio Grande Games rules on Innovation timing](https://www.riograndegames.com/wp-content/uploads/2022/03/Dominion-Rules-Renaissance.pdf)
+- **Borrow and a Villa restart.** Borrow is strongest when the coin crosses a threshold. With $3, for example, Borrow buys Villa, which can reopen Actions. A draw in the reopened phase can absorb the one-card penalty that turn. If you are ending the game, the penalty has no practical cost. Finish playing the Treasures you need before buying Borrow unless you have a Villa restart available. [Adventures rulebook](https://www.riograndegames.com/wp-content/uploads/2022/03/Dominion-Rules-Adventures.pdf)
+- **Sentinel, Harbor Village, and the secondary draw.** Sentinel is strongest just before a Lost City or Caravan draws the good cards you left on top. Junk Dealer draws first, then removes a dud from hand. Harbor Village earns an extra dollar when followed immediately by Junk Dealer, Villa, a freshly played Lighthouse, or a Vault that discards for money. Caravan is the best cheap draw supplement when the Cities are contested. Band of Misfits can play Villa, Harbor Village, or Sentinel from their nonempty piles. Tools sees the Band in play, while the card it played stays in the Supply. [Plunder rulebook](https://www.riograndegames.com/wp-content/uploads/2022/08/DomPlunder.pdf), [Dark Ages rulebook](https://www.riograndegames.com/wp-content/uploads/2022/03/Dominion-Rules-DarkAges.pdf)
+
+The local Glicko ratings put Villa and Sentinel at +5.8 and +4.5, in line with their opening value. Tools at +0.5 gains the most here because it can copy contested draw and turn Villa into a free restart. Vault at −2.9 is useful both as the money deck’s best terminal and as a late engine card that monetizes green hands. Band of Misfits at −2.2 stays a fallback. A real Villa or Harbor Village costs less, and Band cannot access the $5 Actions or the Durations on this board. [Local card ratings](/tmp/claude-1000/-home-imalison-projects-dominion-arena/f8629424-2e36-48be-8522-e621f2b4ebe7/scratchpad/sol-bench/sb/oc-2026-final-g5/context/card-ratings.md)
+
+## Plans considered
+
+| Plan | Race and requirements | Best response against it |
+|---|---|---|
+| **Lost City engine with Tools** | First $6 around turns 5–8 and first $8 around turns 7–9. Aim for one Tools and two or three Cities by then, then a fourth City or replacement draw. | Mirror and take Cities aggressively. The player who gets the first Tools–City turn can gain two Cities and put the other player on weaker draw. |
+| **Direct Lost City engine** | Similar early dollar thresholds. Buy Cities directly and put the $4 gains into Caravan and Harbor Village. This can get to $13 quickly when the draw is already in place. | Copy Cities with Tools while spending Buys on economy. The direct build can win if the Tools player gains too many zero-coin Treasures or spends the first $6 on a Project they can seldom use. |
+| **Big Money + Vault** | Open Vault/Lighthouse on a natural 5/2. Vault plus four Coppers can make $6 on turn 3, and a later Vault hand with Gold can reach $8 around turns 5–8. One Lost City is a reasonable addition if available. | Build through the early Province lead and score in batches. Money’s best chance is an early Province followed by Duchies and a pile threat while the engine is still spending on parts. Neither deck has attack plays. |
+
+**Challenge to the pick.** An early Innovation with two Tools has the highest upside. One Tools can copy and immediately play Lost City or Vault, and the other can copy Villa and reopen Actions. That can be the fastest build if you already have valuable targets and draw both Tools reliably. The cost is real when your first $6 buys the Project in a deck that still needs Gold, or when the second Tools arrives before you can draw past it. I would start with one Tools and move into the faster line when my draws and the remaining City count support it. The main way the recommended deck loses is by getting stuck on two Cities with a hand full of Tools, Villas, and Treasure while the opponent starts scoring.
+
+## Opening and buy priorities
+
+- **4/3 in either order** — **Villa on $4 and Sentinel on $3.** Villa gives the two opening Actions a productive collision and helps reach $5. If $4 is your second turn, Sentinel followed by Borrow into Junk Dealer is a viable faster-thinning line at the cost of a four-card turn 3.
+- **5/2 in either order** — **Junk Dealer on $5 and Lighthouse on $2.** Lighthouse helps fund the first City and offsets a Copper trash. On $2 second, Borrow into Sentinel is a reasonable alternative if you favor heavier thinning and can accept a shorter turn 3.
+- **First shuffle** — Clear Estates first and keep enough Copper to reach $5. Get the first Lost City and a Junk Dealer if you lack one and still have plenty to trash. Buy Tools once it has a credible target in the next shuffle. Silver is a good $3 bridge if it will materially improve your $5 turns.
+- **Second and third shuffles** — Contest Lost City, add Caravan or Harbor Village when the deck needs help starting, and add Gold when it can draw what it already owns. Keep one or two Villas for Buys. Take Innovation when it has immediate targets over the next few turns. In a mirror, taking a Province on an $8 hand is reasonable once pile pressure starts. Against money, build toward repeatable $13–16 if the opponent’s score and the piles give you the time.
+
+## Ending
+
+Watch **Lost City and Villa first**, with Caravan, Harbor Village, Tools, or Duchy as the likely third pile depending on what both players gain. Count the opponent’s Tools gains as well as their Buys, including the extra money and Buy from a Villa they can gain and play. Two nearly empty piles can make an otherwise routine Province buy unsafe. Against money, eight Provinces is the more likely ending. Against a mirror, keep a running VP count and look for a Province plus a pile-out in the same turn. At four Provinces each, Duchies, surviving Estates, and the fewer-turns tiebreak can decide the game.
+
+With three or more players, each Lost City gain helps more opponents, Cities are harder to secure, and cheap piles can disappear faster. I would contest usable draw sooner and take points earlier when the piles are low.
+
+**Least sure of:** The first $6 decision between Gold and Innovation. If you already have Tools, a City you can play regularly, and several Cities left in the Supply, Innovation can repay the tempo immediately. If your recent turns are reaching most of the deck and still making only $5–7, take Gold.
+
+**Assumed:** The supplied card text governs, including the once-per-turn choice of which Action to play with Innovation. Turn ranges are worked estimates from plausible draws and gains.

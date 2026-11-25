@@ -1,0 +1,58 @@
+## Horton 2019 Finals 1 — Kingdom analysis
+
+**I’d choose 4/3 and open Hermit plus Ferry on Old Witch.** Gain Old Witch with the first Hermit, buy Sewers on that turn if you can, and use Madman to get the first big Bridge turn. Then build for a steady one Province with occasional doubles. Two Bridges are enough to threaten the endgame. A larger stack needs more reliable Actions than this board usually supplies.
+
+### Board and setup
+
+| Cost | Kingdom piles |
+|---|---|
+| $3 | Hermit, Vassal |
+| $4 | Bridge, Caravan, Diplomat |
+| $5 | Old Witch, Outpost, Rogue, Treasure Trove |
+| $6 | Hireling |
+
+Sewers is a $3 Project, Ferry is a $3 Event, and Madman is a $0 non-Supply Action. The three Durations are Caravan, Hireling, and Outpost. Two players start with seven Coppers and three Estates each and may arrange them for 4/3 or 5/2 in either order. There are eight Provinces, ten Curses, and no Colonies, Platinum, or Shelters. The $2 opening hand has no development buy.
+
+Provinces, Duchies, and Estates supply all positive VP. Curses cost 1 VP each, and trashing a Curse recovers that point without adding a card. Old Witch is the main attack and the strongest repeatable draw. Bridge provides the only +Buy. Hermit gains without a Buy, and Sewers turns that same play into real Copper thinning. The limiting resource is **Actions on the turn you draw your payload**.
+
+### Engine and key interactions
+
+- **Ferry + Hermit + Sewers.** The tournament wording says, “when you discard it from play, if you didn't buy any cards this turn, trash it and gain a Madman.” Ferry makes Old Witch cost $3 for Hermit. You can gain the Witch, buy Sewers, and still convert the Hermit in Clean-up. Leave a Copper unplayed if you can pay for Sewers without it, then resolve Hermit’s discard while that Copper is still in hand. Once Sewers is active, a Hermit that finds an Estate or Curse and then converts can remove **up to three junk cards** across the Action phase and Clean-up. Gaining another Hermit on a later conversion keeps the Madmen coming. [Dark Ages rules](https://www.riograndegames.com/wp-content/uploads/2013/02/Dominion-Dark-Ages-Rules.pdf) · [Renaissance rules](https://www.riograndegames.com/wp-content/uploads/2018/08/Dominion-Renaissance-Rules.pdf) · [Adventures rules](https://www.riograndegames.com/wp-content/uploads/2015/01/Dominion-Adventures-Rules.pdf)
+- **Old Witch + Diplomat + Sewers.** React from five cards and start your turn with four. Playing Diplomat then draws back to five and leaves two Actions. If you can keep a Curse through the reaction, the opponent’s Witch lets you trash it, and Sewers can remove another card. The incoming Curse normally goes to the discard pile, so the one you trash has to be in hand already. At four cards, a sequence of **Diplomat → Bridge → Diplomat → Bridge → Old Witch** works if the draws connect. The first Bridge brings your hand back to four for the second Diplomat. A normal five-card hand makes Diplomat terminal when both draws succeed, and start-of-turn Duration draw can make the threshold harder to hit. [Intrigue rules](https://www.riograndegames.com/wp-content/uploads/2022/03/Dominion-Rules-Intrigue-2nd-Edition.pdf) · [Renaissance rules](https://www.riograndegames.com/wp-content/uploads/2018/08/Dominion-Renaissance-Rules.pdf)
+- **Bridge + Hermit.** One Bridge makes Diplomat, Caravan, or another Bridge a Hermit gain. Two unlock Duchy, Outpost, Rogue, and Treasure Trove. With Ferry on Hireling, one Bridge puts Hireling in range. Resolve the Bridges before Hermit when you need the discount. Two Bridges give three Buys and price Provinces at $6 each, so **$9 buys Province plus Duchy and $12 buys two Provinces**, counting the Bridges’ own $2. One Madman gives the three terminal slots for two Bridges and an Old Witch. [Intrigue rules](https://www.riograndegames.com/wp-content/uploads/2022/03/Dominion-Rules-Intrigue-2nd-Edition.pdf) · [Adventures rules](https://www.riograndegames.com/wp-content/uploads/2015/01/Dominion-Adventures-Rules.pdf)
+
+**A worked build.** With favorable shuffles and no incoming junk, turn 3 can be Hermit plus four Coppers. Gain Old Witch, buy Sewers with three Coppers, and trash the fourth at Clean-up. Turn 4 can buy a replacement Hermit with three Coppers. On turn 5, Madman draws four and Old Witch draws three, reaching all 12 cards. Play Hermit, trash two Estates through Sewers, gain Silver, and buy Bridge with the six remaining Coppers. Turn 6 can play Bridge with four Coppers and buy a second Bridge plus a Silver for $5. Turn 7 can trash the last Estate, gain a replacement Hermit, and convert again. On turn 8, Madman can connect both Bridges and Old Witch for **$12 and three Buys** from the Bridges, two Silvers, and six Coppers.
+
+That is a fast line. I’d budget **turns 8–11 for the first double Province** and expect partial draws or single Provinces between big turns. One Madman in a 12-card reshuffle appears in only 5 of 12 opening hands before extra draw. Two Diplomats in a fresh 14-card deck show up in about 60% of five-card hands, and the reaction route still needs an attack. Keep the deck compact and buy enough economy to score on the turns that miss.
+
+### Other cards and the ratings check
+
+| Card | Best use on this board |
+|---|---|
+| **Vassal** | $2 payload in a thin Action-heavy deck. It can play a Madman off the top and open the turn, or carry a Bridge or Witch along with its $2. Each blind play still risks discarding money or green. |
+| **Caravan** | Cheap with Bridge or Ferry and good for finding a Madman or Witch. The extra card next turn can turn off Diplomat’s village effect, so add it when finding pieces is the bigger problem. |
+| **Hireling** | One permanent draw is valuable in a thin deck, especially with Outpost. One Hireling makes the Outpost hand four cards before Actions, exactly right for Diplomat. Extra copies can push that hand past the threshold. |
+| **Outpost** | A midgame pickup once three- or four-card hands can do useful work. It can turn a Hermit conversion into a shot at drawing the Madman before the opponent acts, if Clean-up reaches a shuffle. Count the two turns together when planning a finish. |
+| **Treasure Trove** | Best in the money plan. Every play gains a Gold and a Copper, so one copy can build economy quickly. Repeated Copper gains work against the thinning plan and need more draw or Sewers triggers. |
+| **Rogue** | A tactical buy. It must reclaim an eligible card if one is in the trash, and converted $3 Hermits often give it a target. One Bridge makes those Hermits ineligible. Two Bridges make Provinces eligible to trash or reclaim. Check the shared trash and the order of play. [Dark Ages rules](https://www.riograndegames.com/wp-content/uploads/2013/02/Dominion-Dark-Ages-Rules.pdf) |
+
+Sewers (+0.7) and Diplomat (−1.0) do more here than their community ratings suggest. Historical Hermit supplies the extra Sewers trigger, and a Witch mirror regularly gives Diplomat a chance to act as a village. Bridge (+4.1) earns its rating once you can play two together. Hireling (−1.5) has a specific role with Outpost, while Rogue (−3.3) is worth reconsidering when the trash or remaining VP makes a particular play valuable. [Repository card ratings](/tmp/claude-1000/-home-imalison-projects-dominion-arena/f8629424-2e36-48be-8522-e621f2b4ebe7/scratchpad/sol-bench/sb/horton-2019-09-finals1/context/card-ratings.md)
+
+### Plans and matchups
+
+| Plan | What it needs and how it fares |
+|---|---|
+| **Hermit–Sewers with two Bridges — pick** | One early Witch, one working Hermit, two Bridges, and Madman or Diplomat access. The worked line hits $6 on turn 5 and $8 or more on turn 8. An opening Witch player can score first, but the thin deck can clear junk and catch up by taking two green cards in a turn. A mirror contests Bridges and Diplomats and can end on three piles before a bigger build pays off. |
+| **Big Money + Old Witch — runner-up** | Open Witch on 5/2, take a Gold at $6 or a single Trove on an early $5, and add a second Witch if the Curse race is still live. An opening Witch hand sees seven starter cards when it draws fully, so it produces $4–$7. First $6 is plausible on turns 3–5 and first $8 on turns 5–8 after adding Treasure. Two Witches in a 15-card deck appear in about 57% of fresh five-card hands. This is the best pressure against a slow build. Against the recommended deck, it needs to bank Provinces or threaten a pile-out before the Bridge doubles start. |
+| **Three-plus Bridges with Hireling and Outpost — higher ceiling** | Three Bridges and $15 buy three Provinces. Four Bridges and $16 buy four. Ferry plus Hermit can accelerate Hireling or Outpost, and Outpost with one Hireling gives Diplomat its four-card opening. The hard part is assembling three or four Bridges **and** playing them alongside draw. A single Madman pays for three terminals total. Against early Provinces or a contested Bridge pile, I’d take the two-Bridge scoring line as soon as it comes together. |
+
+### Openings, buys, and ending
+
+- **4/3 — Ferry on Old Witch and Hermit.** On the first Hermit play, gain Witch. Buy Sewers on that turn if you have $3, then convert. If the other hand comes first and can afford Sewers, buy it then. Replace the Hermit promptly. If the opponent already has Witch, Hermit can catch the incoming Curse in the discard pile.
+- **5/2 — Old Witch and pass.** This is the faster attack opening, especially from first seat. Use the first shuffle to add Hermit and Sewers, then decide whether Ferry will repay a Buy. Put it on Old Witch if you still want copies or on Diplomat if Actions have become the bottleneck.
+- **Next two shuffles.** Aim for one or two Witches, two Bridges, and enough Silver or Gold to keep paying after Copper thinning. Add the first Diplomat early against repeated attacks, and add a second once you can use the extra Action. Convert Hermits on turns when the gain already advances the deck. Start greening when you can repeat $8 or see a credible two-green turn. Keep enough Copper to meet those thresholds until better money replaces it.
+- **Ending.** Provinces are the normal finish. In a mirror, track **Curses plus Bridge, Diplomat, or Hermit**. Duchies or Estates can also become the third pile because Bridge discounts them and Hermit can gain them without a Buy. Count the opponent’s remaining gains and any Outpost turn before leaving a pile within reach. With more players, increased junk and competition for Bridge and Diplomat favor earlier scoring.
+
+**How the pick loses.** An early Witch money deck can bank three or four Provinces while your Madman misses and your Bridges collide. The larger build can beat you if it gets a cheap Hireling, establishes Outpost, and secures the Bridge split before you contest it. The closest call is **4/3 Ferry–Hermit versus 5/2 Witch–pass in first seat**. The deciding question is whether the 4/3 player gets Sewers and the replacement Hermit into the next shuffle often enough to offset the first Curse and the money player’s head start.
+
+**Assumptions.** I used the tournament Hermit wording in the setup at the top of the kingdom file. The turn ranges are estimates, and the worked line illustrates what the opening can produce with favorable draws. [Kingdom setup and card text](/tmp/claude-1000/-home-imalison-projects-dominion-arena/f8629424-2e36-48be-8522-e621f2b4ebe7/scratchpad/sol-bench/sb/horton-2019-09-finals1/kingdoms/horton-2019-09-finals1.md)
