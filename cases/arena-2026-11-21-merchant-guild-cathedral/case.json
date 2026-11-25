@@ -8,7 +8,7 @@
     {"url": "https://github.com/colonelpanic8/dominion-agent-review/tree/master/experiments/2026-11-24-neon-insight-selfplay", "kind": "experiment", "author": "dominion-agent-review", "note": "Neon vs Neon on this kingdom, one seat told the Merchant Guild insight"}
   ],
   "quality": "B",
-  "quality_note": "One human game showed the line decisively (55 Coffers into seven Provinces in one turn), and agent-vs-agent games confirmed it: the seat told to build Merchant Guild with Cursed Village won 46-14 and led its second game 45-30 at turn 13.",
+  "quality_note": "One human game showed the line decisively (55 Coffers into seven Provinces in one turn), and agent-vs-agent games confirmed it: the seat told to build Merchant Guild with Cursed Village won both seed-1 games, 46-14 and 56-50.",
   "kingdom": {
     "cards": ["Merchant Guild", "Cardinal", "Crown", "Scepter", "Emissary", "Vampire", "Market", "Margrave", "Collection", "Cursed Village"],
     "landscapes": ["Cathedral", "Way of the Monkey", "Market Towns"],
