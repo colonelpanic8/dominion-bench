@@ -34,6 +34,7 @@ result.
 | Making Luck podcast | `makingluck-*` | Transcribed with whisper; many boards were played between episodes |
 | r/dominion Kingdom of the Week | `kotw-*` | Threads via the Arctic Shift archive, 2021–2025 |
 | Dominion Strategy blog | `ds-*` | Annotated games (2011–12) and kingdom articles |
+| AI agents' losses on dominion.games | `arena-*` | Kingdoms an agent misread, where a human opponent showed the better plan and agent-vs-agent games with and without the insight confirmed it; reviewed in [dominion-agent-review](https://github.com/colonelpanic8/dominion-agent-review) |
 
 ## Case IDs
 
@@ -70,7 +71,7 @@ result.
 ```
 
 - `source_type`: `designed-tournament`, `blog-analysis`, `annotated-game`,
-  `reddit-kotw`, `commentated-match`, `podcast` or `forum`.
+  `reddit-kotw`, `commentated-match`, `podcast`, `forum` or `agent-game`.
 - `kingdom.cards`: the 10 Kingdom piles, named as dominion-engine names a
   card or pile (`Catapult`, `Castles`, `Knights`, `Augurs`). A different
   count needs `kingdom.card_count_note`.

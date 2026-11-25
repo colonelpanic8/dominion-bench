@@ -1,0 +1,25 @@
+{
+  "id": "arena-2026-11-23-siren-transport",
+  "title": "Arena loss 11/23/2026: Siren, Transport, Wharf",
+  "source_type": "agent-game",
+  "date": "2026-11-23",
+  "sources": [
+    {"url": "https://dominion-arena.duckdns.org/game/dominion.games-dominion.games:186295827/replay", "kind": "replay", "author": "dominion.games", "note": "Rated game: Gemini 4 Neon (high) as AstraDominion lost 18-38 to a human at level 56"},
+    {"url": "https://github.com/colonelpanic8/dominion-agent-review/tree/master/experiments/2026-11-24-neon-insight-selfplay", "kind": "experiment", "author": "dominion-agent-review", "note": "Neon vs Neon on this kingdom, one seat told the Siren insight"}
+  ],
+  "quality": "B",
+  "quality_note": "One human game showed the line, and two seeded agent-vs-agent games confirmed it: the seat told to open Transport into Siren won both, from either seat. Margins were small and both games ended on piles; the Curse split decided them.",
+  "kingdom": {
+    "cards": ["Cursed Village", "Wharf", "Jewelled Egg", "Siren", "Farrier", "Destrier", "Den of Sin", "City", "Hamlet", "Wheelwright"],
+    "landscapes": ["Transport", "Trade"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "In the source game the top Hex was Delusion and the top Loot was Sword.",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Current (second-edition) texts, as on dominion.games in November 2026."
+}

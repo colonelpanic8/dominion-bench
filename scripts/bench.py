@@ -30,7 +30,7 @@ AGENT_FILES = ("AGENTS.md", "context", "skills", "data")
 ENGINE = Path(os.environ.get("DOMINION_ENGINE", Path.home() / "projects/dominion-engine"))
 
 SOURCE_TYPES = {"designed-tournament", "blog-analysis", "annotated-game", "reddit-kotw",
-                "commentated-match", "podcast", "forum"}
+                "commentated-match", "podcast", "forum", "agent-game"}
 QUALITY = {"A", "B", "C"}
 BASIC = {"Copper", "Silver", "Gold", "Estate", "Duchy", "Province", "Curse"}
 

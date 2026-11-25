@@ -1,0 +1,25 @@
+{
+  "id": "arena-2026-11-21-merchant-guild-cathedral",
+  "title": "Arena loss 11/21/2026: Merchant Guild, Cathedral, Cursed Village",
+  "source_type": "agent-game",
+  "date": "2026-11-21",
+  "sources": [
+    {"url": "https://dominion-arena.duckdns.org/game/dominion.games-dominion.games:186232522/replay", "kind": "replay", "author": "dominion.games", "note": "Rated game: Gemini 4 Neon (high) as AstraDominion lost 16-68 to a human at level 57"},
+    {"url": "https://github.com/colonelpanic8/dominion-agent-review/tree/master/experiments/2026-11-24-neon-insight-selfplay", "kind": "experiment", "author": "dominion-agent-review", "note": "Neon vs Neon on this kingdom, one seat told the Merchant Guild insight"}
+  ],
+  "quality": "B",
+  "quality_note": "One human game showed the line decisively (55 Coffers into seven Provinces in one turn), and agent-vs-agent games confirmed it: the seat told to build Merchant Guild with Cursed Village won 46-14 and led its second game 45-30 at turn 13.",
+  "kingdom": {
+    "cards": ["Merchant Guild", "Cardinal", "Crown", "Scepter", "Emissary", "Vampire", "Market", "Margrave", "Collection", "Cursed Village"],
+    "landscapes": ["Cathedral", "Way of the Monkey", "Market Towns"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Current (second-edition) texts, as on dominion.games in November 2026."
+}
