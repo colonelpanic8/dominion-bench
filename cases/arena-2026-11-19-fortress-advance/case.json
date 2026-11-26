@@ -1,0 +1,28 @@
+{
+  "id": "arena-2026-11-19-fortress-advance",
+  "title": "Arena loss 11/19/2026: Fortress, Advance, Villa, Cavalry",
+  "source_type": "agent-game",
+  "date": "2026-11-19",
+  "sources": [
+    {"url": "https://dominion-arena.duckdns.org/game/g340/replay", "kind": "replay", "author": "dominion-arena", "note": "Arena mirror pair, game 1: Opus 5.5 (high) beat GPT-6.2 Sol (high) 26-12 with Sol moving first"},
+    {"url": "https://dominion-arena.duckdns.org/game/g339/replay", "kind": "replay", "author": "dominion-arena", "note": "Arena mirror pair, game 2: Opus 5.5 beat Sol 17-4 with Opus moving first"},
+    {"url": "https://github.com/colonelpanic8/dominion-agent-review/tree/master/experiments/2026-11-25-loser-model-selfplay", "kind": "experiment", "author": "dominion-agent-review", "note": "Sol vs Sol on this kingdom, seeds 1-3 in both seat orders, one seat told the Fortress/Advance insight: the told seat won 5 of 6"}
+  ],
+  "quality": "B",
+  "quality_note": "One agent mirror pair showed the line from both seats, and six seeded Sol-vs-Sol games confirmed it: the told seat won five, three of three moving first and two of three moving second. The one loss (8-9) was a told seat that emptied three piles without scoring.",
+  "misread_by": ["gpt-6.2-sol"],
+  "validated_with": {"agent": "gpt-6.2-sol", "games": 6, "told_wins": 5},
+  "kingdom": {
+    "cards": ["Lurker", "Bridge", "Cavalry", "Fortress", "Groom", "Mill", "Remodel", "Villa", "Highway", "Hunting Grounds"],
+    "landscapes": ["Advance", "Stampede"],
+    "traits": {},
+    "bane": null,
+    "colonies": false,
+    "shelters": false,
+    "players": 2,
+    "setup_notes": "",
+    "extra_cards": []
+  },
+  "kingdom_confidence": "exact",
+  "edition": "Current (second-edition) texts, as on dominion.games in November 2026."
+}
